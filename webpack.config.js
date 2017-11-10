@@ -9,7 +9,7 @@ module.exports = {
   context: path.join(__dirname, 'src'),
   devtool: "hidden-source-map",
   entry: [
-    'whatwg-fetch', './index.js', './style/style.scss'
+    './index.js', './style/style.scss'
   ],
   module: {
     noParse: /node_modules\/mapbox-gl\/dist\/mapbox-gl.js/,
