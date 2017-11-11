@@ -1,4 +1,4 @@
-var figure = {
+var bike_figure = {
     "frames": [], 
     "layout": {
         "autosize": true, 
@@ -13,8 +13,12 @@ var figure = {
                 3136.6111111111113
             ], 
             "type": "linear", 
-            "autorange": true
+            "autorange": true, 
+            "title": "Weseler Straße  Stadteinwärts"
         }, 
+
+        "paper_bgcolor": "rgb(238, 73, 40)", 
+        "plot_bgcolor": "rgb(238, 73, 40)", 
         "dragmode": "pan", 
         "scene": {
             "aspectratio": {
@@ -24,14 +28,15 @@ var figure = {
             }, 
             "aspectmode": "auto"
         }, 
+        "titlefont": {
+            "color": "rgb(255, 255, 255)"
+        }, 
         "breakpoints": [], 
         "xaxis": {
             "range": [
                 0, 
                 469
             ], 
-            "type": "category", 
-            "autorange": false, 
             "rangeslider": {
                 "visible": true, 
                 "range": [
@@ -39,15 +44,22 @@ var figure = {
                     469
                 ], 
                 "autorange": true
-            }
+            }, 
+            "type": "category", 
+            "autorange": true, 
+            "title": "Datum"
         }, 
-        "hovermode": "closest"
+        "title": "Weseler Straße Stadteinwärts", 
+        "hovermode": "closest",
+        "font": {
+            "color": "rgb(255, 255, 255)"
+        }
     }, 
     "data": [
         {
             "zmax": 1, 
             "xtype": "array", 
-            "name": "Weseler StraÃe  stadteinwÃ¤rts", 
+            "name": "Weseler Straße  Stadteinwärts", 
             "ysrc": "havixbeck17:4:e202f0", 
             "zmin": 0, 
             "xsrc": "havixbeck17:4:8390bc", 
@@ -1002,6 +1014,9 @@ var figure = {
                 "24/10/2017", 
                 "25/10/2017"
             ], 
+            "line": {
+                "color": "rgb(0, 37, 61)"
+            }, 
             "ybins": {
                 "start": -0.5, 
                 "end": 24999.5, 
