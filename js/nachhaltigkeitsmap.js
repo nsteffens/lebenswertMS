@@ -36,8 +36,6 @@ $.getJSON('/data/nachhaltigkeit.json', (data) => {
         sust_ms_collection.features.push(element.features[0]);
     });
 
-
-
     let sustainabilityLayer = L.geoJSON(sust_ms_collection, {
         pointToLayer: function (feature, latlng) {
             return L.marker(latlng, {
