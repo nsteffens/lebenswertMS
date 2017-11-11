@@ -28,6 +28,6 @@ Plotly.plot(gd, {
     config: {
         "mapboxAccessToken": "pk.eyJ1IjoiY2hyaWRkeXAiLCJhIjoiY2lxMnVvdm5iMDA4dnhsbTQ5aHJzcGs0MyJ9.X9o_rzNLNesDxdra4neC_A",
         "linkText": "Export to plot.ly",
-        "showLink": true
+        "showLink": false
     }
 });
