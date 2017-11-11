@@ -12,3 +12,7 @@
 .text-dark {
     color: #212529 !important;
 }
+
+.drag.nsewdrag.cursor-ew-resize{
+    fill: #f06041 !important;
+}

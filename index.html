@@ -110,6 +110,15 @@
     </div>
   </section>
 
+  <!-- spielplaetze -->
+  <section class="bg-primary" id="spielplaetze">
+      <div class="container text-center">
+        <h1 class="text-uppercase">Spielplätze</h1>
+        <p class="text-muted">Lorem ipsum</p>
+        <div id="spielplaetze_map" class="map" style="width: 100%; height: 500px;"></div>
+      </div>
+    </section>
+
   <!-- Fahrrad-Graph -->
   <section id="bikes" style="padding-top: 0;" class="bg-primary">
     <div class="container text-center">
@@ -121,7 +130,7 @@
 
   <section id="buergerbeteiligung">
     <div class="container text-center">
-      <h1 class="text-uppercase">Bürgerbeteiligung</h1>
+      <h1 class="text-uppercase">Bürger&shy;beteiligung</h1>
       <h3 class="text-muted mb-0">Nimm am Leben teil und gestalte
         <strong>deine Stadt</strong>!</h3>
       <div id="7a890b6b-d03f-489b-8f5c-8145ff162db9" style="width: 100%; height: 100%;" class="plotly-graph-div"></div>
@@ -319,6 +328,11 @@
   <script src="js/traffic.js"></script>
   <script src="js/bikes.js"></script>
   <script src="js/nachhaltigkeitsmap.js"></script>
+
+  <script src="vendor/geotiff/geotiff.browserify.min.js"></script>
+  <script src="vendor/geotiff/plotty.min.js"></script>
+  <script src="vendor/geotiff/leaflet-geotiff.js"></script>
+  <script src="js/spielplaetze.js"></script>
 
 
 
