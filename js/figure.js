@@ -16,9 +16,8 @@ var bike_figure = {
             "autorange": true, 
             "title": "Weseler Straße  Stadteinwärts"
         }, 
-
-        "paper_bgcolor": "rgb(238, 73, 40)", 
-        "plot_bgcolor": "rgb(238, 73, 40)", 
+        "paper_bgcolor": "rgb(240, 95, 64)", 
+        "plot_bgcolor": "rgb(240, 95, 64)", 
         "dragmode": "pan", 
         "scene": {
             "aspectratio": {
@@ -1015,7 +1014,7 @@ var bike_figure = {
                 "25/10/2017"
             ], 
             "line": {
-                "color": "rgb(0, 37, 61)"
+                "color": "rgb(33, 37, 41)"
             }, 
             "ybins": {
                 "start": -0.5, 
