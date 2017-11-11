@@ -4,8 +4,8 @@
 
 let sust_ms;
 
-var monumentIcon = L.icon({
-    iconUrl: './../img/monument_icon3.png',
+var sustainabilityIcon = L.icon({
+    iconUrl: './../img/sustainability_icon.png',
 
     iconSize: [38, 38], // size of the icon
     iconAnchor: [19, 19], // point of the icon which will correspond to marker's location
@@ -39,7 +39,7 @@ $.getJSON('/data/nachhaltigkeit.json', (data) => {
     let sustainabilityLayer = L.geoJSON(sust_ms_collection, {
         pointToLayer: function (feature, latlng) {
             return L.marker(latlng, {
-                icon: monumentIcon
+                icon: sustainabilityIcon
             })
         },
         onEachFeature: function (feature, layer) {
