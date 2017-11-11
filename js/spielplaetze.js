@@ -9,7 +9,7 @@ const basemap = L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.pn
     accessToken: accessToken
 }).addTo(spielplaetze_map);
 
-plotty.addColorScale("redtogreen", ["#FF0000", "#FFFF00", "#00FF00"], [0, 0.5, 1]);
+plotty.addColorScale("redtogreen", ["#FF0000", "#FFFF00", "#00FF00"], [0, 0.05, 1]);
 
 
 var geotiff_layer = L.leafletGeotiff('./../data/spielplaetze/spielplaetze_neu.tif', {
@@ -17,6 +17,24 @@ var geotiff_layer = L.leafletGeotiff('./../data/spielplaetze/spielplaetze_neu.ti
     displayMax: 0.025,
     colorScale: 'redtogreen'
 }).addTo(spielplaetze_map);
+
+var spielplatzIcon = L.icon({
+    iconUrl: './../img/spielplatz_icon.png',
+
+    iconSize:     [20, 20], // size of the icon
+    iconAnchor:   [10, 10], // point of the icon which will correspond to marker's location
+});
+
+$.getJSON('/data/spielplaetze/spielplaetze_reproj.json', (data) => {
+    console.log(data)
+    L.geoJSON(data, {
+        pointToLayer: function(feature, latlng) {
+          return L.marker(latlng, {icon: spielplatzIcon})
+        }, onEachFeature: function (feature, layer) {
+            layer.bindPopup(feature.properties.Name);
+          }
+        }).addTo(spielplaetze_map);
+});
 
 geotiff_layer.setOpacity(0.5)
 
