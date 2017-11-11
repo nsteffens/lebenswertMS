@@ -1013,16 +1013,9 @@ var bike_figure = {
                 "23/10/2017", 
                 "24/10/2017", 
                 "25/10/2017"
-<<<<<<< HEAD
-            ],
-            "line":{
-                "dash": "solid",
-                "color": "rgba(238, 73, 40, 0.808)",
-=======
             ], 
             "line": {
                 "color": "rgb(0, 37, 61)"
->>>>>>> bbe46d0b762eaf4fff993a5e53ee001a88f82187
             }, 
             "ybins": {
                 "start": -0.5, 
