@@ -46,7 +46,8 @@ var bike_figure = {
             }, 
             "type": "category", 
             "autorange": true, 
-            "title": "Datum"
+            "title": "Datum",
+            "nticks": 12
         }, 
         "title": "Weseler Straße Stadteinwärts", 
         "hovermode": "closest",
