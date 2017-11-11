@@ -1,0 +1,7133 @@
+{
+  "type": "FeatureCollection",
+  "name": "spielplaetze",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 754,
+        "Name": "SP FICHTENWEG",
+        "Groesse": 2069,
+        "Bereich": "A",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "ja",
+        "Rechtswert": 3407670,
+        "Hochwert": 5753819
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.65720240926348,
+          51.91066838884213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 755,
+        "Name": "SP PESTALOZZISTRASSE",
+        "Groesse": 1060,
+        "Bereich": "B/C",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3404112,
+        "Hochwert": 5763870
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.602708472792953,
+          52.000373109285846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 756,
+        "Name": "SP GALGENHEIDE",
+        "Groesse": 472,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3403618,
+        "Hochwert": 5755581
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5978437419629765,
+          51.925813199309495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 757,
+        "Name": "SP FRANKENWEG",
+        "Groesse": 1231,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3408824,
+        "Hochwert": 5754826
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.673700980571048,
+          51.919906471075954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 758,
+        "Name": "SP AM PASTORENBUSCH",
+        "Groesse": 3185,
+        "Bereich": "A",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "ja",
+        "Rechtswert": 3401082,
+        "Hochwert": 5762924
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.558875951708154,
+          51.99134220632739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 759,
+        "Name": "SP AM PASTORENBUSCH",
+        "Groesse": 3185,
+        "Bereich": "A",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "ja",
+        "Rechtswert": 3401082,
+        "Hochwert": 5762924
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.558875951708154,
+          51.99134220632739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 760,
+        "Name": "SP AM PASTORENBUSCH",
+        "Groesse": 3185,
+        "Bereich": "A",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "ja",
+        "Rechtswert": 3401082,
+        "Hochwert": 5762924
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.558875951708154,
+          51.99134220632739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 761,
+        "Name": "SP UFERSTRASSE",
+        "Groesse": 444,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3410990,
+        "Hochwert": 5754464
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.705268775776742,
+          51.91700430885802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 762,
+        "Name": "SP AM STEINTOR",
+        "Groesse": 450,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3412657,
+        "Hochwert": 5754266
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.729540908136458,
+          51.91548919778302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 763,
+        "Name": "SP LIBORISTRASSE",
+        "Groesse": 1290,
+        "Bereich": "C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3407482,
+        "Hochwert": 5758648
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6531726164533405,
+          51.95402569100108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 764,
+        "Name": "SP KIRCHHOFFWEG",
+        "Groesse": 600,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3403721,
+        "Hochwert": 5762677
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.59735195272499,
+          51.989586725860974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 765,
+        "Name": "SP AM HOF HESSELMANN",
+        "Groesse": 1494,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3402251,
+        "Hochwert": 5756247
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.577789013911926,
+          51.93155866940896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 766,
+        "Name": "SP RUBENSSTRASSE",
+        "Groesse": 425,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3408900,
+        "Hochwert": 5752849
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6753281755025355,
+          51.90215537521207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 767,
+        "Name": "SP ALTE SCHANZE",
+        "Groesse": 1030,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3403231,
+        "Hochwert": 5763829
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.589895836696235,
+          51.99985189093548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 768,
+        "Name": "SP KLEIHORSTSTRASSE   (BALLSPIELPLATZ)",
+        "Groesse": 1151,
+        "Bereich": "A+B/C",
+        "Ball": 1,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3403790,
+        "Hochwert": 5757007
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.59994455242337,
+          51.93865525330554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 769,
+        "Name": "SP ELISABETH-KIRCHPLATZ",
+        "Groesse": 886,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3406675,
+        "Hochwert": 5758738
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.641412996546072,
+          51.95469949409942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 770,
+        "Name": "SP AASEE: MECKLENBECKER STRASSE",
+        "Groesse": 866,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3403962,
+        "Hochwert": 5757922
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.602189270114262,
+          51.946906035911645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 771,
+        "Name": "SP AASEE: MECKLENBECKER STRASSE",
+        "Groesse": 866,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3403962,
+        "Hochwert": 5757922
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.602189270114262,
+          51.946906035911645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 772,
+        "Name": "SP VON-OSSIETZKY-STRASSE",
+        "Groesse": 1790,
+        "Bereich": "A+B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3403876,
+        "Hochwert": 5757413
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.601081208507144,
+          51.9423179348522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 773,
+        "Name": "SP AM HAUPTZENTRUM KINDERHAUS",
+        "Groesse": 800,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3404283,
+        "Hochwert": 5763249
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.605371054494395,
+          51.99482311383775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 774,
+        "Name": "SP BIEDERLACKWEG",
+        "Groesse": 660,
+        "Bereich": "B/C",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "ja",
+        "Rechtswert": 3407964,
+        "Hochwert": 5756314
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.660806553683439,
+          51.93313469414675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 775,
+        "Name": "SP GESCHERWEG - WEST",
+        "Groesse": 820,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3402048,
+        "Hochwert": 5761005
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.573482426834581,
+          51.974271956614146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 776,
+        "Name": "SP GESCHERWEG - WEST",
+        "Groesse": 820,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3402048,
+        "Hochwert": 5761005
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.573482426834581,
+          51.974271956614146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 777,
+        "Name": "SP AASEEMARKT, GOERDELERSTRASSE",
+        "Groesse": 1500,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3404322,
+        "Hochwert": 5757750
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.607471251552672,
+          51.94542268644903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 778,
+        "Name": "SP AASEEMARKT, GOERDELERSTRASSE",
+        "Groesse": 1500,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3404322,
+        "Hochwert": 5757750
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.607471251552672,
+          51.94542268644903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 779,
+        "Name": "SP LEGDENWEG-OST",
+        "Groesse": 1480,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3401704,
+        "Hochwert": 5761374
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.568372288939472,
+          51.977526535260836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 780,
+        "Name": "SP MINDENER STRASSE",
+        "Groesse": 1004,
+        "Bereich": "B/C",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "ja",
+        "Rechtswert": 3407167,
+        "Hochwert": 5758945
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.648511715488622,
+          51.95664172265638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 781,
+        "Name": "SP ALBERT-SCHWEITZER-SCHULE",
+        "Groesse": 430,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "ja",
+        "Rechtswert": 3407759,
+        "Hochwert": 5759212
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.657049271436682,
+          51.95913922236667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 782,
+        "Name": "SP RIGAWEG",
+        "Groesse": 1719,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3404463,
+        "Hochwert": 5761082
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.608594481040349,
+          51.97538418973987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 783,
+        "Name": "SP THOMAS-MORUS-SCHULE",
+        "Groesse": 517,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "Balltrichter",
+        "Rechtswert": 3406955,
+        "Hochwert": 5760927
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.644891637857692,
+          51.97441436865703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 784,
+        "Name": "SP SAMLANDUFER",
+        "Groesse": 2659,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3407955,
+        "Hochwert": 5762966
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.658892904095394,
+          51.992901166951214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 785,
+        "Name": "SP SAMLANDUFER",
+        "Groesse": 2659,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3407955,
+        "Hochwert": 5762966
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.658892904095394,
+          51.992901166951214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 786,
+        "Name": "SP IDASCHULE, VÖRNSTE ESCH",
+        "Groesse": 679,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3408782,
+        "Hochwert": 5756203
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.672725724937032,
+          51.93227202728478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 787,
+        "Name": "SP SANKT-JOSEF-KIRCHPLATZ",
+        "Bereich": "",
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3405662,
+        "Hochwert": 5758167
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.626838834795389,
+          51.94939822346111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 788,
+        "Name": "SP ALBACHTENER STRASSE",
+        "Groesse": 2430,
+        "Bereich": "A+B/C",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3398557,
+        "Hochwert": 5755702
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.524261862802499,
+          51.92600114987583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 789,
+        "Name": "SP BODELSCHWINGHSTRASSE",
+        "Groesse": 1012,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3406943,
+        "Hochwert": 5753505
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.646725548793344,
+          51.90772611404495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 790,
+        "Name": "SP BOELESTRASSE",
+        "Groesse": 3300,
+        "Bereich": "A",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3410111,
+        "Hochwert": 5754479
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.692492929688547,
+          51.91699788707686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 791,
+        "Name": "SP LANGE KUHLE",
+        "Groesse": 4349,
+        "Bereich": "A",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "ja",
+        "Rechtswert": 3404488,
+        "Hochwert": 5750943
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.611772421194612,
+          51.884291325580094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 640,
+        "Name": "SP HOPPENGARTEN-SÜD",
+        "Groesse": 2965,
+        "Bereich": "A",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3407336,
+        "Hochwert": 5760933
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6504329443712695,
+          51.97453193865577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 641,
+        "Name": "SP AM HORNBACH",
+        "Groesse": 2666,
+        "Bereich": "A",
+        "Ball": 2,
+        "Skater": "ja",
+        "Streetball": "ja",
+        "Rechtswert": 3411970,
+        "Hochwert": 5763979
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.717069781964903,
+          52.002654048635655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 642,
+        "Name": "SP VOGELROHRSHEIDE",
+        "Groesse": 1995,
+        "Bereich": "B/C",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "ja",
+        "Rechtswert": 3409391,
+        "Hochwert": 5754516
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.682021591354407,
+          51.91721364551904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 643,
+        "Name": "SP KUPFERBRINK",
+        "Groesse": 1077,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3411926,
+        "Hochwert": 5755060
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.718716566461815,
+          51.92250834346728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 644,
+        "Name": "SP BENTELERSTRASSE",
+        "Groesse": 777,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3403361,
+        "Hochwert": 5760899
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.592613726791514,
+          51.973549448443094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 645,
+        "Name": "SP HÄGER",
+        "Groesse": 1038,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3401380,
+        "Hochwert": 5766133
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.562289103625256,
+          52.02022654429204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 646,
+        "Name": "SP MEMMERTWEG-NORD",
+        "Groesse": 1137,
+        "Bereich": "A",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3405170,
+        "Hochwert": 5763507
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.618209763407499,
+          51.997293356520935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 647,
+        "Name": "SP MEMMERTWEG-NORD",
+        "Groesse": 1137,
+        "Bereich": "A",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3405170,
+        "Hochwert": 5763507
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.618209763407499,
+          51.997293356520935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 648,
+        "Name": "SP AM KALVARIENBERG",
+        "Groesse": 816,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3406863,
+        "Hochwert": 5753048
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.645686927872576,
+          51.903606600573646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 649,
+        "Name": "SP CANISIUSWEG",
+        "Groesse": 981,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3403703,
+        "Hochwert": 5757166
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.598635358386967,
+          51.940068782343275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 650,
+        "Name": "SP NISINGHOVERWEG",
+        "Groesse": 537,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3405626,
+        "Hochwert": 5753337
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.627639902283659,
+          51.90599508234708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 651,
+        "Name": "SP STAUFENSTRASSE",
+        "Groesse": 473,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3406851,
+        "Hochwert": 5759913
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.643653744156684,
+          51.96528626717686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 652,
+        "Name": "SP DAHLWEG",
+        "Groesse": 4474,
+        "Bereich": "A+B/C",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3405604,
+        "Hochwert": 5757500
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.626178657758479,
+          51.94339548101265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 653,
+        "Name": "SP SEPPENRADEWEG",
+        "Groesse": 719,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3404029,
+        "Hochwert": 5756065
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6036815699469384,
+          51.93023284908189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 654,
+        "Name": "SP AM BURLOH",
+        "Groesse": 750,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3404328,
+        "Hochwert": 5763165
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.606049458913464,
+          51.9940761524281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 655,
+        "Name": "SP GIEVENBACHTAL",
+        "Groesse": 1237,
+        "Bereich": "A+B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3401833,
+        "Hochwert": 5760705
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5704404389626525,
+          51.97153863905474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 656,
+        "Name": "SP GIEVENBACHTAL",
+        "Groesse": 1237,
+        "Bereich": "A+B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3401833,
+        "Hochwert": 5760705
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5704404389626525,
+          51.97153863905474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 657,
+        "Name": "SP GRÜNER GRUND",
+        "Groesse": 2199,
+        "Bereich": "B/C",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3404754,
+        "Hochwert": 5757251
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.613890222036711,
+          51.94101339176404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 658,
+        "Name": "SP GRÜNER GRUND",
+        "Groesse": 2199,
+        "Bereich": "B/C",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3404754,
+        "Hochwert": 5757251
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.613890222036711,
+          51.94101339176404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 659,
+        "Name": "SP MEYERBEERSTRASSE",
+        "Groesse": 1500,
+        "Bereich": "A",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "ja",
+        "Rechtswert": 3402388,
+        "Hochwert": 5755726
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.579927964171518,
+          51.92690167806751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 660,
+        "Name": "SP GRÜNER FINGER",
+        "Groesse": 233,
+        "Bereich": "A",
+        "Ball": 0,
+        "Skater": "ja",
+        "Streetball": "ja",
+        "Rechtswert": 3401821,
+        "Hochwert": 5760011
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.570464323897507,
+          51.96530119772818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 661,
+        "Name": "SP LINDENBREIE",
+        "Groesse": 1700,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3401604,
+        "Hochwert": 5759322
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.567505460280123,
+          51.95907243538273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 662,
+        "Name": "SP GRÜNER GRUND",
+        "Groesse": 2199,
+        "Bereich": "B/C",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3404754,
+        "Hochwert": 5757251
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.613890222036711,
+          51.94101339176404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 663,
+        "Name": "SP GRÜNER GRUND",
+        "Groesse": 2199,
+        "Bereich": "B/C",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3404754,
+        "Hochwert": 5757251
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.613890222036711,
+          51.94101339176404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 664,
+        "Name": "SP LEGDENWEG-WEST",
+        "Groesse": 1489,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "ja",
+        "Streetball": "ja",
+        "Rechtswert": 3401351,
+        "Hochwert": 5761262
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.563268742054934,
+          51.97645770895594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 665,
+        "Name": "SP SPICHERNSTRASSE",
+        "Groesse": 2150,
+        "Bereich": "A+B/C",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3405397,
+        "Hochwert": 5756652
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6234025244560595,
+          51.935741158410806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 666,
+        "Name": "SP IM SEIHOF",
+        "Groesse": 1925,
+        "Bereich": "",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3399469,
+        "Hochwert": 5759038
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.536539830544525,
+          51.95613895088883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 667,
+        "Name": "SP SCHARNHORSTSTRASSE",
+        "Groesse": 1072,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3404575,
+        "Hochwert": 5758506
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.610939674412093,
+          51.95225865056091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 668,
+        "Name": "SP WESTERHEIDE             (BALLSPIELPLATZ)",
+        "Groesse": 800,
+        "Bereich": "B/C",
+        "Ball": 1,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3409185,
+        "Hochwert": 5766983
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.675729715083868,
+          52.02919620391095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 669,
+        "Name": "SP WACHOLDERWEG",
+        "Groesse": 748,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3411573,
+        "Hochwert": 5763851
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7113233346320245,
+          52.001440861787174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 670,
+        "Name": "SP ZWI-SCHULMANN-WEG",
+        "Groesse": 2000,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3409284,
+        "Hochwert": 5756359
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.679981111588228,
+          51.93375575095525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 671,
+        "Name": "SP GALLENKAMP",
+        "Groesse": 727,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3408208,
+        "Hochwert": 5759210
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.663579835422996,
+          51.9591955579251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 672,
+        "Name": "SP HERDINGSTRASSE",
+        "Groesse": 1784,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3405717,
+        "Hochwert": 5757770
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.627747431155046,
+          51.94584055736192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 673,
+        "Name": "SP SCHÜRBUSCH",
+        "Groesse": 944,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3402811,
+        "Hochwert": 5755993
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.585999852086281,
+          51.92937461219479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 674,
+        "Name": "SP GOLDAPER STRASSE",
+        "Groesse": 3048,
+        "Bereich": "B/C",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3400071,
+        "Hochwert": 5758570
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.54543008183627,
+          51.95204268624257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 675,
+        "Name": "SP DIRK-VON-MERVELDT-STRASSE",
+        "Groesse": 2082,
+        "Bereich": "A",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "ja",
+        "Rechtswert": 3412276,
+        "Hochwert": 5754651
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.723906988475564,
+          51.91888863396909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 676,
+        "Name": "SP PAUL-KLEE-WEG",
+        "Groesse": 1000,
+        "Bereich": "B/C",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3409224,
+        "Hochwert": 5752731
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.680065414759874,
+          51.90114801345942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 677,
+        "Name": "SP DREIZEHNERSTRASSE",
+        "Groesse": 1475,
+        "Bereich": "A",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3404593,
+        "Hochwert": 5762062
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.610213273098523,
+          51.98421157917331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 792,
+        "Name": "SP ARNETHSTRASSE",
+        "Groesse": 386,
+        "Bereich": "C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3403382,
+        "Hochwert": 5763714
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.592126251195982,
+          51.99884495244902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 793,
+        "Name": "SP SERVATIIPLATZ",
+        "Groesse": 764,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3406225,
+        "Hochwert": 5759394
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.634690078337454,
+          51.96051787449726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 794,
+        "Name": "SP VERDISTRASSE",
+        "Groesse": 1205,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3406897,
+        "Hochwert": 5753883
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.645955162457535,
+          51.91111475478321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 795,
+        "Name": "SP DIEKBREE",
+        "Groesse": 700,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3411096,
+        "Hochwert": 5761739
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.704927095905128,
+          51.98238819301401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 796,
+        "Name": "SP BOCKHORSTSTRASSE",
+        "Groesse": 486,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3408902,
+        "Hochwert": 5753185
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.675268405558787,
+          51.90517469874404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 797,
+        "Name": "SP STREETBALLFLÄCHE NORMANNENWEG",
+        "Groesse": 260,
+        "Bereich": "B",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "ja",
+        "Rechtswert": 3408502,
+        "Hochwert": 5754734
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.669046492712483,
+          51.91902702461983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 798,
+        "Name": "SP TENGENKAMP",
+        "Groesse": 2908,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3404193,
+        "Hochwert": 5750162
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.607706142878935,
+          51.877223509889916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 799,
+        "Name": "SP BIRKENHEIDE I           (BALLSPIELPLATZ)",
+        "Groesse": 2534,
+        "Bereich": "A",
+        "Ball": 1,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3409461,
+        "Hochwert": 5755017
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.682906949555923,
+          51.92172657258515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 800,
+        "Name": "SP HEROLDSTRASSE (HEIDBUSCH)",
+        "Groesse": 2700,
+        "Bereich": "A+B/C",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3401977,
+        "Hochwert": 5754948
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.574176623734225,
+          51.91983936640387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 801,
+        "Name": "SP GIEVENBACHTAL",
+        "Groesse": 1237,
+        "Bereich": "A+B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3401833,
+        "Hochwert": 5760705
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5704404389626525,
+          51.97153863905474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 802,
+        "Name": "SP GIEVENBACHTAL",
+        "Groesse": 1237,
+        "Bereich": "A+B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3401833,
+        "Hochwert": 5760705
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5704404389626525,
+          51.97153863905474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 803,
+        "Name": "SP POTSTIEGE",
+        "Groesse": 1021,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3402455,
+        "Hochwert": 5759949
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.579703448040428,
+          51.96485575422916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 804,
+        "Name": "SP POTSTIEGE",
+        "Groesse": 1021,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3402455,
+        "Hochwert": 5759949
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.579703448040428,
+          51.96485575422916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 805,
+        "Name": "SP ÜBERWASSERSCHULE",
+        "Groesse": 800,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3405233,
+        "Hochwert": 5759876
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.62012972710043,
+          51.964680361694526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 806,
+        "Name": "SP MATTHIAS-CLAUDIUS-SCHULE",
+        "Groesse": 329,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3404630,
+        "Hochwert": 5757020
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.612151652664994,
+          51.93891665828184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 807,
+        "Name": "SP MATTHIAS-CLAUDIUS-SCHULE",
+        "Groesse": 329,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3404630,
+        "Hochwert": 5757020
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.612151652664994,
+          51.93891665828184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 808,
+        "Name": "SP ZUMSANDEPLATZ",
+        "Groesse": 2392,
+        "Bereich": "A+B/C",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3406700,
+        "Hochwert": 5759258
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.641635328011702,
+          51.95937583869401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 809,
+        "Name": "SP AN DER MEERWIESE-SÜD",
+        "Bereich": "",
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3407242,
+        "Hochwert": 5762219
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.648717711317788,
+          51.98607083089392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 810,
+        "Name": "SP AN DER MEERWIESE-SÜD",
+        "Bereich": "",
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3407242,
+        "Hochwert": 5762219
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.648717711317788,
+          51.98607083089392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 811,
+        "Name": "SP WICHERNSTRASSE",
+        "Groesse": 1510,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3405540,
+        "Hochwert": 5760823
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.624334506199417,
+          51.97324123541785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 812,
+        "Name": "SP TRESCKOWSTRASSE",
+        "Groesse": 800,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "ja",
+        "Rechtswert": 3403455,
+        "Hochwert": 5756541
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.595205628934162,
+          51.93441033387574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 813,
+        "Name": "SP MARTIN-LUTHER-SCHULE",
+        "Groesse": 500,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3405757,
+        "Hochwert": 5760421
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.627601755699192,
+          51.96966617498605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 814,
+        "Name": "SP HANS-BREDOW-WEG",
+        "Groesse": 5174,
+        "Bereich": "A",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3408712,
+        "Hochwert": 5759010
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.670962935962999,
+          51.95748153231968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 815,
+        "Name": "SP HEIDKÖTTERSWEG",
+        "Groesse": 515,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3403428,
+        "Hochwert": 5764005
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.592713822653982,
+          52.00146748852067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 816,
+        "Name": "SP TELGENWEG",
+        "Groesse": 1628,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3411716,
+        "Hochwert": 5763758
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.713429017368666,
+          52.000628006769496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 817,
+        "Name": "SP OSSENKAMPSTIEGE",
+        "Groesse": 694,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3403308,
+        "Hochwert": 5756609
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.593049859365448,
+          51.93499577697193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 818,
+        "Name": "SP AM BLÜTENHAIN",
+        "Groesse": 681,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3398768,
+        "Hochwert": 5755293
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5274483786133715,
+          51.922364892098464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 819,
+        "Name": "SP WIERLING",
+        "Groesse": 1350,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3398456,
+        "Hochwert": 5755398
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5228838158620706,
+          51.92325145192229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 820,
+        "Name": "SP WIEDEIKEN",
+        "Groesse": 830,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3404474,
+        "Hochwert": 5750261
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6117579475221575,
+          51.878161220829824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 821,
+        "Name": "SP MATTHIAS-CLAUDIUS-SCHULE",
+        "Groesse": 329,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3404630,
+        "Hochwert": 5757020
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.612151652664994,
+          51.93891665828184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 822,
+        "Name": "SP MATTHIAS-CLAUDIUS-SCHULE",
+        "Groesse": 329,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3404630,
+        "Hochwert": 5757020
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.612151652664994,
+          51.93891665828184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 823,
+        "Name": "SP FALGERSTRASSE",
+        "Groesse": 1600,
+        "Bereich": "B/C",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3406006,
+        "Hochwert": 5761116
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6310335677994905,
+          51.97595280216949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 824,
+        "Name": "SP FALGERSTRASSE",
+        "Groesse": 1600,
+        "Bereich": "B/C",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3406006,
+        "Hochwert": 5761116
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6310335677994905,
+          51.97595280216949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 825,
+        "Name": "SP VIVALDISTRASSE",
+        "Bereich": "",
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3406812,
+        "Hochwert": 5761580
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.642633894891293,
+          51.980257531865206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 826,
+        "Name": "SP ARNIKAWEG",
+        "Groesse": 1560,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3403931,
+        "Hochwert": 5750709
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.603750499272928,
+          51.88209316608412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 827,
+        "Name": "SP AASEE: MECKLENBECKER STRASSE",
+        "Groesse": 866,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3403962,
+        "Hochwert": 5757922
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.602189270114262,
+          51.946906035911645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 828,
+        "Name": "SP AASEE: MECKLENBECKER STRASSE",
+        "Groesse": 866,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3403962,
+        "Hochwert": 5757922
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.602189270114262,
+          51.946906035911645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 829,
+        "Name": "SP HÜNENBURG-MITTE",
+        "Groesse": 800,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3405278,
+        "Hochwert": 5753634
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.622503174020162,
+          51.90860453849532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 830,
+        "Name": "SP ANGELMODDER WEG",
+        "Groesse": 1850,
+        "Bereich": "A",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3409992,
+        "Hochwert": 5755699
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.690444859268549,
+          51.92794052961399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 678,
+        "Name": "SP MIDDELKAMP (alt: OSTHUESHEIDE)",
+        "Groesse": 497,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3409967,
+        "Hochwert": 5753855
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.690563728385641,
+          51.91136789136525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 679,
+        "Name": "SP FLEIGESTRASSE",
+        "Groesse": 270,
+        "Bereich": "C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3405846,
+        "Hochwert": 5753439
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.630807779931495,
+          51.90694877195835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 680,
+        "Name": "SP BESSELWEG",
+        "Groesse": 500,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3402358,
+        "Hochwert": 5760678
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.578085285607044,
+          51.971388531963946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 681,
+        "Name": "SP AN DER ALTEN KIRCHE",
+        "Groesse": 4749,
+        "Bereich": "A",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "ja",
+        "Rechtswert": 3405949,
+        "Hochwert": 5753221
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.632363506158214,
+          51.90500745276501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 682,
+        "Name": "SP STETTINER STRASSE",
+        "Groesse": 1152,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3407038,
+        "Hochwert": 5760631
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.646179319197286,
+          51.9717687301781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 683,
+        "Name": "SP HOHE GEEST",
+        "Groesse": 2013,
+        "Bereich": "B/C",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3406139,
+        "Hochwert": 5754402
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.634801638360402,
+          51.91565072180402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 684,
+        "Name": "SP HANSES-KETTELER-STRASSE",
+        "Groesse": 2598,
+        "Bereich": "A+B/C",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3407197,
+        "Hochwert": 5753090
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.650527127625517,
+          51.90403970687732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 685,
+        "Name": "SP HOPPENGARTEN-NORD       (BALLSPIELPLATZ)",
+        "Groesse": 685,
+        "Bereich": "A+B/C",
+        "Ball": 1,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3407415,
+        "Hochwert": 5761300
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.651483255311739,
+          51.977842568152305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 686,
+        "Name": "SP KÖNIGSBERGER STRASSE",
+        "Groesse": 2894,
+        "Bereich": "A+B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3406799,
+        "Hochwert": 5763013
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.642055322223621,
+          51.99313065575966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 687,
+        "Name": "SP POTSTIEGE",
+        "Groesse": 1021,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3402455,
+        "Hochwert": 5759949
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.579703448040428,
+          51.96485575422916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 688,
+        "Name": "SP POTSTIEGE",
+        "Groesse": 1021,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3402455,
+        "Hochwert": 5759949
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.579703448040428,
+          51.96485575422916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 689,
+        "Name": "SP LANGEWORTH",
+        "Groesse": 645,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3403241,
+        "Hochwert": 5763583
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.590110848423892,
+          51.99764341132134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 690,
+        "Name": "SP PAPPELWEG",
+        "Groesse": 769,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3407580,
+        "Hochwert": 5753662
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.65593702701729,
+          51.909242813145454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 691,
+        "Name": "SP MARKWEG",
+        "Groesse": 407,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3407527,
+        "Hochwert": 5761571
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.653039761117161,
+          51.98029612984358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 692,
+        "Name": "SP TER-BORCH-STRASSE",
+        "Groesse": 838,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3405132,
+        "Hochwert": 5755532
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.619859362973813,
+          51.925633001834576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 693,
+        "Name": "SP AM PASTORENBUSCH",
+        "Groesse": 3185,
+        "Bereich": "A",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "ja",
+        "Rechtswert": 3401082,
+        "Hochwert": 5762924
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.558875951708154,
+          51.99134220632739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 694,
+        "Name": "SP AM PASTORENBUSCH",
+        "Groesse": 3185,
+        "Bereich": "A",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "ja",
+        "Rechtswert": 3401082,
+        "Hochwert": 5762924
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.558875951708154,
+          51.99134220632739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 695,
+        "Name": "SP AM PASTORENBUSCH",
+        "Groesse": 3185,
+        "Bereich": "A",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "ja",
+        "Rechtswert": 3401082,
+        "Hochwert": 5762924
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.558875951708154,
+          51.99134220632739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 696,
+        "Name": "SP BAININGSTRASSE",
+        "Groesse": 2311,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "ja",
+        "Streetball": "ja",
+        "Rechtswert": 3405481,
+        "Hochwert": 5752265
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.625827584695446,
+          51.896338655924005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 697,
+        "Name": "SP AN DER KONRADKIRCHE",
+        "Groesse": 1000,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3409221,
+        "Hochwert": 5759627
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.678202278959715,
+          51.96310862849755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 698,
+        "Name": "SP COERDEPLATZ             (BALLSPIELPLATZ)",
+        "Groesse": 560,
+        "Bereich": "A+B/C",
+        "Ball": 1,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3405852,
+        "Hochwert": 5760281
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6290220843083985,
+          51.96842439738422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 699,
+        "Name": "SP EICHENDORFF-SCHULE",
+        "Groesse": 1139,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "ja",
+        "Rechtswert": 3410350,
+        "Hochwert": 5754197
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.696039029528084,
+          51.914502599978036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 700,
+        "Name": "SP BIRKENHEIDE II",
+        "Groesse": 2857,
+        "Bereich": "A",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3409344,
+        "Hochwert": 5754993
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.681213082388258,
+          51.921491891477295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 701,
+        "Name": "SP MARTIN-NIEMÜLLER-PARK",
+        "Groesse": 5100,
+        "Bereich": "A+B/C",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3405012,
+        "Hochwert": 5760756
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.616671812154566,
+          51.97254926174213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 702,
+        "Name": "SP STODTBROCKWEG           (BALLSPIELPLATZ)",
+        "Bereich": "",
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3399368,
+        "Hochwert": 5759481
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.534941355726472,
+          51.96010081255778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 703,
+        "Name": "SP HORSTMARER LANDWEG",
+        "Groesse": 1225,
+        "Bereich": "B/C",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3403720,
+        "Hochwert": 5760510
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.597945479722969,
+          51.97011670368928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 704,
+        "Name": "SP JAHNSTRASSE",
+        "Groesse": 549,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3404812,
+        "Hochwert": 5761218
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.613634169722318,
+          51.97666600769779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 705,
+        "Name": "SP GOLDBRINK",
+        "Groesse": 785,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3412184,
+        "Hochwert": 5755128
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7224484744241675,
+          51.923160096099075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 706,
+        "Name": "SP HERRENSTRASSE",
+        "Groesse": 432,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3412793,
+        "Hochwert": 5754469
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.731465548650296,
+          51.917334526211036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 707,
+        "Name": "SP BRÜNINGHEIDE",
+        "Groesse": 170,
+        "Bereich": "C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3403537,
+        "Hochwert": 5763911
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.594326973123059,
+          52.00064187950272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 708,
+        "Name": "SP GIGASSTRASSE",
+        "Groesse": 899,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3405158,
+        "Hochwert": 5755829
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.620155360421627,
+          51.92830593791568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 709,
+        "Name": "SP ZEPPELINSTRASSE",
+        "Groesse": 508,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3406058,
+        "Hochwert": 5760355
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.631998377082481,
+          51.969124129780596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 710,
+        "Name": "SP JOHANNE-WALHORN-WEG",
+        "Groesse": 580,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3406532,
+        "Hochwert": 5759705
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.639070389521691,
+          51.963363867771996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 711,
+        "Name": "SP GLUCKWEG",
+        "Groesse": 2230,
+        "Bereich": "A+B/C",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3406862,
+        "Hochwert": 5761797
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.643302494301806,
+          51.98221563305373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 712,
+        "Name": "SP KREUZSCHANZE",
+        "Groesse": 1382,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3405368,
+        "Hochwert": 5760244
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.621991889546418,
+          51.96800977042581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 713,
+        "Name": "SP KARDINALSTRASSE",
+        "Groesse": 2345,
+        "Bereich": "A+B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3406814,
+        "Hochwert": 5753310
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.644904331529862,
+          51.90595247578957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 714,
+        "Name": "SP TOPPHEIDEWEG",
+        "Groesse": 5700,
+        "Bereich": "A+B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3401962,
+        "Hochwert": 5761154
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.572188751008141,
+          51.975595499368154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 715,
+        "Name": "SP DREI EICHEN, NORD",
+        "Groesse": 742,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3411683,
+        "Hochwert": 5763388
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7130439805358755,
+          51.99729827201405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 716,
+        "Name": "SP VOSSBUSCH",
+        "Groesse": 1300,
+        "Bereich": "B/C",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3409026,
+        "Hochwert": 5758563
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6756478062413915,
+          51.95351668533196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 717,
+        "Name": "SP THEODOR-HEUSS-STRASSE",
+        "Groesse": 568,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3410191,
+        "Hochwert": 5754309
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.693699670275995,
+          51.91548331887663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 718,
+        "Name": "SP BODELSCHWINGHSCHULE",
+        "Groesse": 422,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3406913,
+        "Hochwert": 5759289
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.644724685017228,
+          51.959690071286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 719,
+        "Name": "SP GASSELSTIEGE - NORD",
+        "Groesse": 681,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3404547,
+        "Hochwert": 5760820
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.609889414410901,
+          51.973044618004906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 720,
+        "Name": "SP TÖMMERSWEG",
+        "Groesse": 1688,
+        "Bereich": "A?",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3405270,
+        "Hochwert": 5767826
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6184703046327975,
+          52.03611546185585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 721,
+        "Name": "SP LECHTERSTRASSE",
+        "Groesse": 491,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3404963,
+        "Hochwert": 5755623
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.617378260802979,
+          51.9264217990825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 722,
+        "Name": "SP AM LÜTKEBACH",
+        "Groesse": 959,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3407668,
+        "Hochwert": 5757151
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.656279491883689,
+          51.94060610090069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 723,
+        "Name": "SP MARGARETENSCHULE, BRENTANOWEG 18",
+        "Groesse": 540,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "ja",
+        "Rechtswert": 3408910,
+        "Hochwert": 5758437
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.673994363763288,
+          51.95236558383388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 724,
+        "Name": "SP ZUM GUTEN HIRTEN",
+        "Groesse": 1043,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3407881,
+        "Hochwert": 5759640
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6587087856734195,
+          51.96300501112267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 725,
+        "Name": "SP LAERER LANDWEG",
+        "Groesse": 1271,
+        "Bereich": "B/C",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "ja",
+        "Rechtswert": 3408548,
+        "Hochwert": 5758726
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.668653480277873,
+          51.95490284282556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 726,
+        "Name": "SP KRANICHWEG",
+        "Groesse": 660,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3409357,
+        "Hochwert": 5755987
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.681140203374206,
+          51.930425193612145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 727,
+        "Name": "SP MERGELBERG-NORD",
+        "Groesse": 4500,
+        "Bereich": "A",
+        "Ball": 0,
+        "Skater": "ja",
+        "Streetball": "ja",
+        "Rechtswert": 3401148,
+        "Hochwert": 5760478
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.560541178961255,
+          51.969377734800084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 728,
+        "Name": "SP AM KÄMPKEN",
+        "Groesse": 2757,
+        "Bereich": "A+B/C",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3398672,
+        "Hochwert": 5755084
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.526114935557451,
+          51.92046966761092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 729,
+        "Name": "SP GUSTAV-FREYTAG-/ HEINR.-VON-KLEIST-STR.",
+        "Groesse": 1821,
+        "Bereich": "B/C",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3400564,
+        "Hochwert": 5763074
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.551293868415334,
+          51.992597386539096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 730,
+        "Name": "SP SPRICKMANNSTRASSE 10",
+        "Groesse": 350,
+        "Bereich": "C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3403693,
+        "Hochwert": 5763632
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.596676194304257,
+          51.9981622383725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 731,
+        "Name": "SP NORDMARK",
+        "Groesse": 3250,
+        "Bereich": "A",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3404017,
+        "Hochwert": 5764136
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.601251100655566,
+          52.002746620086306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 732,
+        "Name": "SP GRONOWSKISTRASSE",
+        "Groesse": 2456,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3401514,
+        "Hochwert": 5760378
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.565893777010193,
+          51.968544243715364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 733,
+        "Name": "SP GEISTSCHULE",
+        "Groesse": 2000,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "ja",
+        "Rechtswert": 3405268,
+        "Hochwert": 5756987
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.621435155996168,
+          51.93872914136638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 734,
+        "Name": "SP HELENE-WEIGEL-WEG, alt: EINKAUFZENTRUM MEESENSTIEGE",
+        "Groesse": 4460,
+        "Bereich": "A+B/C",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "ja",
+        "Rechtswert": 3405280,
+        "Hochwert": 5752918
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.62272903764423,
+          51.90217168231254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 735,
+        "Name": "SP KÖSLINER STRASSE",
+        "Groesse": 1580,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3407006,
+        "Hochwert": 5761238
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6455493293609615,
+          51.977217205776924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 736,
+        "Name": "SP DRENSTEINFURTWEG",
+        "Groesse": 1460,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3404005,
+        "Hochwert": 5755806
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.603405008052935,
+          51.92790164693248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 737,
+        "Name": "SP KÖRNERSTRASSE",
+        "Groesse": 615,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3404976,
+        "Hochwert": 5758568
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.61675346673081,
+          51.952884365689265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 738,
+        "Name": "SP EMIL-NOLDE-WEG",
+        "Groesse": 625,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3409043,
+        "Hochwert": 5752656
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6774562082039175,
+          51.900444610791666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 739,
+        "Name": "SP MEINERTZSTRASSE",
+        "Groesse": 800,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3403677,
+        "Hochwert": 5764090
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.596314573736457,
+          52.002274440005955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 740,
+        "Name": "SP FRESNOSTRASSE           (BALLSPIELPLATZ)",
+        "Groesse": 1055,
+        "Bereich": "A",
+        "Ball": 1,
+        "Skater": "",
+        "Streetball": "ja",
+        "Rechtswert": 3404598,
+        "Hochwert": 5762196
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.610248759808091,
+          51.98541639333282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 741,
+        "Name": "SP GELMERHEIDE",
+        "Groesse": 582,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3408854,
+        "Hochwert": 5766860
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.670941049284059,
+          52.02803676394266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 742,
+        "Name": "SP WERSEAUE",
+        "Groesse": 1014,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3410759,
+        "Hochwert": 5761900
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.699981438865792,
+          51.98378075767344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 743,
+        "Name": "SP AN DER VOGELRUTE",
+        "Groesse": 797,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3412315,
+        "Hochwert": 5753874
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.724671535056175,
+          51.911913225274155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 744,
+        "Name": "SP GESCHERWEG - WEST",
+        "Groesse": 820,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3402048,
+        "Hochwert": 5761005
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.573482426834581,
+          51.974271956614146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 745,
+        "Name": "SP GESCHERWEG - WEST",
+        "Groesse": 820,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3402048,
+        "Hochwert": 5761005
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.573482426834581,
+          51.974271956614146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 746,
+        "Name": "SP STEVENINKSTRASSE",
+        "Groesse": 1836,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3405280,
+        "Hochwert": 5757839
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.621374896698354,
+          51.946386276197124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 747,
+        "Name": "SP GOTTFRIED-VON-CAPPENBERG-SCHULE, Glatzer Weg 9",
+        "Groesse": 480,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3404584,
+        "Hochwert": 5756441
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.611643575553021,
+          51.933706560554455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 748,
+        "Name": "SP HANSAPLATZ",
+        "Groesse": 3300,
+        "Bereich": "A+B/C",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3406917,
+        "Hochwert": 5758786
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.644919145198252,
+          51.955171328950534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 749,
+        "Name": "SP APPELBREISTIEGE",
+        "Groesse": 725,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3402750,
+        "Hochwert": 5760141
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.58393980767702,
+          51.96663249365579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 750,
+        "Name": "SP AM TINNENBUSCH",
+        "Groesse": 635,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3398973,
+        "Hochwert": 5754866
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.530552478469264,
+          51.91856573186537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 751,
+        "Name": "SP PICTORIUSSTRASSE (BEGEGNUNGSRAUM)",
+        "Groesse": 1699,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3405213,
+        "Hochwert": 5755523
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6210389670230745,
+          51.92556593532853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 752,
+        "Name": "SP JOSEFSCHULE, HERMANNSTRASSE 58",
+        "Groesse": 950,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "Balltrichter",
+        "Rechtswert": 3405458,
+        "Hochwert": 5758321
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.623830290096554,
+          51.95074725352348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 753,
+        "Name": "SP SCHÜTZENHOF",
+        "Groesse": 1613,
+        "Bereich": "B/C",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "ja",
+        "Rechtswert": 3405482,
+        "Hochwert": 5757721
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.624344244927451,
+          51.94536042138796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 831,
+        "Name": "SP MAXIMILIANSTRASSE-SÜD",
+        "Groesse": 740,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3406122,
+        "Hochwert": 5760471
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6328976358030385,
+          51.97017718555205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 832,
+        "Name": "SP DREI EICHEN             (BALLSPIELPLATZ)",
+        "Groesse": 800,
+        "Bereich": "B/C",
+        "Ball": 1,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3411660,
+        "Hochwert": 5763108
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.712781353706032,
+          51.99477878481165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 833,
+        "Name": "SP HAUS ANGELMODDE",
+        "Groesse": 915,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3410729,
+        "Hochwert": 5754844
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.701377892270561,
+          51.92037689571767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 834,
+        "Name": "SP MEMMERTWEG-NORD",
+        "Groesse": 1137,
+        "Bereich": "A",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3405170,
+        "Hochwert": 5763507
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.618209763407499,
+          51.997293356520935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 835,
+        "Name": "SP MEMMERTWEG-NORD",
+        "Groesse": 1137,
+        "Bereich": "A",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3405170,
+        "Hochwert": 5763507
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.618209763407499,
+          51.997293356520935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 836,
+        "Name": "SP MÜHLENSTRASSE",
+        "Groesse": 3040,
+        "Bereich": "A+B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3405248,
+        "Hochwert": 5759252
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.620520046240649,
+          51.95907639318744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 837,
+        "Name": "SP HEGERSKAMP",
+        "Groesse": 2946,
+        "Bereich": "A+B/C",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3408789,
+        "Hochwert": 5757953
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.67236330740805,
+          51.94799699969528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 838,
+        "Name": "SP AM PASTORENBUSCH",
+        "Groesse": 3185,
+        "Bereich": "A",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "ja",
+        "Rechtswert": 3401082,
+        "Hochwert": 5762924
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.558875951708154,
+          51.99134220632739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 839,
+        "Name": "SP AM PASTORENBUSCH",
+        "Groesse": 3185,
+        "Bereich": "A",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "ja",
+        "Rechtswert": 3401082,
+        "Hochwert": 5762924
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.558875951708154,
+          51.99134220632739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 840,
+        "Name": "SP AM PASTORENBUSCH",
+        "Groesse": 3185,
+        "Bereich": "A",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "ja",
+        "Rechtswert": 3401082,
+        "Hochwert": 5762924
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.558875951708154,
+          51.99134220632739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 841,
+        "Name": "SP DREIFALTIGKEITSSCHULE",
+        "Groesse": 959,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "Balltrichter",
+        "Rechtswert": 3404909,
+        "Hochwert": 5760986
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.615109693666644,
+          51.97459814727006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 842,
+        "Name": "SP ALSENSTRASSE",
+        "Groesse": 1505,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3406791,
+        "Hochwert": 5760392
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.642650987703232,
+          51.96957997309894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 843,
+        "Name": "SP EICHENWEG SÜD",
+        "Groesse": 488,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3399712,
+        "Hochwert": 5758262
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.540299929918738,
+          51.949210839065174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 844,
+        "Name": "SP AN DER MEERWIESE-MITTE",
+        "Bereich": "",
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3407366,
+        "Hochwert": 5762508
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.650444115282071,
+          51.98868815614981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 845,
+        "Name": "SP AN DER MEERWIESE-MITTE",
+        "Bereich": "",
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3407366,
+        "Hochwert": 5762508
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.650444115282071,
+          51.98868815614981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 846,
+        "Name": "SP AM EDELBACH",
+        "Groesse": 2111,
+        "Bereich": "A+B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3407661,
+        "Hochwert": 5763093
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.654579706413032,
+          51.99399344281868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 847,
+        "Name": "SP AM EDELBACH",
+        "Groesse": 2111,
+        "Bereich": "A+B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3407661,
+        "Hochwert": 5763093
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.654579706413032,
+          51.99399344281868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 848,
+        "Name": "SP ADMIRAL-SPEE-STRASSE",
+        "Groesse": 950,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3408128,
+        "Hochwert": 5760144
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.662166493400934,
+          51.96757430688784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 849,
+        "Name": "SP ENGELENSCHANZE",
+        "Groesse": 140,
+        "Bereich": "C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3405953,
+        "Hochwert": 5759050
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.630828354580335,
+          51.957381141096626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 850,
+        "Name": "SP RINKERODEWEG",
+        "Groesse": 417,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3404075,
+        "Hochwert": 5756354
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.604269554034906,
+          51.93283738600987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 851,
+        "Name": "SP SCHÖPPINGENWEG",
+        "Groesse": 417,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3402322,
+        "Hochwert": 5760901
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5774981396354,
+          51.973385780167085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 852,
+        "Name": "SP AGATHASTRASSE",
+        "Groesse": 991,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3409811,
+        "Hochwert": 5755884
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.687765797499797,
+          51.92957347857985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 853,
+        "Name": "SP VÖGEDINGPLATZ",
+        "Groesse": 3681,
+        "Bereich": "A+B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3400573,
+        "Hochwert": 5763464
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.55131174447941,
+          51.9961029523536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 854,
+        "Name": "SP AM HAUS NIENBERGE",
+        "Groesse": 750,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3400945,
+        "Hochwert": 5763756
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5566417503855075,
+          51.998792910189636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 855,
+        "Name": "SP MAX-REGER-STRASSE",
+        "Groesse": 914,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3406544,
+        "Hochwert": 5753551
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.640916893140623,
+          51.908072625947604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 856,
+        "Name": "SP TRINITATISKIRCHE, STRASSBURGER WEG",
+        "Groesse": 1160,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3405326,
+        "Hochwert": 5757524
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.622130439196745,
+          51.943563879545465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 857,
+        "Name": "SP DAUVEMÜHLE",
+        "Groesse": 1138,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3403922,
+        "Hochwert": 5762649
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.600284945982791,
+          51.98936995904083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 858,
+        "Name": "SP DYCKBURGSTRASSE",
+        "Groesse": 582,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3410158,
+        "Hochwert": 5763230
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.690887419134537,
+          51.99563398030075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 859,
+        "Name": "SP KÖSTERS KÄMPKEN",
+        "Groesse": 785,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3399728,
+        "Hochwert": 5758565
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.540444166344723,
+          51.951936033786595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 860,
+        "Name": "SP DAHLIENWEG",
+        "Groesse": 656,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3408393,
+        "Hochwert": 5752851
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6679634038440705,
+          51.90209021501773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 861,
+        "Name": "SP TANNENBERGSTRASSE",
+        "Groesse": 963,
+        "Bereich": "B/C",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3405832,
+        "Hochwert": 5760870
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6285695844679635,
+          51.97371307618211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 862,
+        "Name": "SP GASSELSTIEGE - SÜD",
+        "Groesse": 590,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3404635,
+        "Hochwert": 5760608
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.61122850852922,
+          51.97115495484953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 863,
+        "Name": "SP FERNHOLZSTRASSE",
+        "Groesse": 2100,
+        "Bereich": "A+B/C",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "ja",
+        "Rechtswert": 3403282,
+        "Hochwert": 5763127
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.590836282422273,
+          51.99355355317145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 864,
+        "Name": "SP AM NATURDENKMAL",
+        "Groesse": 1895,
+        "Bereich": "A",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3405043,
+        "Hochwert": 5755788
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.618495347886401,
+          51.92791795306815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 865,
+        "Name": "SP AUF DEM DRAUN",
+        "Groesse": 2353,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3403350,
+        "Hochwert": 5758583
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.593105453915859,
+          51.95273895030053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 866,
+        "Name": "SP MARIENSCHULE",
+        "Groesse": 500,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3399110,
+        "Hochwert": 5758880
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.531365745567117,
+          51.95465439101913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 867,
+        "Name": "SP GARTENSTIEGE",
+        "Groesse": 1971,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3401267,
+        "Hochwert": 5763622
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.56136729032475,
+          51.99764633133632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 868,
+        "Name": "SP KILLINGSTRASSE",
+        "Groesse": 786,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3403518,
+        "Hochwert": 5763801
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.594081367374911,
+          51.99965026588582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 869,
+        "Name": "SP IM DAHL",
+        "Groesse": 2664,
+        "Bereich": "A",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "ja",
+        "Rechtswert": 3406515,
+        "Hochwert": 5754144
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.640334687165824,
+          51.91339584674616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 870,
+        "Name": "SP PATRONATSSTRASSE",
+        "Groesse": 550,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3406375,
+        "Hochwert": 5753199
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.638557498637714,
+          51.90488153797376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 871,
+        "Name": "SP FREIBURGER WEG",
+        "Groesse": 668,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3405088,
+        "Hochwert": 5757253
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6187451499332015,
+          51.94108843641799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 872,
+        "Name": "SP PÖTTERHOEK",
+        "Groesse": 1364,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3407695,
+        "Hochwert": 5760668
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6557270991949204,
+          51.972210678217785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 873,
+        "Name": "SP AM HOF SCHULTMANN",
+        "Groesse": 700,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3402271,
+        "Hochwert": 5755855
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.578191023399943,
+          51.92804017785302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 874,
+        "Name": "SP SÜDPARK",
+        "Groesse": 15765,
+        "Bereich": "A+B/C",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3405874,
+        "Hochwert": 5758097
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.629940515085654,
+          51.94880519799308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 875,
+        "Name": "SP GUT INSEL",
+        "Groesse": 6086,
+        "Bereich": "A+B/C",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "ja",
+        "Rechtswert": 3404776,
+        "Hochwert": 5756870
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6143155350286085,
+          51.937593938122646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 876,
+        "Name": "SP GUT INSEL",
+        "Groesse": 6086,
+        "Bereich": "A+B/C",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "ja",
+        "Rechtswert": 3404776,
+        "Hochwert": 5756870
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6143155350286085,
+          51.937593938122646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 877,
+        "Name": "SP BÖTTCHERSTRASSE",
+        "Groesse": 1500,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3405119,
+        "Hochwert": 5753245
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.620300510888618,
+          51.90508235267973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 878,
+        "Name": "SP WILHELMSTRASSE",
+        "Groesse": 4269,
+        "Bereich": "A+B/C",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3404578,
+        "Hochwert": 5760137
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.610530233122645,
+          51.966913346340434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 879,
+        "Name": "SP JOSEFINE-MAUSER-STRASSE",
+        "Groesse": 1696,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3407379,
+        "Hochwert": 5762735
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.65057198941526,
+          51.990729893306174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 880,
+        "Name": "SP AM LODDENBACH           (BALLSPIELPLATZ)",
+        "Groesse": 2060,
+        "Bereich": "A",
+        "Ball": 1,
+        "Skater": "",
+        "Streetball": "ja",
+        "Rechtswert": 3409285,
+        "Hochwert": 5756550
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.679945278456608,
+          51.935472063888355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 881,
+        "Name": "SP WIENER STRASSE",
+        "Groesse": 761,
+        "Bereich": "B/C",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3407475,
+        "Hochwert": 5760382
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.652603698103935,
+          51.96960440780203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 882,
+        "Name": "SP MALTESERSTRASSE",
+        "Groesse": 3100,
+        "Bereich": "A+B/C",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3406139,
+        "Hochwert": 5752341
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6353630534046095,
+          51.89713272699458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 883,
+        "Name": "SP ELBESTRASSE",
+        "Groesse": 1425,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3407764,
+        "Hochwert": 5760374
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6568098858320175,
+          51.96958056217904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 884,
+        "Name": "SP HAUS WIEK",
+        "Groesse": 2800,
+        "Bereich": "A",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "ja",
+        "Rechtswert": 3398464,
+        "Hochwert": 5754588
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.523238916182953,
+          51.915975465836226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 885,
+        "Name": "SP STERNBUSCH",
+        "Groesse": 2700,
+        "Bereich": "A",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3405054,
+        "Hochwert": 5755946
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.618611619958088,
+          51.92933943731036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 886,
+        "Name": "SP VON-EINEM-STRASSE",
+        "Groesse": 1743,
+        "Bereich": "A+B/C",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3404522,
+        "Hochwert": 5761892
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.60922744761898,
+          51.98267197542738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 887,
+        "Name": "SP BRESLAUER STRASSE",
+        "Groesse": 2223,
+        "Bereich": "A+B/C",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3406953,
+        "Hochwert": 5763066
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.644282314467592,
+          51.993632676625886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 888,
+        "Name": "SP KIEBITZWEG",
+        "Groesse": 795,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3408011,
+        "Hochwert": 5753565
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6622242213756495,
+          51.9084426079826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 889,
+        "Name": "SP SAMLANDUFER",
+        "Groesse": 2659,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3407955,
+        "Hochwert": 5762966
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.658892904095394,
+          51.992901166951214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 890,
+        "Name": "SP SAMLANDUFER",
+        "Groesse": 2659,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3407955,
+        "Hochwert": 5762966
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.658892904095394,
+          51.992901166951214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 891,
+        "Name": "SP ALTHAUSWEG",
+        "Groesse": 2000,
+        "Bereich": "A",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3404208,
+        "Hochwert": 5762902
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.604376405548899,
+          51.99169248849146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 892,
+        "Name": "SP AM DILL",
+        "Groesse": 785,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3401403,
+        "Hochwert": 5756189
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.565480803353171,
+          51.930887990579166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 893,
+        "Name": "SP WILKINGHEGE             (BALLSPIELPLATZ)",
+        "Groesse": 1800,
+        "Bereich": "A",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3403635,
+        "Hochwert": 5762518
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.596145078165967,
+          51.988143247643464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 894,
+        "Name": "SP HOHER HAINWEG",
+        "Groesse": 1000,
+        "Bereich": "B/C",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3404506,
+        "Hochwert": 5755907
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.610658052658379,
+          51.928895285617955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 895,
+        "Name": "SP RÜPINGSTRASSE",
+        "Groesse": 815,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3404293,
+        "Hochwert": 5756936
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6072761837302885,
+          51.93810407368934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 896,
+        "Name": "SP KAPPENBERGER DAMM",
+        "Groesse": 525,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3404493,
+        "Hochwert": 5756987
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.610169296527764,
+          51.93859666182943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 897,
+        "Name": "SP NERZWEG",
+        "Groesse": 4277,
+        "Bereich": "A+B/C",
+        "Ball": 2,
+        "Skater": "ja",
+        "Streetball": "ja",
+        "Rechtswert": 3406746,
+        "Hochwert": 5763751
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.641083159691776,
+          51.99975257138921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 898,
+        "Name": "SP STADTPARK WIENBURG",
+        "Groesse": 6000,
+        "Bereich": "A",
+        "Ball": 2,
+        "Skater": "ja",
+        "Streetball": "",
+        "Rechtswert": 3405716,
+        "Hochwert": 5761483
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6267135990312855,
+          51.97920110184544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 899,
+        "Name": "SP TOMKOTTEN",
+        "Groesse": 2150,
+        "Bereich": "A",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "ja",
+        "Rechtswert": 3411234,
+        "Hochwert": 5761820
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.70691421223383,
+          51.98313805337242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 900,
+        "Name": "SP ALTER ZOO",
+        "Groesse": 2380,
+        "Bereich": "A+B/C",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3404684,
+        "Hochwert": 5759484
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.612253315483431,
+          51.961064469582674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 901,
+        "Name": "SP WESELER STRASSE",
+        "Groesse": 3330,
+        "Bereich": "A",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3404519,
+        "Hochwert": 5757550
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.610390925913522,
+          51.94365957189408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 902,
+        "Name": "SP STUDTSTRASSE",
+        "Groesse": 819,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3405116,
+        "Hochwert": 5760304
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.618309689495022,
+          51.968505899688495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 903,
+        "Name": "SP GUT INSEL",
+        "Groesse": 6086,
+        "Bereich": "A+B/C",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "ja",
+        "Rechtswert": 3404776,
+        "Hochwert": 5756870
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6143155350286085,
+          51.937593938122646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 904,
+        "Name": "SP GUT INSEL",
+        "Groesse": 6086,
+        "Bereich": "A+B/C",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "ja",
+        "Rechtswert": 3404776,
+        "Hochwert": 5756870
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6143155350286085,
+          51.937593938122646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 905,
+        "Name": "SP MAURITZ-LINDENWEG",
+        "Groesse": 1612,
+        "Bereich": "A+B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "ja",
+        "Rechtswert": 3407853,
+        "Hochwert": 5759391
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.658368338516874,
+          51.96076311645578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 906,
+        "Name": "SP AM KANONENGRABEN",
+        "Groesse": 1839,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3405254,
+        "Hochwert": 5758935
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.620694729717697,
+          51.956229226543904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 907,
+        "Name": "SP AASEE: TORMINBRÜCKE",
+        "Groesse": 1900,
+        "Bereich": "A",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3403996,
+        "Hochwert": 5758394
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.602551770471865,
+          51.951152715212274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 908,
+        "Name": "SP MIDDELFELD",
+        "Groesse": 1917,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3411413,
+        "Hochwert": 5762499
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.70934354989214,
+          51.9892675124766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 909,
+        "Name": "SP BERNHARD-POETHER-STRASSE",
+        "Groesse": 654,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3405496,
+        "Hochwert": 5753606
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.625677727961119,
+          51.90838998800029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 910,
+        "Name": "SP VON-HOLTE-STRASSE",
+        "Groesse": 645,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3411765,
+        "Hochwert": 5754003
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7166477809242755,
+          51.912985457363874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 911,
+        "Name": "SP TULPENWEG",
+        "Groesse": 748,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3408079,
+        "Hochwert": 5752978
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.663368656715248,
+          51.90317960237964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 912,
+        "Name": "SP SOESTER STRASSE",
+        "Groesse": 888,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3406421,
+        "Hochwert": 5758629
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.637749034595559,
+          51.953677457720325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 913,
+        "Name": "SP FRIEDRICH-EBERT-STRASSE (STREETBALLPLATZ)",
+        "Groesse": 932,
+        "Bereich": "B/C",
+        "Ball": 1,
+        "Skater": "",
+        "Streetball": "ja",
+        "Rechtswert": 3406002,
+        "Hochwert": 5758355
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.631731070829671,
+          51.95114494158069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 914,
+        "Name": "SP PARK SENTMARING             (BALLSPIELPLATZ)",
+        "Groesse": 750,
+        "Bereich": "A+B/C",
+        "Ball": 1,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3404806,
+        "Hochwert": 5757705
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.614520472344789,
+          51.9451014004153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 915,
+        "Name": "SP HUBERTISTRASSE",
+        "Groesse": 2942,
+        "Bereich": "A+B/C",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3407287,
+        "Hochwert": 5758599
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.650350191559082,
+          51.95355295426473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 916,
+        "Name": "SP AN DER MEERWIESE-MITTE",
+        "Bereich": "",
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3407366,
+        "Hochwert": 5762508
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.650444115282071,
+          51.98868815614981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 917,
+        "Name": "SP AN DER MEERWIESE-MITTE",
+        "Bereich": "",
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3407366,
+        "Hochwert": 5762508
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.650444115282071,
+          51.98868815614981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 918,
+        "Name": "SP FALGERSTRASSE",
+        "Groesse": 1600,
+        "Bereich": "B/C",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3406006,
+        "Hochwert": 5761116
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6310335677994905,
+          51.97595280216949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 919,
+        "Name": "SP FALGERSTRASSE",
+        "Groesse": 1600,
+        "Bereich": "B/C",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3406006,
+        "Hochwert": 5761116
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6310335677994905,
+          51.97595280216949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 920,
+        "Name": "SP KEMPERWEG",
+        "Groesse": 2200,
+        "Bereich": "A+B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3406696,
+        "Hochwert": 5762609
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.640666159643969,
+          51.98948348230605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 921,
+        "Name": "SP DÜESBERGWEG",
+        "Groesse": 1700,
+        "Bereich": "A",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3404402,
+        "Hochwert": 5756036
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.609110742081377,
+          51.93003647647128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 922,
+        "Name": "SP RINCKLAKEWEG",
+        "Groesse": 1082,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3404984,
+        "Hochwert": 5755553
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.617702770943097,
+          51.92579644353501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 923,
+        "Name": "SP MERGELBERG-SÜD",
+        "Groesse": 3043,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3401222,
+        "Hochwert": 5760063
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.561736982686218,
+          51.9656622889063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 924,
+        "Name": "SP COERDEPLATZ",
+        "Groesse": 2377,
+        "Bereich": "A+B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3405874,
+        "Hochwert": 5760179
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6293700659871,
+          51.967511669514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 925,
+        "Name": "SP DUNANTSTRASSE",
+        "Groesse": 1023,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3404545,
+        "Hochwert": 5757813
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.610695898937889,
+          51.94602703727323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 926,
+        "Name": "SP WILLINGROTT",
+        "Groesse": 880,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3411789,
+        "Hochwert": 5764109
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.71440133181855,
+          52.00379337973598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 927,
+        "Name": "SP DIEPENBROCKSTRASSE",
+        "Groesse": 729,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3406624,
+        "Hochwert": 5759117
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.640568352784166,
+          51.95809621040877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 928,
+        "Name": "SP SCHWARZER KAMP",
+        "Groesse": 1333,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3401575,
+        "Hochwert": 5755679
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.568126474308714,
+          51.926336252104505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 929,
+        "Name": "SP SCHULTE-BERND-STRASSE",
+        "Groesse": 552,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3399142,
+        "Hochwert": 5758596
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.531914415419336,
+          51.95210860172341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 930,
+        "Name": "SP HOLSENKAMPWEG",
+        "Groesse": 677,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3408402,
+        "Hochwert": 5753193
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.668003227845664,
+          51.90516459286414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 931,
+        "Name": "SP KLEIMANNSTRASSE",
+        "Groesse": 1660,
+        "Bereich": "A+B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3405106,
+        "Hochwert": 5760178
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6181990509645106,
+          51.967372107995494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 932,
+        "Name": "SP HOFFMANN-VON-FALLERSLEBEN-WEG",
+        "Groesse": 575,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3406038,
+        "Hochwert": 5752856
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.633755820577548,
+          51.90174296179443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 933,
+        "Name": "SP FRANZ-MARC-WEG",
+        "Groesse": 625,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3408692,
+        "Hochwert": 5752600
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.672372908062532,
+          51.899884035794244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 934,
+        "Name": "SP FRITZ-PÜTTER-STRASSE",
+        "Groesse": 634,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3405696,
+        "Hochwert": 5756748
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.62772238448411,
+          51.93665445584249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 935,
+        "Name": "SP KORBMACHERWEG",
+        "Groesse": 3268,
+        "Bereich": "A+B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3398833,
+        "Hochwert": 5758644
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.527407306568574,
+          51.95248373894722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 936,
+        "Name": "SP MARTIN-NIEMÖLLER-STRASSE",
+        "Groesse": 800,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3404102,
+        "Hochwert": 5762864
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.602844343521698,
+          51.99133277725299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 937,
+        "Name": "SP AM BERLER KAMP",
+        "Groesse": 1433,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3411934,
+        "Hochwert": 5754531
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.718968140834713,
+          51.91775641753591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 938,
+        "Name": "SP PARKALLEE",
+        "Groesse": 1462,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3409392,
+        "Hochwert": 5759405
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.680748022594375,
+          51.96114184631409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 939,
+        "Name": "SP MÖLLMANNSWEG",
+        "Groesse": 3000,
+        "Bereich": "A+B/C",
+        "Ball": 2,
+        "Skater": "ja",
+        "Streetball": "ja",
+        "Rechtswert": 3402849,
+        "Hochwert": 5759705
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.585503149714927,
+          51.962732484472454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 940,
+        "Name": "SP NIENKAMP",
+        "Groesse": 1538,
+        "Bereich": "B/C",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3404887,
+        "Hochwert": 5762074
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.614488033976795,
+          51.98436980924506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 941,
+        "Name": "SP WINKELHEIDE",
+        "Groesse": 1098,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3409131,
+        "Hochwert": 5766891
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.674967571500148,
+          52.02836074698153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 942,
+        "Name": "SP SCHULCAMPUS ROXEL",
+        "Bereich": "",
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3398908,
+        "Hochwert": 5758887
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.528426361007422,
+          51.9546806017078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 943,
+        "Name": "SP HÖLDERLINWEG",
+        "Groesse": 800,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3405715,
+        "Hochwert": 5752679
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.629112740049944,
+          51.900098062668725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 944,
+        "Name": "SP MELCHERSSTRASSE",
+        "Groesse": 2075,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "ja",
+        "Rechtswert": 3404982,
+        "Hochwert": 5760618
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.616273584697969,
+          51.97130423324166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 945,
+        "Name": "SP WESERSTRASSE",
+        "Bereich": "",
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3408033,
+        "Hochwert": 5760468
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6606978092143825,
+          51.97046972263681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 946,
+        "Name": "SP AN DER MEERWIESE-SÜD",
+        "Bereich": "",
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3407242,
+        "Hochwert": 5762219
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.648717711317788,
+          51.98607083089392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 947,
+        "Name": "SP AN DER MEERWIESE-SÜD",
+        "Bereich": "",
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3407242,
+        "Hochwert": 5762219
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.648717711317788,
+          51.98607083089392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 948,
+        "Name": "SP AM EDELBACH",
+        "Groesse": 2111,
+        "Bereich": "A+B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3407661,
+        "Hochwert": 5763093
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.654579706413032,
+          51.99399344281868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 949,
+        "Name": "SP AM EDELBACH",
+        "Groesse": 2111,
+        "Bereich": "A+B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3407661,
+        "Hochwert": 5763093
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.654579706413032,
+          51.99399344281868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 950,
+        "Name": "SP HAMANNPLATZ",
+        "Groesse": 2400,
+        "Bereich": "A+B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3407222,
+        "Hochwert": 5763184
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6481655612009005,
+          51.994737896975835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 951,
+        "Name": "SP CARLO-SCHMID-WEG",
+        "Groesse": 236,
+        "Bereich": "C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3403582,
+        "Hochwert": 5763664
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.595051506285584,
+          51.99843048447948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 952,
+        "Name": "SP EIMERMACHERWEG",
+        "Groesse": 800,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3403439,
+        "Hochwert": 5763301
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.593072285032409,
+          51.995144204199725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 953,
+        "Name": "SP JUFFERNKAMP",
+        "Groesse": 865,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3412723,
+        "Hochwert": 5754027
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.730560442752969,
+          51.91335206193727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 954,
+        "Name": "SP BREITE LINDEL           (BALLSPIELPLATZ)",
+        "Groesse": 950,
+        "Bereich": "A+B/C",
+        "Ball": 1,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3406856,
+        "Hochwert": 5762361
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.64306203232783,
+          51.987282091761074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 955,
+        "Name": "SP AASEEMARKT, GOERDELERSTRASSE",
+        "Groesse": 1500,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3404322,
+        "Hochwert": 5757750
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.607471251552672,
+          51.94542268644903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 956,
+        "Name": "SP AASEEMARKT, GOERDELERSTRASSE",
+        "Groesse": 1500,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3404322,
+        "Hochwert": 5757750
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.607471251552672,
+          51.94542268644903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 957,
+        "Name": "SP RJASANSTRASSE",
+        "Groesse": 3395,
+        "Bereich": "A",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3406182,
+        "Hochwert": 5760700
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6337078632699535,
+          51.97224484755753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 958,
+        "Name": "SP DREI EICHEN, MITTE",
+        "Groesse": 243,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3411626,
+        "Hochwert": 5763239
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.712252698020374,
+          51.99595042297834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 959,
+        "Name": "SP FELDSTIEGENKAMP",
+        "Groesse": 1863,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3404021,
+        "Hochwert": 5763671
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.601439562926447,
+          51.99856943342169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 960,
+        "Name": "SP ZUR WALBEKE",
+        "Groesse": 981,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3413342,
+        "Hochwert": 5754655
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.739395935346625,
+          51.91909150579495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 961,
+        "Name": "SP CHRISTOPH-BERNHARD-GRABEN (SP WESTENKAMP)",
+        "Groesse": 3792,
+        "Bereich": "A",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3401963,
+        "Hochwert": 5756093
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.573647086956826,
+          51.93012437572776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 962,
+        "Name": "SP HILTRUPER SEE",
+        "Groesse": 2918,
+        "Bereich": "A",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3407436,
+        "Hochwert": 5751053
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.654545608492892,
+          51.88577693052037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 963,
+        "Name": "SP IM MOORHOOK",
+        "Groesse": 1200,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3404177,
+        "Hochwert": 5762508
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.604035341429486,
+          51.98814716486976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 964,
+        "Name": "SP BRUCHFELDWEG",
+        "Groesse": 485,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3401200,
+        "Hochwert": 5761057
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.561130935588841,
+          51.97458904716664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 965,
+        "Name": "SP SCHEIBENSTRASSE",
+        "Groesse": 790,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "ja",
+        "Rechtswert": 3405650,
+        "Hochwert": 5757005
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.626983228284405,
+          51.93895577217481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 966,
+        "Name": "SP HACKLENBURG",
+        "Groesse": 838,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3407172,
+        "Hochwert": 5761851
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6477986535663085,
+          51.982752700318805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 967,
+        "Name": "SP  ANTON-AULKE-STRASSE",
+        "Bereich": "",
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3412054,
+        "Hochwert": 5753546
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.720963317129784,
+          51.908924906220605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 968,
+        "Name": "SP SENTRUPER HÖHE (THERESIENSCHULE)",
+        "Bereich": "",
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3403415,
+        "Hochwert": 5758936
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.593951398306978,
+          51.95592185057669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 969,
+        "Name": "SP OSTSTRASSE",
+        "Groesse": 2608,
+        "Bereich": "A+B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3407055,
+        "Hochwert": 5759567
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.64671464629358,
+          51.96221163318499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 970,
+        "Name": "SP BUXTRUP",
+        "Groesse": 2975,
+        "Bereich": "A",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "ja",
+        "Rechtswert": 3411829,
+        "Hochwert": 5753660
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7176654303778,
+          51.90991365348824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 971,
+        "Name": "SP KRÜGERWEG",
+        "Bereich": "",
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3407600,
+        "Hochwert": 5755399
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6557614858392675,
+          51.92485310664506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 972,
+        "Name": "SP VINZENZWEG",
+        "Bereich": "",
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3406484,
+        "Hochwert": 5760633
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.638119488042095,
+          51.971693759229154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 973,
+        "Name": "SP REHHAGEN",
+        "Groesse": 805,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3405699,
+        "Hochwert": 5752549
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.628915916030973,
+          51.89892731241677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 974,
+        "Name": "SP ALTE FURT",
+        "Groesse": 846,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "ja",
+        "Rechtswert": 3404159,
+        "Hochwert": 5750964
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.606989836953386,
+          51.88442354923197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 975,
+        "Name": "SP MARTINISCHULE",
+        "Groesse": 776,
+        "Bereich": "B/c",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3406053,
+        "Hochwert": 5759948
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.632037005939743,
+          51.96546645019155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 976,
+        "Name": "SP AM SPIEKER",
+        "Groesse": 1522,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3400964,
+        "Hochwert": 5763235
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5570688323056645,
+          51.99411536543621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 977,
+        "Name": "SP IN DER AU",
+        "Groesse": 900,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3405031,
+        "Hochwert": 5768063
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.614922691312189,
+          52.038203949835726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 978,
+        "Name": "SP FRITZ-REUTER-STRASSE",
+        "Groesse": 2092,
+        "Bereich": "B/C",
+        "Ball": 0,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3404957,
+        "Hochwert": 5767555
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6139857761572305,
+          52.03362705369055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 979,
+        "Name": "SP AM ROGGENKAMP",
+        "Groesse": 2919,
+        "Bereich": "A",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "ja",
+        "Rechtswert": 3408609,
+        "Hochwert": 5752831
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.671106131873515,
+          51.90194598593528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 980,
+        "Name": "SP NOTTULNER LANDWEG",
+        "Groesse": 2000,
+        "Bereich": "A+B/C",
+        "Ball": 2,
+        "Skater": "",
+        "Streetball": "",
+        "Rechtswert": 3399382,
+        "Hochwert": 5758151
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.535534385063409,
+          51.948153965782225
+        ]
+      }
+    }
+  ]
+}
