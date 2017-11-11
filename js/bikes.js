@@ -19,23 +19,9 @@ window.addEventListener('resize', function() {
     resizeDebounce = window.setTimeout(resizePlot, 100);
 });
 
-<<<<<<< HEAD
-Plotly.plot(gd, {
-    data: figure.data,
-    layout: figure.layout,
-    frames: figure.frames,
-    config: {
-        "mapboxAccessToken": "pk.eyJ1IjoiY2hyaWRkeXAiLCJhIjoiY2lxMnVvdm5iMDA4dnhsbTQ5aHJzcGs0MyJ9.X9o_rzNLNesDxdra4neC_A",
-        "linkText": "Export to plot.ly",
-        "showLink": false
-    }
-=======
-
-
 Plotly.plot(gd,  {
     data: bike_figure.data,
     layout: bike_figure.layout,
     frames: bike_figure.frames,
     config: {"mapboxAccessToken": "pk.eyJ1IjoiY2hyaWRkeXAiLCJhIjoiY2lxMnVvdm5iMDA4dnhsbTQ5aHJzcGs0MyJ9.X9o_rzNLNesDxdra4neC_A", "linkText": "Export to plot.ly", "showLink": true}
->>>>>>> bbe46d0b762eaf4fff993a5e53ee001a88f82187
 });
