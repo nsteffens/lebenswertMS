@@ -19,8 +19,6 @@ window.addEventListener('resize', function() {
     resizeDebounce = window.setTimeout(resizePlot, 100);
 });
 
-
-
 Plotly.plot(gd,  {
     data: bike_figure.data,
     layout: bike_figure.layout,

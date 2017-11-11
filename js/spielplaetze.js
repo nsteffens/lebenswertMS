@@ -9,9 +9,13 @@ const basemap = L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.pn
     accessToken: accessToken
 }).addTo(spielplaetze_map);
 
+plotty.addColorScale("redtogreen", ["#FF0000", "#FFFF00", "#00FF00"], [0, 0.5, 1]);
+
+
 var geotiff_layer = L.leafletGeotiff('./../data/spielplaetze/spielplaetze_neu.tif', {
     displayMin: 0,
-    displayMax: 0.025
+    displayMax: 0.025,
+    colorScale: 'redtogreen'
 }).addTo(spielplaetze_map);
 
 geotiff_layer.setOpacity(0.5)

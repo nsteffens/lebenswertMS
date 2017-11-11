@@ -29,16 +29,17 @@
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.2.0/dist/leaflet.css" integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ=="
     crossorigin="" />
 
-    <link href="css/style.css" rel="stylesheet">
+  <link href="css/style.css" rel="stylesheet">
 
-  </head>
+</head>
 
 <body id="page-top">
 
   <!-- Navigation -->
   <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
     <div class="container">
-      <a class="navbar-brand js-scroll-trigger" href="#page-top">Make Münster <br> Lebenswert Again</a>
+      <a class="navbar-brand js-scroll-trigger" href="#page-top">Make Münster
+        <br> Lebenswert Again</a>
       <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive"
         aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -55,28 +56,29 @@
             <a class="nav-link js-scroll-trigger" href="#nachhaltigkeit">Nachhaltigkeit</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#contact">Contact</a>
+            <a class="nav-link js-scroll-trigger" href="#buergerbeteiligung">Bürgerbeteiligung</a>
           </li>
         </ul>
       </div>
     </div>
   </nav>
 
-    <header class="masthead text-center text-white d-flex">
-      <div class="container my-auto">
-        <div class="row">
-          <div class="col-lg-10 mx-auto">
-            <h1 class="text-uppercase">
-              <strong>⭐️ Make Münster Lebenswert Again ⭐️</strong>
-            </h1>
-            <hr>
-          </div>
-          <div class="col-lg-8 mx-auto">
-            <h3 class="text-faded mb-5 motivation">2004 wurde Münster zur <span style="background: black; padding-left: 3px; padding-right: 3px;">Lebenswertesten Stadt der Welt</span> gewählt. Wie sieht es heute aus?</h3>
-            <a class="btn btn-primary btn-xl js-scroll-trigger" href="#history">Finde es heraus!</a>
-          </div>
+  <header class="masthead text-center text-white d-flex">
+    <div class="container my-auto">
+      <div class="row">
+        <div class="col-lg-10 mx-auto">
+          <h1 class="text-uppercase">
+            <strong>⭐️ Make Münster Lebenswert Again ⭐️</strong>
+          </h1>
+          <hr>
+        </div>
+        <div class="col-lg-8 mx-auto">
+          <h3 class="text-faded mb-5 motivation">2004 wurde Münster zur
+            <span style="background: black; padding-left: 3px; padding-right: 3px;">Lebenswertesten Stadt der Welt</span> gewählt. Wie sieht es heute aus?</h3>
+          <a class="btn btn-primary btn-xl js-scroll-trigger" href="#history">Finde es heraus!</a>
         </div>
       </div>
+    </div>
     </div>
   </header>
 
@@ -84,25 +86,26 @@
   <section class="bg-primary" id="history">
     <div class="container text-center text-white">
       <h1 class="text-uppercase">Historie</h1>
-      <p class="text">Über XXX denkmalgeschützte Gebäude in Münster</p>
+      <h3 class="text-dark">Über
+        <strong>130</strong> denkmalgeschützte Gebäude in Münster</h3>
       <div id="map" class="map" style='width: 100%; height: 500px;'></div>
     </div>
   </section>
 
+  <!-- Umwelt und Lanschaft -->
   <section id="umwelt">
     <div class="container text-center">
       <h1 class="text-uppercase">Umwelt & Landschaft</h1>
-      <p class="text-muted mb-0">Verkehrsaufkommen und Feinstaubbelastung</p>
-        <div id="7a890b6b-d03f-489b-8f5c-8145ff162db9" style="width: 100%; height: 100%;" class="plotly-graph-div"></div>
+      <h3 class="text-muted mb-0">Verkehrsaufkommen und Feinstaubbelastung</h3>
+      <div id="7a890b6b-d03f-489b-8f5c-8145ff162db9" style="width: 100%; height: 100%;" class="plotly-graph-div"></div>
     </div>
   </section>
-
 
   <!-- Nachhaltigkeitskarte -->
   <section class="bg-primary" id="nachhaltigkeit">
     <div class="container text-center">
-      <h1 class="text-uppercase">Nachhaltige Zukunftsplanung</h1>
-      <p class="text-muted">Initiativen, Projekte und Aktionen zum Thema Nachhaltigkeit</p>
+      <h1 class="text-uppercase text-white">Nachhaltig</h1>
+      <h3 class="text-dark">Initiativen, Projekte und Aktionen zum Thema Nachhaltigkeit</h3>
       <div id="nachhaltigkeits_map" class="map" style="width: 100%; height: 500px;"></div>
     </div>
   </section>
@@ -117,12 +120,22 @@
     </section>
 
   <!-- Fahrrad-Graph -->
-  <section id="bikes" style="padding-top: 0;">
+  <section id="bikes" style="padding-top: 0;" class="bg-primary">
     <div class="container text-center">
       <h1 class="text-uppercase">Innovativ</h1>
       <p class="text-muted mb-0">Messungen der Fahrradfahrten</p>
       <div id="8e6a0d45-323b-447a-8d49-012ad97f6606" style="width: 100%; height: 100%;" class="plotly-graph-div"></div>
     </div>
+  </section>
+
+  <section id="buergerbeteiligung">
+    <div class="container text-center">
+      <h1 class="text-uppercase">Bürger&shy;beteiligung</h1>
+      <h3 class="text-muted mb-0">Nimm am Leben teil und gestalte
+        <strong>deine Stadt</strong>!</h3>
+      <div id="7a890b6b-d03f-489b-8f5c-8145ff162db9" style="width: 100%; height: 100%;" class="plotly-graph-div"></div>
+    </div>
+    <!-- Die icons unten -->
     <div class="container">
       <div class="row">
         <div class="col-lg-3 col-md-6 text-center">
@@ -157,108 +170,116 @@
     </div>
   </section>
 
-    <section class="p-0" id="portfolio">
-      <div class="container-fluid p-0">
-        <div class="row no-gutters popup-gallery">
-          <div class="col-lg-4 col-sm-6">
-            <a class="portfolio-box" href="img/portfolio/fullsize/1.jpg">
-              <img class="img-fluid" src="img/portfolio/thumbnails/1.jpg" alt="">
-              <div class="portfolio-box-caption">
-                <div class="portfolio-box-caption-content">
-                  <div class="project-category text-faded">
-                    Münster
-                  </div>
-                  <div class="project-name">
-                    Fahrradstadt
-                  </div>
+
+
+
+  <!-- Die Bilder unten -->
+  <section class="p-0" id="portfolio">
+    <div class="container-fluid p-0">
+      <div class="row no-gutters popup-gallery">
+        <div class="col-lg-4 col-sm-6">
+          <a class="portfolio-box" href="img/portfolio/fullsize/1.jpg">
+            <img class="img-fluid" src="img/portfolio/thumbnails/1.jpg" alt="">
+            <div class="portfolio-box-caption">
+              <div class="portfolio-box-caption-content">
+                <div class="project-category text-faded">
+                  Münster
                 </div>
-              </div>
-            </a>
-          </div>
-          <div class="col-lg-4 col-sm-6">
-            <a class="portfolio-box" href="img/portfolio/fullsize/2.jpg">
-              <img class="img-fluid" src="img/portfolio/thumbnails/2.jpg" alt="">
-              <div class="portfolio-box-caption">
-                <div class="portfolio-box-caption-content">
-                  <div class="project-category text-faded">
-                    Münster
-                  </div>
-                  <div class="project-name">
-                    Historie Bewahren
-                  </div>
-                </div>
-              </div>
-            </a>
-          </div>
-          <div class="col-lg-4 col-sm-6">
-            <a class="portfolio-box" href="img/portfolio/fullsize/3.jpg">
-              <img class="img-fluid" src="img/portfolio/thumbnails/3.jpg" alt="">
-              <div class="portfolio-box-caption">
-                <div class="portfolio-box-caption-content">
-                  <div class="project-category text-faded">
-                    Münster
-                  </div>
-                  <div class="project-name">
-                    Leben
-                  </div>
-                </div>
-              </div>
-            </a>
-          </div>
-          <div class="col-lg-4 col-sm-6">
-            <a class="portfolio-box" href="img/portfolio/fullsize/4.jpg">
-              <img class="img-fluid" src="img/portfolio/thumbnails/4.jpg" alt="">
-              <div class="portfolio-box-caption">
-                <div class="portfolio-box-caption-content">
-                  <div class="project-category text-faded">
-                    Münster
-                  </div>
-                  <div class="project-name">
-                    Wissen
-                  </div>
-                </div>
-              </div>
-            </a>
-          </div>
-          <div class="col-lg-4 col-sm-6">
-            <a class="portfolio-box" href="img/portfolio/fullsize/5.jpg">
-              <img class="img-fluid" src="img/portfolio/thumbnails/5.jpg" alt="">
-              <div class="portfolio-box-caption">
-                <div class="portfolio-box-caption-content">
-                  <div class="project-category text-faded">
-                    Münster
-                  </div>
-                  <div class="project-name">
-                    Kultur
-                  </div>
-                </div>
-              </div>
-            </a>
-          </div>
-          <div class="col-lg-4 col-sm-6">
-            <a class="portfolio-box" href="img/portfolio/fullsize/6.jpg">
-              <img class="img-fluid" src="img/portfolio/thumbnails/6.jpg" alt="">
-              <div class="portfolio-box-caption">
-                <div class="portfolio-box-caption-content">
-                  <div class="project-category text-faded">
-                    Münster
-                  </div>
-                  <div class="project-name">
-                    Geschichte
-                  </div>
+                <div class="project-name">
+                  Fahrradstadt
                 </div>
               </div>
             </div>
           </a>
         </div>
+        <div class="col-lg-4 col-sm-6">
+          <a class="portfolio-box" href="img/portfolio/fullsize/2.jpg">
+            <img class="img-fluid" src="img/portfolio/thumbnails/2.jpg" alt="">
+            <div class="portfolio-box-caption">
+              <div class="portfolio-box-caption-content">
+                <div class="project-category text-faded">
+                  Münster
+                </div>
+                <div class="project-name">
+                  Historie Bewahren
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+        <div class="col-lg-4 col-sm-6">
+          <a class="portfolio-box" href="img/portfolio/fullsize/3.jpg">
+            <img class="img-fluid" src="img/portfolio/thumbnails/3.jpg" alt="">
+            <div class="portfolio-box-caption">
+              <div class="portfolio-box-caption-content">
+                <div class="project-category text-faded">
+                  Münster
+                </div>
+                <div class="project-name">
+                  Leben
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+        <div class="col-lg-4 col-sm-6">
+          <a class="portfolio-box" href="img/portfolio/fullsize/4.jpg">
+            <img class="img-fluid" src="img/portfolio/thumbnails/4.jpg" alt="">
+            <div class="portfolio-box-caption">
+              <div class="portfolio-box-caption-content">
+                <div class="project-category text-faded">
+                  Münster
+                </div>
+                <div class="project-name">
+                  Wissen
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+        <div class="col-lg-4 col-sm-6">
+          <a class="portfolio-box" href="img/portfolio/fullsize/5.jpg">
+            <img class="img-fluid" src="img/portfolio/thumbnails/5.jpg" alt="">
+            <div class="portfolio-box-caption">
+              <div class="portfolio-box-caption-content">
+                <div class="project-category text-faded">
+                  Münster
+                </div>
+                <div class="project-name">
+                  Kultur
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+        <div class="col-lg-4 col-sm-6">
+          <a class="portfolio-box" href="img/portfolio/fullsize/6.jpg">
+            <img class="img-fluid" src="img/portfolio/thumbnails/6.jpg" alt="">
+            <div class="portfolio-box-caption">
+              <div class="portfolio-box-caption-content">
+                <div class="project-category text-faded">
+                  Münster
+                </div>
+                <div class="project-name">
+                  Geschichte
+                </div>
+              </div>
+            </div>
+        </div>
+        </a>
       </div>
+    </div>
     </div>
   </section>
 
   <section class="bg-dark text-white">
     <div class="container text-center">
-      <h2 class="mb-4">Free Download at Start Bootstrap!</h2>
-      <a class="btn btn-light btn-xl sr-button" href="http://startbootstrap.com/template-overviews/creative/">Download Now!</a>
+      <h2 class="mb-4"> MSHACK 17::Make Münster Lebenswert again</h2>
+      <p>Eine klare Message soll vermittelt werden: Open Data für Münster und die Bürger. 
+        Unsere Seite verdeutlicht den Nutzen von offenen Daten und den daraus resultierenden Möglichkeiten zur Analyse. 
+        Sie charakterisiert den Ist-Zustand von Münster 13 Jahre nach der Auszeichnung zur lebenswertesten Stadt.
+        Kategorien wie <b>Historisches Erbe</b>, <b>Umwelt und Landschaft</b>, <b>Nachhaltigkeite Zukunftsplanung</b> und <b>Bürgerbeteiligung</b> sollen vermittelt werden.</p>
+      <a class="btn btn-light btn-xl sr-button" href="https://github.com/nsteffens/lebenswertMS">GitHub</a>
     </div>
   </section>
 

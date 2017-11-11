@@ -17,8 +17,8 @@ var bike_figure = {
             "title": "Weseler Straße  Stadteinwärts"
         }, 
 
-        "paper_bgcolor": "rgba(238, 73, 40, 0.808)", 
-        "plot_bgcolor": "rgba(238, 73, 40, 0.808)", 
+        "paper_bgcolor": "rgb(240, 96, 65)", 
+        "plot_bgcolor": "rgb(238, 73, 40)", 
         "dragmode": "pan", 
         "scene": {
             "aspectratio": {
