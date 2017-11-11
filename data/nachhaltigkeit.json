@@ -1,0 +1,2333 @@
+[{
+    "id": 1,
+    "title": "AK Gemeinschafts- und Nachhaltigkeitsforschung IfS",
+    "description": "Der %[1]% wurde Anfang 2013  am Institut für Soziologie der Westfälischen Wilhelms-Universität Münster  gegründet, um die am Institut bestehenden Forschungsbereiche zur  Gemeinschafts- und Nachhaltigkeitsforschung zu bündeln. Da wir Soziologie  aber auch als praktische Wissenschaft verstehen, wird die Vernetzung mit den  Communitys unterschiedlicher sozialer Bewegungen ebenso angestrebt. Auf der  Projektseite des Arbeitskreises (http://gemeinsam-nachhaltig.uni-muenster.de) sind die verschiedenen Tätigkeiten und Projekte der Forschergruppe ausführlich beschrieben.",
+    "parent_id": null,
+    "created_at": "2015-04-23T16:04:17.316Z",
+    "updated_at": "2015-09-15T12:34:51.840Z",
+    "references": [],
+    "deleted": false,
+    "delete_reason": "",
+    "category": {
+        "id": "Bildung und Wissenschaft",
+        "text": "Bildung und Wissenschaft",
+        "color": "#97bfb8"
+    },
+    "activity": {
+        "id": "Bildung und Wissen",
+        "text": "Bildung und Wissen",
+        "icon": "college"
+    },
+    "content": [{
+        "id": "Informieren",
+        "text": "Informieren"
+    }],
+    "start_date": null,
+    "end_date": null,
+    "favorites": [],
+    "image_url": "/static_images/ak-gemeinschafts-und-nachhaltigkeitsforschung-ifs-bildung-und-wissenschaft-bildung-und-wissen_d4adf.png",
+    "features": [{
+        "id": 1,
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.6074206829071045, 51.9496579064865]
+        },
+        "properties": {
+            "id": 1,
+            "title": "Arbeitskreis Gemeinschafts- und Nachhaltigkeitsforschung",
+            "marker-size": "medium",
+            "marker-color": "#97bfb8",
+            "marker-symbol": "college",
+            "contribution_id": 1
+        }
+    }],
+    "child_contributions": [],
+    "user": {
+        "id": 5,
+        "email": "b_goer02@uni-muenster.de",
+        "name": "Benjamin",
+        "confirmed": true,
+        "external_auth": false
+    }
+}, {
+    "id": 2,
+    "title": "AG Lokale Agenda 21",
+    "description": "%[2]%\u003ctr height=\"410\"\u003e\n  \u003ctd class=\"xl66\" style=\"height:307.5pt;width:323pt\" height=\"410\" width=\"431\"\u003eIn der\n  AG.LA21MS arbeiten vier Dachorganisationen zusammen: Das Eine- Welt- Forum e.\n  V., das FrauenAktionsBündnis, das Umweltforum Münster e. V. und das\n  friedensforum. Sie vertreten zusammen etwa 110 bürgerschaftlich organisierte\n  Gruppen und Initiativen. Nach Abschluss des lokalen Agenda-Prozesses in\n  Münster 1999 hat sich die AG.LA21MS zur Aufgabe gemacht, von\n  bürgerschaftlicher Seite die Diskussion über eine nachhaltige\n  Stadtentwicklung im Sinne der Agenda 21 lebendig zu erhalten. Die Umsetzung\n  der Agenda 21 ist ein permanenter Prozess, an dem die AG.LA21MS mitwirkt,\n  indem sie sich mit Vorschlägen und Anregungen an den Rat und die\n  Stadtverwaltung wendet und Öffentlichkeitsarbeit leistet. So hat sich die\n  Stadt beispielsweise auf Anregung der AG.LA21MS erfolgreich um den European\n  Energy Award beworben. Weitere Vorschläge betrafen u. a. Maßnahmen zum\n  Klimaschutz und zu Fragen einer geschlechtergerechten Stadtpolitik.\u003c/td\u003e\n\u003c/tr\u003e",
+    "parent_id": null,
+    "created_at": "2015-04-23T16:13:36.157Z",
+    "updated_at": "2015-04-23T16:13:36.157Z",
+    "references": [],
+    "deleted": false,
+    "delete_reason": null,
+    "category": {
+        "id": "Bürger- und Zivilgesellschaft",
+        "text": "Bürger- und Zivilgesellschaft",
+        "color": "#e3757e"
+    },
+    "activity": {
+        "id": "Partizipation und Protest",
+        "text": "Partizipation und Protest",
+        "icon": "embassy"
+    },
+    "content": [{
+        "id": "Informieren",
+        "text": "Informieren"
+    }, {
+        "id": "Mitmachen",
+        "text": "Mitmachen"
+    }],
+    "start_date": null,
+    "end_date": null,
+    "favorites": [],
+    "image_url": null,
+    "features": [{
+        "id": 2,
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.641634941101073, 51.9604982108833]
+        },
+        "properties": {
+            "title": "AG Lokale Agenda 21",
+            "marker-size": "medium",
+            "marker-color": "#e3757e",
+            "marker-symbol": "embassy",
+            "contribution_id": 2,
+            "id": 2
+        }
+    }],
+    "child_contributions": [],
+    "user": {
+        "id": 5,
+        "email": "b_goer02@uni-muenster.de",
+        "name": "Benjamin",
+        "confirmed": true,
+        "external_auth": false
+    }
+}, {
+    "id": 3,
+    "title": "Münster packt's! Der Bürgerpakt für Klimaschutz",
+    "description": "%[13]%Die Grundidee des Bürgerpakts sieht folgendermaßen aus: Sie unterzeichnen eine Selbstverpflichtung, um durch einfache Maßnahmen in ihrem persönlichen Alltag dazu beizutragen, das Klima zu schützen. Gleichzeitig \u003cbr\u003ebemühen sie sich darum, eine weitere Person aus ihrem Freundeskreis zu gewinnen, ebenfalls etwas zu machen. Die Idee greift um sich und führt zum \u003cbr\u003e\"\"Schneeball-Effekt\"\". Wir alle können gemeinsam den Klimawandel aufhalten Und unsere Umwelt weiterhin lebenswert zu erhalten.",
+    "parent_id": null,
+    "created_at": "2015-04-23T16:20:06.350Z",
+    "updated_at": "2015-05-05T12:55:19.413Z",
+    "references": [],
+    "deleted": false,
+    "delete_reason": "",
+    "category": {
+        "id": "Stadt und Politik",
+        "text": "Stadt und Politik",
+        "color": "#d1a04f"
+    },
+    "activity": {
+        "id": "Klima und Energie",
+        "text": "Klima und Energie",
+        "icon": "park2"
+    },
+    "content": [{
+        "id": "Mitmachen",
+        "text": "Mitmachen"
+    }],
+    "start_date": null,
+    "end_date": null,
+    "favorites": [],
+    "image_url": null,
+    "features": [{
+        "id": 13,
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.637922763824463, 51.95059360181958]
+        },
+        "properties": {
+            "id": 13,
+            "title": "Münster packt's! Der Bürgerpack für Klimaschutz",
+            "marker-size": "medium",
+            "marker-color": "#d1a04f",
+            "marker-symbol": "park2",
+            "contribution_id": 3
+        }
+    }],
+    "child_contributions": [],
+    "user": {
+        "id": 5,
+        "email": "b_goer02@uni-muenster.de",
+        "name": "Benjamin",
+        "confirmed": true,
+        "external_auth": false
+    }
+}, {
+    "id": 5,
+    "title": "grüne wiese",
+    "description": "Seit 2008 bieten die \"%[15]%\" in der Münsteraner Altstadt zeitgemäße urbane Kleidung aus fairer und ökologischer Produktion und hochwertigen umweltfreundlichen Materialien an. Mit fast 150 m2 ist unser Laden einer der größten Ethical-Fashion-Stores im Lande. Die Auswahl ist noch deutlich größer als im Onlineshop. Es lohnt sich also auch mal offline vorbeizuschauen!",
+    "parent_id": null,
+    "created_at": "2015-04-23T16:33:00.787Z",
+    "updated_at": "2015-05-13T10:20:08.897Z",
+    "references": [],
+    "deleted": false,
+    "delete_reason": "",
+    "category": {
+        "id": "Wirtschaft",
+        "text": "Wirtschaft",
+        "color": "#c080d8"
+    },
+    "activity": {
+        "id": "Kaufen und Mieten",
+        "text": "Kaufen und Mieten",
+        "icon": "grocery"
+    },
+    "content": [{
+        "id": "Konsumieren",
+        "text": "Konsumieren"
+    }],
+    "start_date": null,
+    "end_date": null,
+    "favorites": [],
+    "image_url": null,
+    "features": [{
+        "id": 3,
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.624184489250183, 51.96438540339332]
+        },
+        "properties": {
+            "id": 3,
+            "title": "grüne wiese",
+            "marker-size": "medium",
+            "marker-color": "#c080d8",
+            "marker-symbol": "grocery",
+            "contribution_id": 5
+        }
+    }, {
+        "id": 15,
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.6242005825042725, 51.96439862456131]
+        },
+        "properties": {
+            "id": 15,
+            "title": "grüne wiese",
+            "marker-size": "medium",
+            "marker-color": "#c080d8",
+            "marker-symbol": "grocery",
+            "contribution_id": 5
+        }
+    }],
+    "child_contributions": [],
+    "user": {
+        "id": 5,
+        "email": "b_goer02@uni-muenster.de",
+        "name": "Benjamin",
+        "confirmed": true,
+        "external_auth": false
+    }
+}, {
+    "id": 6,
+    "title": "Tag der Nachhaltigkeit",
+    "description": "\u003cspan style=\"font-family: lato, sans-serif; font-size: 16px; font-style: normal; font-variant: normal; line-height: 24px;\"\u003eDer \u003c/span\u003e%[4]% soll einen Beitrag zu nachhaltigen Stadtentwicklung in Münster leisten. Alle sind herzlich eingeladen sich zu beteiligen! Auf der \u0026[http%3A%2F%2Fmuenster-nachhaltig.de%2F|Homepage]\u0026 des Nachhaltigkeitstags sind die Ziele, das Programm und die teilnehmenden Gruppen ausführlich beschrieben.",
+    "parent_id": null,
+    "created_at": "2015-04-23T16:37:39.160Z",
+    "updated_at": "2015-05-19T11:12:01.829Z",
+    "references": [],
+    "deleted": false,
+    "delete_reason": "",
+    "category": {
+        "id": "Tag der Nachhaltigkeit",
+        "text": "Tag der Nachhaltigkeit",
+        "color": "#8ecf5c"
+    },
+    "activity": {
+        "id": "Partizipation und Protest",
+        "text": "Partizipation und Protest",
+        "icon": "embassy"
+    },
+    "content": [{
+        "id": "Informieren",
+        "text": "Informieren"
+    }, {
+        "id": "Mitmachen",
+        "text": "Mitmachen"
+    }, {
+        "id": "Diskutieren",
+        "text": "Diskutieren"
+    }, {
+        "id": "Vorschlagen",
+        "text": "Vorschlagen"
+    }],
+    "start_date": "2015-06-27T10:00:00.000Z",
+    "end_date": "2015-06-27T10:00:00.000Z",
+    "favorites": [],
+    "image_url": null,
+    "features": [{
+        "id": 4,
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.634215950965881, 51.96025029176289]
+        },
+        "properties": {
+            "id": 4,
+            "title": "Tag der Nachhaltigkeit",
+            "marker-size": "medium",
+            "marker-color": "#8ecf5c",
+            "marker-symbol": "embassy",
+            "contribution_id": 6
+        }
+    }],
+    "child_contributions": [],
+    "user": {
+        "id": 5,
+        "email": "b_goer02@uni-muenster.de",
+        "name": "Benjamin",
+        "confirmed": true,
+        "external_auth": false
+    }
+}, {
+    "id": 7,
+    "title": "grüne Beete Campusgarten",
+    "description": "Der %[6]%\u003cspan style=\"font-family: lato, sans-serif; font-size: 16px; font-style: normal; font-variant: normal; line-height: 24px;\"\u003e ist ein Gemeinschaftsprojekt von Studierenden und Mitarbeiter_innen von FH´, Uni und Kunstakademie. Er ist für alle Interessierten offen.\u003c/span\u003e",
+    "parent_id": null,
+    "created_at": "2015-04-30T15:26:10.701Z",
+    "updated_at": "2015-05-19T11:16:10.093Z",
+    "references": [],
+    "deleted": false,
+    "delete_reason": "",
+    "category": {
+        "id": "Bürger- und Zivilgesellschaft",
+        "text": "Bürger- und Zivilgesellschaft",
+        "color": "#e3757e"
+    },
+    "activity": {
+        "id": "Ökologie und Tierschutz",
+        "text": "Ökologie und Tierschutz",
+        "icon": "garden"
+    },
+    "content": [{
+        "id": "Mitmachen",
+        "text": "Mitmachen"
+    }],
+    "start_date": null,
+    "end_date": null,
+    "favorites": [],
+    "image_url": null,
+    "features": [{
+        "id": 6,
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.600146532058716, 51.97487186949739]
+        },
+        "properties": {
+            "id": 6,
+            "title": "grüne Beete Campusgarten",
+            "marker-size": "medium",
+            "marker-color": "#e3757e",
+            "marker-symbol": "garden",
+            "contribution_id": 7
+        }
+    }],
+    "child_contributions": [],
+    "user": {
+        "id": 5,
+        "email": "b_goer02@uni-muenster.de",
+        "name": "Benjamin",
+        "confirmed": true,
+        "external_auth": false
+    }
+}, {
+    "id": 8,
+    "title": "LoWi - Tauschring für Münster",
+    "description": "\u003cspan style=\"font-family: lato, sans-serif; font-size: 16px; font-style: normal; font-variant: normal; line-height: 24px;\"\u003eDer \u003c/span\u003e%[7]% Tauschring wurde Anfang 1996 von engagierten Leuten gegründet. Der Name LoWi ist eine Abkürzung für \"Lokale Wirtschaftsinitiative\". ",
+    "parent_id": null,
+    "created_at": "2015-05-04T13:23:53.775Z",
+    "updated_at": "2015-05-19T11:16:42.736Z",
+    "references": [],
+    "deleted": false,
+    "delete_reason": null,
+    "category": {
+        "id": "Bürger- und Zivilgesellschaft",
+        "text": "Bürger- und Zivilgesellschaft",
+        "color": "#e3757e"
+    },
+    "activity": {
+        "id": "Tauschen und Schenken",
+        "text": "Tauschen und Schenken",
+        "icon": "heart"
+    },
+    "content": [{
+        "id": "Informieren",
+        "text": "Informieren"
+    }, {
+        "id": "Mitmachen",
+        "text": "Mitmachen"
+    }],
+    "start_date": null,
+    "end_date": null,
+    "favorites": [],
+    "image_url": null,
+    "features": [{
+        "id": 7,
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.627252936363219, 51.94412599422046]
+        },
+        "properties": {
+            "id": 7,
+            "title": "LoWi - Tauschring für Münster",
+            "marker-size": "medium",
+            "marker-color": "#e3757e",
+            "marker-symbol": "heart",
+            "contribution_id": 8
+        }
+    }],
+    "child_contributions": [{
+        "id": 49,
+        "title": "",
+        "description": "Hier die Webseite dazu:\u003cbr\u003e\u003cbr\u003ehttp://www.tauschring-lowi.de/\u003cbr\u003e ",
+        "parent_id": 8,
+        "created_at": "2015-06-24T16:07:40.488Z",
+        "updated_at": "2015-06-24T16:13:28.726Z",
+        "references": [],
+        "deleted": true,
+        "delete_reason": null,
+        "category": {
+            "id": "Bürger- und Zivilgesellschaft",
+            "text": "Bürger- und Zivilgesellschaft",
+            "color": "#e3757e"
+        },
+        "activity": {
+            "id": "Tauschen und Schenken",
+            "text": "Tauschen und Schenken",
+            "icon": "heart"
+        },
+        "content": [{
+            "id": "Informieren",
+            "text": "Informieren"
+        }, {
+            "id": "Mitmachen",
+            "text": "Mitmachen"
+        }],
+        "start_date": null,
+        "end_date": null,
+        "favorites": [],
+        "image_url": null,
+        "features": [],
+        "child_contributions": [],
+        "user": {
+            "id": 29,
+            "email": "aartmann@muenster.de",
+            "name": "Andreas A.",
+            "confirmed": true,
+            "external_auth": false
+        }
+    }],
+    "user": {
+        "id": 5,
+        "email": "b_goer02@uni-muenster.de",
+        "name": "Benjamin",
+        "confirmed": true,
+        "external_auth": false
+    }
+}, {
+    "id": 9,
+    "title": "Fahrradwerkstatt im Jib",
+    "description": "In der %[8]% können defekte Fahrräder repariert werden. Es stehen Fachkräfte zur Unterstützung und Ersatzteile bereit. Die Fahrradwerkstatt hat montags und dienstags von 15.30 Uhr bis 20 Uhr sowie mittwochs, donnerstags und freitags von 15:30 bis 19 Uhr  geöffnet.",
+    "parent_id": null,
+    "created_at": "2015-05-04T13:25:57.987Z",
+    "updated_at": "2015-05-04T14:17:35.470Z",
+    "references": [],
+    "deleted": false,
+    "delete_reason": "",
+    "category": {
+        "id": "Stadt und Politik",
+        "text": "Stadt und Politik",
+        "color": "#d1a04f"
+    },
+    "activity": {
+        "id": "Reparatur und Handwerk",
+        "text": "Reparatur und Handwerk",
+        "icon": "hairdresser"
+    },
+    "content": [{
+        "id": "Mitmachen",
+        "text": "Mitmachen"
+    }],
+    "start_date": null,
+    "end_date": null,
+    "favorites": [],
+    "image_url": null,
+    "features": [{
+        "id": 8,
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.631426453590393, 51.95373117970821]
+        },
+        "properties": {
+            "id": 8,
+            "title": "Fahrradwerkstatt im Jib",
+            "marker-size": "medium",
+            "marker-color": "#d1a04f",
+            "marker-symbol": "hairdresser",
+            "contribution_id": 9
+        }
+    }],
+    "child_contributions": [],
+    "user": {
+        "id": 4,
+        "email": "b_wend04@uni-muenster.de",
+        "name": "Björn",
+        "confirmed": true,
+        "external_auth": false
+    }
+}, {
+    "id": 10,
+    "title": "Give-Box Hammerstraße",
+    "description": "In der %[9]% können nicht benutzte Gegenstände abgegeben werden, damit andere Menschen, die einen Bedarf für die Sachen haben sich diese umsonst abholen können.",
+    "parent_id": null,
+    "created_at": "2015-05-04T13:26:57.321Z",
+    "updated_at": "2015-05-13T14:54:20.231Z",
+    "references": [],
+    "deleted": false,
+    "delete_reason": "",
+    "category": {
+        "id": "Bürger- und Zivilgesellschaft",
+        "text": "Bürger- und Zivilgesellschaft",
+        "color": "#e3757e"
+    },
+    "activity": {
+        "id": "Tauschen und Schenken",
+        "text": "Tauschen und Schenken",
+        "icon": "heart"
+    },
+    "content": [{
+        "id": "Mitmachen",
+        "text": "Mitmachen"
+    }],
+    "start_date": null,
+    "end_date": null,
+    "favorites": [],
+    "image_url": null,
+    "features": [{
+        "id": 9,
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.625037431716918, 51.950160473191346]
+        },
+        "properties": {
+            "id": 9,
+            "title": "Give-Box Hammerstraße",
+            "marker-size": "medium",
+            "marker-color": "#e3757e",
+            "marker-symbol": "heart",
+            "contribution_id": 10
+        }
+    }],
+    "child_contributions": [],
+    "user": {
+        "id": 5,
+        "email": "b_goer02@uni-muenster.de",
+        "name": "Benjamin",
+        "confirmed": true,
+        "external_auth": false
+    }
+}, {
+    "id": 11,
+    "title": "Umsonst-Bücherei am Rosenplatz",
+    "description": "In der %[10]% können Bücher kostenlos abgegeben und mitgenommen werden.",
+    "parent_id": null,
+    "created_at": "2015-05-04T13:29:08.260Z",
+    "updated_at": "2015-05-13T14:56:53.433Z",
+    "references": [],
+    "deleted": false,
+    "delete_reason": "",
+    "category": {
+        "id": "Bürger- und Zivilgesellschaft",
+        "text": "Bürger- und Zivilgesellschaft",
+        "color": "#e3757e"
+    },
+    "activity": {
+        "id": "Tauschen und Schenken",
+        "text": "Tauschen und Schenken",
+        "icon": "heart"
+    },
+    "content": [{
+        "id": "Mitmachen",
+        "text": "Mitmachen"
+    }],
+    "start_date": null,
+    "end_date": null,
+    "favorites": [],
+    "image_url": null,
+    "features": [{
+        "id": 10,
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.621555924415588, 51.96530426528567]
+        },
+        "properties": {
+            "title": "Umsonst-Bücherei am Rosenplatz",
+            "marker-size": "medium",
+            "marker-color": "#e3757e",
+            "marker-symbol": "heart",
+            "contribution_id": 11,
+            "id": 10
+        }
+    }],
+    "child_contributions": [],
+    "user": {
+        "id": 5,
+        "email": "b_goer02@uni-muenster.de",
+        "name": "Benjamin",
+        "confirmed": true,
+        "external_auth": false
+    }
+}, {
+    "id": 12,
+    "title": "Kreativ-Haus",
+    "description": "\u003cspan style=\"font-family: lato, sans-serif; font-size: 16px; font-style: normal; font-variant: normal; line-height: 24px;\"\u003eDas \u003c/span\u003e%[11]% ist eine Bildungs- und Begegnungsstätte mit Kursangeboten und kulturellen Veranstaltungen für verschiedene Alters- und Zielgruppen. Intention der Veranstaltungen und Angebote ist die Förderung künstlerischer, kommunikativer und sozialer Kompetenzen, sowie die Entwicklung und Durchführung künstlerischer und kultureller Projekte.",
+    "parent_id": null,
+    "created_at": "2015-05-04T13:46:02.106Z",
+    "updated_at": "2015-05-19T11:17:34.014Z",
+    "references": [],
+    "deleted": false,
+    "delete_reason": "",
+    "category": {
+        "id": "Bürger- und Zivilgesellschaft",
+        "text": "Bürger- und Zivilgesellschaft",
+        "color": "#e3757e"
+    },
+    "activity": {
+        "id": "Kunst und Kultur",
+        "text": "Kunst und Kultur",
+        "icon": "theatre"
+    },
+    "content": [{
+        "id": "Informieren",
+        "text": "Informieren"
+    }, {
+        "id": "Diskutieren",
+        "text": "Diskutieren"
+    }],
+    "start_date": null,
+    "end_date": null,
+    "favorites": [],
+    "image_url": null,
+    "features": [{
+        "id": 11,
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.641704678535461, 51.958782582485426]
+        },
+        "properties": {
+            "id": 11,
+            "title": "Kreativ-Haus",
+            "marker-size": "medium",
+            "marker-color": "#e3757e",
+            "marker-symbol": "theatre",
+            "contribution_id": 12
+        }
+    }],
+    "child_contributions": [],
+    "user": {
+        "id": 5,
+        "email": "b_goer02@uni-muenster.de",
+        "name": "Benjamin",
+        "confirmed": true,
+        "external_auth": false
+    }
+}, {
+    "id": 13,
+    "title": "Grüner Weiler",
+    "description": "Der %[12]% ist ein \u003cspan style=\"font-family: lato, sans-serif; font-size: 16px; font-style: normal; font-variant: normal; line-height: 24px;\"\u003egeplantes ökologisches Wohnprojekt auf dem Gelände der ehemaligen Oxford Kaserne in Gievenbeck.\u003c/span\u003e",
+    "parent_id": null,
+    "created_at": "2015-05-04T14:31:54.902Z",
+    "updated_at": "2015-05-19T11:19:33.576Z",
+    "references": [],
+    "deleted": false,
+    "delete_reason": "",
+    "category": {
+        "id": "Bürger- und Zivilgesellschaft",
+        "text": "Bürger- und Zivilgesellschaft",
+        "color": "#e3757e"
+    },
+    "activity": {
+        "id": "Wohnen und Nachbarschaft ",
+        "text": "Wohnen und Nachbarschaft ",
+        "icon": "town"
+    },
+    "content": [{
+        "id": "Mitmachen",
+        "text": "Mitmachen"
+    }, {
+        "id": "Informieren",
+        "text": "Informieren"
+    }, {
+        "id": "Diskutieren",
+        "text": "Diskutieren"
+    }],
+    "start_date": null,
+    "end_date": null,
+    "favorites": [],
+    "image_url": null,
+    "features": [{
+        "id": 12,
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.5767362117767325, 51.960656878400805]
+        },
+        "properties": {
+            "id": 12,
+            "title": "Grüner Weiler",
+            "marker-size": "medium",
+            "marker-color": "#e3757e",
+            "marker-symbol": "town",
+            "contribution_id": 13
+        }
+    }],
+    "child_contributions": [],
+    "user": {
+        "id": 5,
+        "email": "b_goer02@uni-muenster.de",
+        "name": "Benjamin",
+        "confirmed": true,
+        "external_auth": false
+    }
+}, {
+    "id": 14,
+    "title": "Radstation am Hauptbahnhof",
+    "description": "In der %[14]% können Fahrräder gelagert und entliehen werden. ",
+    "parent_id": null,
+    "created_at": "2015-05-04T14:49:17.587Z",
+    "updated_at": "2015-05-13T14:59:04.785Z",
+    "references": [],
+    "deleted": false,
+    "delete_reason": "",
+    "category": {
+        "id": "Wirtschaft",
+        "text": "Wirtschaft",
+        "color": "#c080d8"
+    },
+    "activity": {
+        "id": "Mobilität und Bewegung",
+        "text": "Mobilität und Bewegung",
+        "icon": "bicycle"
+    },
+    "content": [{
+        "id": "Konsumieren",
+        "text": "Konsumieren"
+    }, {
+        "id": "Informieren",
+        "text": "Informieren"
+    }],
+    "start_date": null,
+    "end_date": null,
+    "favorites": [],
+    "image_url": null,
+    "features": [{
+        "id": 14,
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.634119391441344, 51.95634951711432]
+        },
+        "properties": {
+            "title": "Radstation am Hbf. ",
+            "marker-size": "medium",
+            "marker-color": "#c080d8",
+            "marker-symbol": "bicycle",
+            "contribution_id": 14,
+            "id": 14
+        }
+    }],
+    "child_contributions": [],
+    "user": {
+        "id": 5,
+        "email": "b_goer02@uni-muenster.de",
+        "name": "Benjamin",
+        "confirmed": true,
+        "external_auth": false
+    }
+}, {
+    "id": 15,
+    "title": "Eine Welt Netz NRW",
+    "description": "Das %[16]% ist der Dachverband entwicklungspolitischer Vereine in Nordrhein-Westfalen und hat seinen Hauptsitz in Münster.  ",
+    "parent_id": null,
+    "created_at": "2015-05-05T12:16:35.297Z",
+    "updated_at": "2015-05-13T10:14:30.075Z",
+    "references": [],
+    "deleted": false,
+    "delete_reason": "",
+    "category": {
+        "id": "Bürger- und Zivilgesellschaft",
+        "text": "Bürger- und Zivilgesellschaft",
+        "color": "#e3757e"
+    },
+    "activity": {
+        "id": "Gerechtigkeit und Soziales",
+        "text": "Gerechtigkeit und Soziales",
+        "icon": "school"
+    },
+    "content": [{
+        "id": "Informieren",
+        "text": "Informieren"
+    }, {
+        "id": "Mitmachen",
+        "text": "Mitmachen"
+    }],
+    "start_date": null,
+    "end_date": null,
+    "favorites": [],
+    "image_url": null,
+    "features": [{
+        "id": 16,
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.633266448974609, 51.957671851631254]
+        },
+        "properties": {
+            "title": "Eine Welt Netz NRW",
+            "marker-size": "medium",
+            "marker-color": "#e3757e",
+            "marker-symbol": "school",
+            "contribution_id": 15,
+            "id": 16
+        }
+    }],
+    "child_contributions": [],
+    "user": {
+        "id": 5,
+        "email": "b_goer02@uni-muenster.de",
+        "name": "Benjamin",
+        "confirmed": true,
+        "external_auth": false
+    }
+}, {
+    "id": 16,
+    "title": "Café Prütt",
+    "description": "Das %[17]% gibt es schon seit 1986 an der gleichen Stelle. Zunächst als Begegnungszentrum mit vegetarisch-vollwertiger »Volksküche«. ",
+    "parent_id": null,
+    "created_at": "2015-05-05T12:30:33.231Z",
+    "updated_at": "2015-05-05T12:33:47.175Z",
+    "references": [],
+    "deleted": false,
+    "delete_reason": "",
+    "category": {
+        "id": "Wirtschaft",
+        "text": "Wirtschaft",
+        "color": "#c080d8"
+    },
+    "activity": {
+        "id": "Essen und Trinken",
+        "text": "Essen und Trinken",
+        "icon": "restaurant"
+    },
+    "content": [{
+        "id": "Konsumieren",
+        "text": "Konsumieren"
+    }],
+    "start_date": null,
+    "end_date": null,
+    "favorites": [],
+    "image_url": null,
+    "features": [{
+        "id": 17,
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.63700544834137, 51.9544023085406]
+        },
+        "properties": {
+            "title": "Café Prütt",
+            "marker-size": "medium",
+            "marker-color": "#c080d8",
+            "marker-symbol": "restaurant",
+            "contribution_id": 16,
+            "id": 17
+        }
+    }],
+    "child_contributions": [],
+    "user": {
+        "id": 5,
+        "email": "b_goer02@uni-muenster.de",
+        "name": "Benjamin",
+        "confirmed": true,
+        "external_auth": false
+    }
+}, {
+    "id": 19,
+    "title": "Recyclinghof Eulerstraße",
+    "description": "Auf dem %[20]% können Montag-Freitag von 8.30-19 Uhr und Samstag 9.30-19 Uhr verschiedenste Wertstoffe entsorgt werden.",
+    "parent_id": null,
+    "created_at": "2015-05-13T14:54:59.866Z",
+    "updated_at": "2015-05-13T14:54:59.866Z",
+    "references": [],
+    "deleted": false,
+    "delete_reason": null,
+    "category": {
+        "id": "Stadt und Politik",
+        "text": "Stadt und Politik",
+        "color": "#d1a04f"
+    },
+    "activity": {
+        "id": "Abfall und Recycling",
+        "text": "Abfall und Recycling",
+        "icon": "waste-basket"
+    },
+    "content": [{
+        "id": "Mitmachen",
+        "text": "Mitmachen"
+    }],
+    "start_date": null,
+    "end_date": null,
+    "favorites": [],
+    "image_url": null,
+    "features": [{
+        "id": 20,
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.641629576683044, 51.938814981077044]
+        },
+        "properties": {
+            "title": "Recyclinghof Eulerstraße 8",
+            "marker-size": "medium",
+            "marker-color": "#d1a04f",
+            "marker-symbol": "waste-basket",
+            "contribution_id": 19,
+            "id": 20
+        }
+    }],
+    "child_contributions": [],
+    "user": {
+        "id": 5,
+        "email": "b_goer02@uni-muenster.de",
+        "name": "Benjamin",
+        "confirmed": true,
+        "external_auth": false
+    }
+}, {
+    "id": 20,
+    "title": "SuperBioMarkt Münster Arkaden",
+    "description": "Im SuperBioMarkt in den Münster Arkaden gibt es das gewohnte Supermarkt-Vollsortiment in 100% zertifizierter Bio-Qualität. Wir achten besonders auf regionale Produkte, zum Beispiel von der Bäckerei Cibaria aus Münster oder den Bioland-Höfen Dinkler in Gescher oder Angenendt in Drensteinfurt.%[22]%\u003cbr\u003eWeitere Informationen unter:\u003cbr\u003e\u0026[http%3A%2F%2Fwww.superbiomarkt.com%2Funsere-maerkte%2Fsuperbiomarkt-muenster-arkaden%2F|www.superbiomarkt.com]\u0026",
+    "parent_id": null,
+    "created_at": "2015-05-15T09:23:29.391Z",
+    "updated_at": "2015-05-15T09:31:37.705Z",
+    "references": [],
+    "deleted": false,
+    "delete_reason": null,
+    "category": {
+        "id": "Wirtschaft",
+        "text": "Wirtschaft",
+        "color": "#c080d8"
+    },
+    "activity": {
+        "id": "Kaufen und Mieten",
+        "text": "Kaufen und Mieten",
+        "icon": "grocery"
+    },
+    "content": [{
+        "id": "Konsumieren",
+        "text": "Konsumieren"
+    }],
+    "start_date": null,
+    "end_date": null,
+    "favorites": [],
+    "image_url": "/static_images/superbiomarkt-muenster-arkaden-wirtschaft-kaufen-und-mieten_f2f96.jpeg",
+    "features": [{
+        "id": 21,
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.626786231994629, 51.96047507182341]
+        },
+        "properties": {
+            "id": 21,
+            "title": "SuperBioMarkt Münster Arkaden",
+            "marker-size": "medium",
+            "marker-color": "#c080d8",
+            "marker-symbol": "grocery",
+            "contribution_id": 20
+        }
+    }, {
+        "id": 22,
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.626786231994629, 51.96048498856482]
+        },
+        "properties": {
+            "id": 22,
+            "title": "SuperBioMarkt Münster Arkaden",
+            "marker-size": "medium",
+            "marker-color": "#c080d8",
+            "marker-symbol": "grocery",
+            "contribution_id": 20
+        }
+    }],
+    "child_contributions": [],
+    "user": {
+        "id": 7,
+        "email": "social.media@superbiomarkt.com",
+        "name": "SuperBioMart",
+        "confirmed": true,
+        "external_auth": false
+    }
+}, {
+    "id": 21,
+    "title": "SuperBioMarkt Kreuzviertel",
+    "description": "Im SuperBioMarkt im Kreuzviertel gibt es das gewohnte Supermarkt-Vollsortiment in 100% zertifizierter Bio-Qualität. Wir achten besonders auf regionale Produkte, zum Beispiel von der Bäckerei Cibaria aus Münster oder von den Bioland-Höfen Dinkler in Gescher und Angenendt in Drensteinfurt.\u003cbr\u003e\u0026[http%3A%2F%2Fwww.superbiomarkt.com%2Funsere-maerkte%2Fsuperbiomarkt-muenster-kreuzviertel%2F|Homepage%3A%20SuperBioMarkt%20Kreuzviertel]\u0026%[24]%\u003c/div\u003e\u003cbr class=\"ng-scope\"\u003e",
+    "parent_id": null,
+    "created_at": "2015-05-15T09:47:51.850Z",
+    "updated_at": "2015-05-15T10:02:34.831Z",
+    "references": [],
+    "deleted": false,
+    "delete_reason": null,
+    "category": {
+        "id": "Wirtschaft",
+        "text": "Wirtschaft",
+        "color": "#c080d8"
+    },
+    "activity": {
+        "id": "Kaufen und Mieten",
+        "text": "Kaufen und Mieten",
+        "icon": "grocery"
+    },
+    "content": [{
+        "id": "Konsumieren",
+        "text": "Konsumieren"
+    }],
+    "start_date": null,
+    "end_date": null,
+    "favorites": [],
+    "image_url": null,
+    "features": [{
+        "id": 23,
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.611937522888184, 51.97159036184372]
+        },
+        "properties": {
+            "id": 23,
+            "title": "SuperBioMarkt Kreuzviertel\u0026amp;lt;br\u0026amp;gt;",
+            "marker-size": "medium",
+            "marker-color": "#c080d8",
+            "marker-symbol": "grocery",
+            "contribution_id": 21
+        }
+    }, {
+        "id": 24,
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.611937522888184, 51.97162340944296]
+        },
+        "properties": {
+            "id": 24,
+            "title": "SuperBioMarkt Kreuzviertel",
+            "marker-size": "medium",
+            "marker-color": "#c080d8",
+            "marker-symbol": "grocery",
+            "contribution_id": 21
+        }
+    }],
+    "child_contributions": [],
+    "user": {
+        "id": 7,
+        "email": "social.media@superbiomarkt.com",
+        "name": "SuperBioMart",
+        "confirmed": true,
+        "external_auth": false
+    }
+}, {
+    "id": 23,
+    "title": "SuperBioMarkt Gievenbeck",
+    "description": "Im %[26]% gibt es das gewohnte Supermarkt-Vollsortiment in 100% zertifizierter Bio-Qualität. Wir achten besonders auf regionale Produkte, zum Beispiel von der Bäckerei Cibaria aus Münster oder von den Bioland-Höfen Dinkler in Gescher und Angenendt in Drensteinfurt.\u003cbr\u003e\u0026[http%3A%2F%2Fwww.superbiomarkt.com%2Funsere-maerkte%2Fmuenster-gievenbeck%2F|Homepage%20SuperBioMarkt%20Gievenbeck]\u0026",
+    "parent_id": null,
+    "created_at": "2015-05-15T10:08:11.387Z",
+    "updated_at": "2015-05-15T10:08:11.387Z",
+    "references": [],
+    "deleted": false,
+    "delete_reason": null,
+    "category": {
+        "id": "Wirtschaft",
+        "text": "Wirtschaft",
+        "color": "#c080d8"
+    },
+    "activity": {
+        "id": "Kaufen und Mieten",
+        "text": "Kaufen und Mieten",
+        "icon": "grocery"
+    },
+    "content": [{
+        "id": "Konsumieren",
+        "text": "Konsumieren"
+    }],
+    "start_date": null,
+    "end_date": null,
+    "favorites": [],
+    "image_url": "/static_images/superbiomarkt-gievenbeck-wirtschaft-kaufen-und-mieten_261d9.jpeg",
+    "features": [{
+        "id": 26,
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.57859230041504, 51.96775336989123]
+        },
+        "properties": {
+            "title": "SuperBioMarkt in Gievenbeck",
+            "marker-size": "medium",
+            "marker-color": "#c080d8",
+            "marker-symbol": "grocery",
+            "contribution_id": 23,
+            "id": 26
+        }
+    }],
+    "child_contributions": [],
+    "user": {
+        "id": 7,
+        "email": "social.media@superbiomarkt.com",
+        "name": "SuperBioMart",
+        "confirmed": true,
+        "external_auth": false
+    }
+}, {
+    "id": 24,
+    "title": "SuperBioMarkt Geistviertel",
+    "description": "Im %[27]% gibt es das gewohnte Supermarkt-Vollsortiment in 100% zertifizierter Bio-Qualität. Wir achten besonders auf regionale Produkte, zum Beispiel von der Bäckerei Cibaria aus Münster oder von den Bioland-Höfen Dinkler in Gescher und Angenendt in Drensteinfurt.\u003cbr\u003e\u0026[http%3A%2F%2Fwww.superbiomarkt.com%2Funsere-maerkte%2Fmuenster-geistviertel%2F|Homepage%20SuperBioMarkt%20Geistviertel]\u0026",
+    "parent_id": null,
+    "created_at": "2015-05-15T10:09:34.329Z",
+    "updated_at": "2015-05-15T10:09:34.329Z",
+    "references": [],
+    "deleted": false,
+    "delete_reason": null,
+    "category": {
+        "id": "Wirtschaft",
+        "text": "Wirtschaft",
+        "color": "#c080d8"
+    },
+    "activity": {
+        "id": "Kaufen und Mieten",
+        "text": "Kaufen und Mieten",
+        "icon": "grocery"
+    },
+    "content": [{
+        "id": "Konsumieren",
+        "text": "Konsumieren"
+    }],
+    "start_date": null,
+    "end_date": null,
+    "favorites": [],
+    "image_url": "/static_images/superbiomarkt-geistviertel-wirtschaft-kaufen-und-mieten_fd543.jpeg",
+    "features": [{
+        "id": 27,
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.62251079082489, 51.94524367405413]
+        },
+        "properties": {
+            "title": "SuperBioMarkt im Geistviertel",
+            "marker-size": "medium",
+            "marker-color": "#c080d8",
+            "marker-symbol": "grocery",
+            "contribution_id": 24,
+            "id": 27
+        }
+    }],
+    "child_contributions": [],
+    "user": {
+        "id": 7,
+        "email": "social.media@superbiomarkt.com",
+        "name": "SuperBioMart",
+        "confirmed": true,
+        "external_auth": false
+    }
+}, {
+    "id": 25,
+    "title": "SuperBioMarkt Mauritz",
+    "description": "Im %[28]% gibt es das gewohnte Supermarkt-Vollsortiment in 100% zertifizierter Bio-Qualität. Wir achten besonders auf regionale Produkte, zum Beispiel von der Bäckerei Cibaria aus Münster oder von den Bioland-Höfen Niederwahrenbrock in Hopsten und Angenendt in Drensteinfurt.\u003cbr\u003e\u0026[http%3A%2F%2Fwww.superbiomarkt.com%2Funsere-maerkte%2Fmuenster-mauritz%2F|Homepage%20SuperBioMarkt%20Mauritz]\u0026",
+    "parent_id": null,
+    "created_at": "2015-05-15T10:11:27.413Z",
+    "updated_at": "2015-05-15T10:11:27.413Z",
+    "references": [],
+    "deleted": false,
+    "delete_reason": null,
+    "category": {
+        "id": "Wirtschaft",
+        "text": "Wirtschaft",
+        "color": "#c080d8"
+    },
+    "activity": {
+        "id": "Kaufen und Mieten",
+        "text": "Kaufen und Mieten",
+        "icon": "grocery"
+    },
+    "content": [{
+        "id": "Konsumieren",
+        "text": "Konsumieren"
+    }],
+    "start_date": null,
+    "end_date": null,
+    "favorites": [],
+    "image_url": "/static_images/superbiomarkt-mauritz-wirtschaft-kaufen-und-mieten_b5c20.jpeg",
+    "features": [{
+        "id": 28,
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.647675275802611, 51.96423335968109]
+        },
+        "properties": {
+            "title": "SuperBioMarkt im Mauritz-Viertel",
+            "marker-size": "medium",
+            "marker-color": "#c080d8",
+            "marker-symbol": "grocery",
+            "contribution_id": 25,
+            "id": 28
+        }
+    }],
+    "child_contributions": [],
+    "user": {
+        "id": 7,
+        "email": "social.media@superbiomarkt.com",
+        "name": "SuperBioMart",
+        "confirmed": true,
+        "external_auth": false
+    }
+}, {
+    "id": 26,
+    "title": "bio to go",
+    "description": "Im %[29]% gibt es immer frische Säfte, Smoothies, Salate, Suppen und Desserts. Alles garantiert Bio und wenn möglich aus der Region.\u003cbr\u003ePerfekt für die Mittagspause oder den Zwischenstopp beim Einkaufsbummel!\u003cbr\u003e\u0026[http%3A%2F%2Fwww.biotogo.de%2F|Homepage%20bio%20to%20go]\u0026",
+    "parent_id": null,
+    "created_at": "2015-05-15T10:14:48.647Z",
+    "updated_at": "2015-05-15T10:14:48.647Z",
+    "references": [],
+    "deleted": false,
+    "delete_reason": null,
+    "category": {
+        "id": "Wirtschaft",
+        "text": "Wirtschaft",
+        "color": "#c080d8"
+    },
+    "activity": {
+        "id": "Essen und Trinken",
+        "text": "Essen und Trinken",
+        "icon": "restaurant"
+    },
+    "content": [{
+        "id": "Konsumieren",
+        "text": "Konsumieren"
+    }],
+    "start_date": null,
+    "end_date": null,
+    "favorites": [],
+    "image_url": "/static_images/bio-to-go-wirtschaft-essen-und-trinken_38f9d.jpeg",
+    "features": [{
+        "id": 29,
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.626523375511169, 51.96042879366779]
+        },
+        "properties": {
+            "title": "bio to go",
+            "marker-size": "medium",
+            "marker-color": "#c080d8",
+            "marker-symbol": "restaurant",
+            "contribution_id": 26,
+            "id": 29
+        }
+    }],
+    "child_contributions": [],
+    "user": {
+        "id": 7,
+        "email": "social.media@superbiomarkt.com",
+        "name": "SuperBioMart",
+        "confirmed": true,
+        "external_auth": false
+    }
+}, {
+    "id": 28,
+    "title": "Institut für Nachhaltige Ernährung und Ernährungswirtschaft (iSuN)",
+    "description": "Das %[30]% (iSuN) widmet sich der Entwicklung von Konzepten, Produkten und Dienstleistungen für eine zukunftsfähige Ernährung und kooperiert dabei eng mit den Akteuren im Themenfeld Ernährung. Das iSuN hinterfragt bestehende Angebotsstrukturen und das Verbraucherverhalten im Ernährungssystem und zielt auf deren Weiterentwicklung im Sinne einer gemeinsamen Verantwortung für einen nachhaltigen Lebensstil. Auf der \u0026[https%3A%2F%2Fwww.fh-muenster.de%2Fisun%2Fdas_Institut%2Fdas_institut.php%3Fp%3D0|Homepage%20des%20iSuN]\u0026 sind weitere Information zur Forschung des Instituts einsehbar.",
+    "parent_id": null,
+    "created_at": "2015-05-19T11:53:26.399Z",
+    "updated_at": "2015-05-19T11:54:29.132Z",
+    "references": [],
+    "deleted": false,
+    "delete_reason": null,
+    "category": {
+        "id": "Bildung und Wissenschaft",
+        "text": "Bildung und Wissenschaft",
+        "color": "#97bfb8"
+    },
+    "activity": {
+        "id": "Bildung und Wissen",
+        "text": "Bildung und Wissen",
+        "icon": "college"
+    },
+    "content": [{
+        "id": "Informieren",
+        "text": "Informieren"
+    }],
+    "start_date": null,
+    "end_date": null,
+    "favorites": [],
+    "image_url": null,
+    "features": [{
+        "id": 30,
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.595838904380798, 51.96838462887153]
+        },
+        "properties": {
+            "id": 30,
+            "title": "Institut für Nachhaltige Ernährung und Ernährungswirtschaft",
+            "marker-size": "medium",
+            "marker-color": "#97bfb8",
+            "marker-symbol": "college",
+            "contribution_id": 28
+        }
+    }],
+    "child_contributions": [],
+    "user": {
+        "id": 4,
+        "email": "b_wend04@uni-muenster.de",
+        "name": "Björn",
+        "confirmed": true,
+        "external_auth": false
+    }
+}, {
+    "id": 29,
+    "title": "Give Box",
+    "description": "%[31]%",
+    "parent_id": null,
+    "created_at": "2015-05-20T13:04:56.583Z",
+    "updated_at": "2015-05-20T13:04:56.583Z",
+    "references": [],
+    "deleted": false,
+    "delete_reason": null,
+    "category": {
+        "id": "Bürger- und Zivilgesellschaft",
+        "text": "Bürger- und Zivilgesellschaft",
+        "color": "#e3757e"
+    },
+    "activity": {
+        "id": "Tauschen und Schenken",
+        "text": "Tauschen und Schenken",
+        "icon": "heart"
+    },
+    "content": [{
+        "id": "Mitmachen",
+        "text": "Mitmachen"
+    }],
+    "start_date": null,
+    "end_date": null,
+    "favorites": [],
+    "image_url": null,
+    "features": [{
+        "id": 31,
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.623454928398132, 51.94195999691859]
+        },
+        "properties": {
+            "title": "Give Box",
+            "marker-size": "medium",
+            "marker-color": "#e3757e",
+            "marker-symbol": "heart",
+            "contribution_id": 29,
+            "id": 31
+        }
+    }],
+    "child_contributions": [],
+    "user": {
+        "id": 9,
+        "email": "bling2306@hotmail.com",
+        "name": "bling2306",
+        "confirmed": true,
+        "external_auth": false
+    }
+}, {
+    "id": 30,
+    "title": "Umwelthaus",
+    "description": "Das Umwelthaus ist das \"grüne Zentrum\" Münsters, in dem sich alles rund um ehrenamtlichen getragenen Umwelt-, Natur- und Klimaschutz dreht. Das Umwelthaus wird verwaltet vom Umweltforum Münster e.V., dem dachverband von derzeit 16 münsterschen Umweltgruppen. Mehr auf www.umweltforum-muenster.de%[32]%",
+    "parent_id": null,
+    "created_at": "2015-05-21T13:40:10.283Z",
+    "updated_at": "2015-05-21T13:40:10.283Z",
+    "references": [],
+    "deleted": false,
+    "delete_reason": null,
+    "category": {
+        "id": "Bürger- und Zivilgesellschaft",
+        "text": "Bürger- und Zivilgesellschaft",
+        "color": "#e3757e"
+    },
+    "activity": {
+        "id": "Partizipation und Protest",
+        "text": "Partizipation und Protest",
+        "icon": "embassy"
+    },
+    "content": [{
+        "id": "Informieren",
+        "text": "Informieren"
+    }, {
+        "id": "Mitmachen",
+        "text": "Mitmachen"
+    }, {
+        "id": "Diskutieren",
+        "text": "Diskutieren"
+    }],
+    "start_date": null,
+    "end_date": null,
+    "favorites": [],
+    "image_url": null,
+    "features": [{
+        "id": 32,
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.641506195068359, 51.9603725987003]
+        },
+        "properties": {
+            "title": "Umwelthaus",
+            "marker-size": "medium",
+            "marker-color": "#e3757e",
+            "marker-symbol": "embassy",
+            "contribution_id": 30,
+            "id": 32
+        }
+    }],
+    "child_contributions": [],
+    "user": {
+        "id": 11,
+        "email": "info@umweltforum-muenster.de",
+        "name": "Anke",
+        "confirmed": true,
+        "external_auth": false
+    }
+}, {
+    "id": 31,
+    "title": "Institut für Theologische Zoologie",
+    "description": "Das Institut für Theologische Zoologie ist Fürsprecher für einen nachhaltigen, christlichen Lebensstil mit Respekt gegenüber den\u003cbr\u003eTieren. Tatkräftig setzen wir uns jeden Tag dafür ein.\u003cbr\u003e\u003cbr\u003eMit Forschung, Information und persönlichem Engagement baut das Institut für Theologische Zoologie Brücken in eine Welt, in der der Mensch als Teil der Schöpfungsgemeinschaft wahre Fürsorge für die gesamte natürliche Mit-Welt übernimmt. \u003cbr\u003e\u003cbr\u003eMit unseren interreligiösen, fächerübergreifenden Kompetenzen vertreten wir eine Theologie mit dem Gesicht zum Tier.\u003cdiv class=\"ng-scope\"\u003e%[33]%\u003c/div\u003e",
+    "parent_id": null,
+    "created_at": "2015-05-22T11:30:25.516Z",
+    "updated_at": "2015-05-22T11:33:30.667Z",
+    "references": [],
+    "deleted": false,
+    "delete_reason": null,
+    "category": {
+        "id": "Bildung und Wissenschaft",
+        "text": "Bildung und Wissenschaft",
+        "color": "#97bfb8"
+    },
+    "activity": {
+        "id": "Bildung und Wissen",
+        "text": "Bildung und Wissen",
+        "icon": "college"
+    },
+    "content": [{
+        "id": "Informieren",
+        "text": "Informieren"
+    }, {
+        "id": "Diskutieren",
+        "text": "Diskutieren"
+    }, {
+        "id": "Vorschlagen",
+        "text": "Vorschlagen"
+    }],
+    "start_date": null,
+    "end_date": null,
+    "favorites": [],
+    "image_url": null,
+    "features": [{
+        "id": 33,
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.644467353820801, 51.961218821341994]
+        },
+        "properties": {
+            "id": 33,
+            "title": "Institut für Theologische Zoologie",
+            "marker-size": "medium",
+            "marker-color": "#97bfb8",
+            "marker-symbol": "college",
+            "contribution_id": 31
+        }
+    }],
+    "child_contributions": [],
+    "user": {
+        "id": 12,
+        "email": "t.cappiello@theologische-zoologie.de",
+        "name": "Institut für Theologische Zoologie",
+        "confirmed": true,
+        "external_auth": false
+    }
+}, {
+    "id": 32,
+    "title": "Schnippeldisko",
+    "description": "\u003cspan style='font-family: \"Arial\",\"sans-serif\"; font-size: 16.5pt; mso-fareast-font-family: \"Times New Roman\"; mso-fareast-language: DE;'\u003e\u003cfont color=\"#000000\"\u003e\u003cspan style='font-family: \"Arial\",\"sans-serif\"; font-size: 12pt; mso-fareast-font-family: \"Times New Roman\"; mso-fareast-language: DE;'\u003e\u0026[http%3A%2F%2Fhttp%3A%2F%2Fslowfoodyouth.de%2Fmuenster%2F|uenster%2Ftp%3A%2F%2Fslowfoodyouth.de%2Fmuenster%2F]\u0026\u003cp\u003e \u003c/p\u003e\u003cp\u003eSlow Food\nYouth Münster lädt ein zu einer kulinarischen \u003c/p\u003e\u003c/span\u003e\u003cp\u003e\u003cspan style='font-family: \"Arial\",\"sans-serif\"; font-size: 12pt; mso-fareast-font-family: \"Times New Roman\"; mso-fareast-language: DE;'\u003eProtestaktion!\nWir sammeln für euch knubbeliges und unerwünschtes Gemüse, welches wir dann\ngemeinsam zu \u003c/span\u003e\u003cspan style='font-family: \"Arial\",\"sans-serif\"; font-size: 12pt; mso-fareast-font-family: \"Times New Roman\"; mso-fareast-language: DE;'\u003eguter Musik\nschnippeln. Daraus kochen wir uns eine bunte Köstlichkeit! \u003co:p\u003e\u003c/o:p\u003e\u003c/span\u003e\u003c/p\u003e\u003cp class=\"MsoNormal\" style=\"margin: 0cm 0cm 0pt; line-height: normal;\"\u003e\u003cfont face=\"Times New Roman\" size=\"3\"\u003e\n\n\u003c/font\u003e\u003cspan style='font-family: \"Arial\",\"sans-serif\"; font-size: 12pt; mso-fareast-font-family: \"Times New Roman\"; mso-fareast-language: DE;'\u003eKomm vorbei\nzum Schnippeln, Tanzen und Essen gegen \u003c/span\u003e\u003cspan style='font-family: \"Arial\",\"sans-serif\"; font-size: 12pt; mso-fareast-font-family: \"Times New Roman\"; mso-fareast-language: DE;'\u003eLebensmittelverschwendung! %[34]%\u003co:p\u003e\u003c/o:p\u003e\u003c/span\u003e\u003c/p\u003e\u003cp class=\"MsoNormal\" style=\"margin: 0cm 0cm 0pt; line-height: normal;\"\u003e\u003cfont size=\"3\"\u003e\u003cfont face=\"Times New Roman\"\u003e\n\n \u003co:p\u003e\u003c/o:p\u003e\u003c/font\u003e\u003c/font\u003e\u003c/p\u003e\u003c/font\u003e\u003cp class=\"MsoNormal\" style=\"margin: 0cm 0cm 0pt; line-height: normal;\"\u003e \u003c/p\u003e\u003c/span\u003e\u003cp class=\"MsoNormal\" style=\"margin: 0cm 0cm 0pt; line-height: normal;\"\u003e \u003c/p\u003e\u003cfont color=\"#000000\" face=\"Times New Roman\"\u003e\n\n\u003c/font\u003e",
+    "parent_id": null,
+    "created_at": "2015-05-26T15:32:19.017Z",
+    "updated_at": "2015-05-26T15:32:19.017Z",
+    "references": [],
+    "deleted": false,
+    "delete_reason": null,
+    "category": {
+        "id": "Tag der Nachhaltigkeit",
+        "text": "Tag der Nachhaltigkeit",
+        "color": "#8ecf5c"
+    },
+    "activity": {
+        "id": "Partizipation und Protest",
+        "text": "Partizipation und Protest",
+        "icon": "embassy"
+    },
+    "content": [{
+        "id": "Mitmachen",
+        "text": "Mitmachen"
+    }],
+    "start_date": "2015-06-27T10:00:00.000Z",
+    "end_date": "2015-06-28T10:00:00.000Z",
+    "favorites": [],
+    "image_url": null,
+    "features": [{
+        "id": 34,
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.634146213531494, 51.96044201600284]
+        },
+        "properties": {
+            "title": "Slow Food Youth Schnippeldisko",
+            "marker-size": "medium",
+            "marker-color": "#8ecf5c",
+            "marker-symbol": "embassy",
+            "contribution_id": 32,
+            "id": 34
+        }
+    }],
+    "child_contributions": [],
+    "user": {
+        "id": 10,
+        "email": "slowfoodyouth.ms@gmail.com",
+        "name": "Slow Food Youth Münster",
+        "confirmed": true,
+        "external_auth": false
+    }
+}, {
+    "id": 34,
+    "title": "Tauschbörse an Stand Nr. 28",
+    "description": "Anders leben! Aber wie? - Tauschen statt Kaufen!\u003cbr\u003eSo lautet das Motto von Studierenden des Nachhaltigkeits-Masters der FH-Münster für den Tag der Nachhaltigkeit. \u003cbr\u003eFindest du bei dir zu Hause ein schönes, gut erhaltenes Stück womit du anderen eine Freude machen kannst? Dann bringe es an unserem Stand (%[36]%) vorbei, werde Teil unserer Tauschgemeinschaft und TAUSCH DICH GLÜCKLICH!\u003cbr\u003e- GEMEINSAM ANDERS! -",
+    "parent_id": null,
+    "created_at": "2015-05-31T19:37:59.560Z",
+    "updated_at": "2015-05-31T19:43:52.351Z",
+    "references": [],
+    "deleted": false,
+    "delete_reason": null,
+    "category": {
+        "id": "Tag der Nachhaltigkeit",
+        "text": "Tag der Nachhaltigkeit",
+        "color": "#8ecf5c"
+    },
+    "activity": {
+        "id": "Tauschen und Schenken",
+        "text": "Tauschen und Schenken",
+        "icon": "heart"
+    },
+    "content": [{
+        "id": "Mitmachen",
+        "text": "Mitmachen"
+    }, {
+        "id": "Informieren",
+        "text": "Informieren"
+    }],
+    "start_date": "2015-06-27T10:00:00.000Z",
+    "end_date": "2015-06-27T10:00:00.000Z",
+    "favorites": [],
+    "image_url": null,
+    "features": [{
+        "id": 36,
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.634532451629638, 51.96024698616536]
+        },
+        "properties": {
+            "id": 36,
+            "title": "Tauschbörse",
+            "marker-size": "medium",
+            "marker-color": "#8ecf5c",
+            "marker-symbol": "heart",
+            "contribution_id": 34
+        }
+    }],
+    "child_contributions": [],
+    "user": {
+        "id": 16,
+        "email": "lena.stuhlinger@web.de",
+        "name": "FH Münster",
+        "confirmed": true,
+        "external_auth": false
+    }
+}, {
+    "id": 38,
+    "title": "Slow Food Youth Münster",
+    "description": "Wir sind ein bunt zusammengewürfelter Haufen an StudentInnen, JungköchInnen, Arbeitstieren und Genussmenschen, die sich gemeinsam für gute, saubere und faire Lebensmittel einsetzen. Und das nicht vom Sofa aus, sondern aktiv, mit Liebe, Engagement und Aktionen. \u003cbr\u003eWir treffen uns etwa alle zwei Wochen (hier:\u003cbr\u003e%[40]%), um ingemütlicher Runde und bei selbstgemachten Snacks zusammenzusitzen, uns über aktuelle Themen auszutauschen und Aktionen zu planen. Unsere Treffen sind offen für für Alle und wir freuen uns über jedes neue Gesicht! \u003cbr\u003eAlso komm vorbei, besuche uns auf \u0026[https%3A%2F%2Fde-de.facebook.com%2Fpages%2FSlow-Food-Youth-M%25C3%25BCnster%2F1434619873482370|Facebook]\u0026 oder informiere dich auf unserer \u0026[http%3A%2F%2Fslowfoodyouth.de%2Fmuenster%2F|Homepage]\u0026",
+    "parent_id": null,
+    "created_at": "2015-06-03T09:58:01.415Z",
+    "updated_at": "2015-06-03T11:38:52.928Z",
+    "references": [],
+    "deleted": false,
+    "delete_reason": null,
+    "category": {
+        "id": "Bürger- und Zivilgesellschaft",
+        "text": "Bürger- und Zivilgesellschaft",
+        "color": "#e3757e"
+    },
+    "activity": {
+        "id": "Partizipation und Protest",
+        "text": "Partizipation und Protest",
+        "icon": "embassy"
+    },
+    "content": [{
+        "id": "Mitmachen",
+        "text": "Mitmachen"
+    }, {
+        "id": "Informieren",
+        "text": "Informieren"
+    }, {
+        "id": "Diskutieren",
+        "text": "Diskutieren"
+    }],
+    "start_date": null,
+    "end_date": null,
+    "favorites": [],
+    "image_url": null,
+    "features": [{
+        "id": 40,
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.595329284667969, 51.968371408879335]
+        },
+        "properties": {
+            "id": 40,
+            "title": "Slow Food Youth",
+            "marker-size": "medium",
+            "marker-color": "#e3757e",
+            "marker-symbol": "embassy",
+            "contribution_id": 38
+        }
+    }],
+    "child_contributions": [],
+    "user": {
+        "id": 10,
+        "email": "slowfoodyouth.ms@gmail.com",
+        "name": "Slow Food Youth Münster",
+        "confirmed": true,
+        "external_auth": false
+    }
+}, {
+    "id": 39,
+    "title": "Waldschule Münsterland e.V.",
+    "description": "%[41]%",
+    "parent_id": null,
+    "created_at": "2015-06-03T11:07:58.749Z",
+    "updated_at": "2015-06-03T11:07:58.749Z",
+    "references": [],
+    "deleted": false,
+    "delete_reason": null,
+    "category": {
+        "id": "Bildung und Wissenschaft",
+        "text": "Bildung und Wissenschaft",
+        "color": "#97bfb8"
+    },
+    "activity": {
+        "id": "Bildung und Wissen",
+        "text": "Bildung und Wissen",
+        "icon": "college"
+    },
+    "content": [{
+        "id": "Mitmachen",
+        "text": "Mitmachen"
+    }, {
+        "id": "Informieren",
+        "text": "Informieren"
+    }],
+    "start_date": null,
+    "end_date": null,
+    "favorites": [],
+    "image_url": null,
+    "features": [{
+        "id": 41,
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.562456130981445, 51.997353479419196]
+        },
+        "properties": {
+            "title": "Waldschule Münsterland e.V.",
+            "marker-size": "medium",
+            "marker-color": "#97bfb8",
+            "marker-symbol": "college",
+            "contribution_id": 39,
+            "id": 41
+        }
+    }],
+    "child_contributions": [],
+    "user": {
+        "id": 20,
+        "email": "waldschule.muenster@web.de",
+        "name": "Waldschule Münsterland",
+        "confirmed": true,
+        "external_auth": false
+    }
+}, {
+    "id": 40,
+    "title": "Nachh. \u0026 faire Smartphones \u0026 PC-Mäuse",
+    "description": "Infostand mit \u0026[http%3A%2F%2Fwww.shiftphones.com%2F|SHIFTphones%20]\u0026  - Material von Carsten Waldeck, Erfinder/Visionär aus Nordhessen + der \"Fairmaus\" von \u0026[https%3A%2F%2Fwww.nager-it.de%2Fstatic%2Fpdf%2FFaireMausFlyer.pdf|Nager-IT]\u0026.\u003cbr\u003e\n    Ich stehe hier für \"Nachhaltigkeit greifbar um die Ecke\" und bin\n    keine Fachfrau für Smartphones. Ich unterstütze Carstens Projekt und\n    seine bisher gelungenen Bemühungen ehrenamtlich (nicht im Namen der Firma).  Dto gilt für Nager IT.\u003cbr\u003e\n    Tipps:\u0026[https%3A%2F%2Fwww.startnext.com%2Fshift-reloaded%2Fblog%2F|%20Updates%20hier%20]\u0026  Ein E-Roller sowie ein E-Klapp-Fahrrad\n    stehen schon in den Startlöchern zur Genehmigung vom TÜV . %[42]%\u003cbr\u003eHeike Witzel hu.witzel@web.de ",
+    "parent_id": null,
+    "created_at": "2015-06-03T11:13:29.680Z",
+    "updated_at": "2015-06-21T16:26:01.689Z",
+    "references": [],
+    "deleted": false,
+    "delete_reason": null,
+    "category": {
+        "id": "Tag der Nachhaltigkeit",
+        "text": "Tag der Nachhaltigkeit",
+        "color": "#8ecf5c"
+    },
+    "activity": {
+        "id": "Gerechtigkeit und Soziales",
+        "text": "Gerechtigkeit und Soziales",
+        "icon": "school"
+    },
+    "content": [{
+        "id": "Informieren",
+        "text": "Informieren"
+    }],
+    "start_date": null,
+    "end_date": null,
+    "favorites": [],
+    "image_url": "/static_images/nachhaltige-und-faire-smartphones-phablets-tag-der-nachhaltigkeit-gerechtigkeit-und-soziales_20560.png",
+    "features": [{
+        "id": 42,
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.63475775718689, 51.95998253757283]
+        },
+        "properties": {
+            "id": 42,
+            "title": "SHIFTphones, Fairmaus",
+            "marker-size": "medium",
+            "marker-color": "#8ecf5c",
+            "marker-symbol": "school",
+            "contribution_id": 40
+        }
+    }],
+    "child_contributions": [{
+        "id": 41,
+        "title": "",
+        "description": "Die Beschreibung  zum E-Roller im Retro-Design sind hier zu sehen (für Updates in Fb liken): \u0026[http%3A%2F%2Fshiftbikes.de%2F|www.shiftbikes.de]\u0026",
+        "parent_id": 40,
+        "created_at": "2015-06-05T14:30:27.591Z",
+        "updated_at": "2015-06-16T16:34:11.156Z",
+        "references": [],
+        "deleted": false,
+        "delete_reason": null,
+        "category": {
+            "id": "Tag der Nachhaltigkeit",
+            "text": "Tag der Nachhaltigkeit",
+            "color": "#8ecf5c"
+        },
+        "activity": {
+            "id": "Gerechtigkeit und Soziales",
+            "text": "Gerechtigkeit und Soziales",
+            "icon": "school"
+        },
+        "content": [{
+            "id": "Informieren",
+            "text": "Informieren"
+        }],
+        "start_date": null,
+        "end_date": null,
+        "favorites": [],
+        "image_url": "/static_images/tag-der-nachhaltigkeit-gerechtigkeit-und-soziales_66a0d.jpeg",
+        "features": [],
+        "child_contributions": [],
+        "user": {
+            "id": 15,
+            "email": "hu.witzel@web.de",
+            "name": "Heike W.",
+            "confirmed": true,
+            "external_auth": false
+        }
+    }],
+    "user": {
+        "id": 15,
+        "email": "hu.witzel@web.de",
+        "name": "Heike W.",
+        "confirmed": true,
+        "external_auth": false
+    }
+}, {
+    "id": 43,
+    "title": "Givebox am Kanonierplatz im Kreuzviertel",
+    "description": "Die Givebox am Kanonierplatz gegenüber des Kinos Schloßtheater hält vieles bereit, was Menschen brauchen und andere dort abgegeben haben. Geben und nehmen eben.  Die Anwohner kümmern sich,  und ein netter Plausch ist auch fast immer dabei.%[44]% ",
+    "parent_id": null,
+    "created_at": "2015-06-10T20:24:54.483Z",
+    "updated_at": "2015-06-10T20:24:54.483Z",
+    "references": [],
+    "deleted": false,
+    "delete_reason": null,
+    "category": {
+        "id": "Bürger- und Zivilgesellschaft",
+        "text": "Bürger- und Zivilgesellschaft",
+        "color": "#e3757e"
+    },
+    "activity": {
+        "id": "Tauschen und Schenken",
+        "text": "Tauschen und Schenken",
+        "icon": "heart"
+    },
+    "content": [{
+        "id": "Mitmachen",
+        "text": "Mitmachen"
+    }],
+    "start_date": null,
+    "end_date": null,
+    "favorites": [],
+    "image_url": null,
+    "features": [{
+        "id": 44,
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.613718509674072, 51.97096245282706]
+        },
+        "properties": {
+            "title": "Givebox am Kanonierplatz. Kreuzviertel",
+            "marker-size": "medium",
+            "marker-color": "#e3757e",
+            "marker-symbol": "heart",
+            "contribution_id": 43,
+            "id": 44
+        }
+    }],
+    "child_contributions": [],
+    "user": {
+        "id": 21,
+        "email": "brief@wtt-online.de",
+        "name": "Dirten",
+        "confirmed": true,
+        "external_auth": false
+    }
+}, {
+    "id": 44,
+    "title": "Weltladen la tienda e.V.",
+    "description": "\u0026[http%3A%2F%2F|http%3A%2F%2Fwww.latienda-weltladen.de%2F]\u0026%[45]%",
+    "parent_id": null,
+    "created_at": "2015-06-13T07:56:46.256Z",
+    "updated_at": "2015-06-13T07:56:46.256Z",
+    "references": [],
+    "deleted": false,
+    "delete_reason": null,
+    "category": {
+        "id": "Wirtschaft",
+        "text": "Wirtschaft",
+        "color": "#c080d8"
+    },
+    "activity": {
+        "id": "Kaufen und Mieten",
+        "text": "Kaufen und Mieten",
+        "icon": "grocery"
+    },
+    "content": [{
+        "id": "Konsumieren",
+        "text": "Konsumieren"
+    }, {
+        "id": "Informieren",
+        "text": "Informieren"
+    }, {
+        "id": "Mitmachen",
+        "text": "Mitmachen"
+    }],
+    "start_date": null,
+    "end_date": null,
+    "favorites": [],
+    "image_url": "/static_images/weltladen-la-tienda-e-v-wirtschaft-kaufen-und-mieten_d9f69.gif",
+    "features": [{
+        "id": 45,
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.621094584465028, 51.963611958278456]
+        },
+        "properties": {
+            "title": "Weltladen la tienda e.V.",
+            "marker-size": "medium",
+            "marker-color": "#c080d8",
+            "marker-symbol": "grocery",
+            "contribution_id": 44,
+            "id": 45
+        }
+    }],
+    "child_contributions": [],
+    "user": {
+        "id": 23,
+        "email": "sebastian-salaske@gmx.de",
+        "name": "salino",
+        "confirmed": true,
+        "external_auth": false
+    }
+}, {
+    "id": 45,
+    "title": "Weltladen Münster",
+    "description": "%[47]%\u003cdiv class=\"ng-scope\"\u003e\u0026[http%3A%2F%2F|http%3A%2F%2Fwww.weltladenmuenster.de%2F]\u0026",
+    "parent_id": null,
+    "created_at": "2015-06-13T07:59:00.246Z",
+    "updated_at": "2015-06-13T08:02:51.982Z",
+    "references": [],
+    "deleted": false,
+    "delete_reason": null,
+    "category": {
+        "id": "Wirtschaft",
+        "text": "Wirtschaft",
+        "color": "#c080d8"
+    },
+    "activity": {
+        "id": "Kaufen und Mieten",
+        "text": "Kaufen und Mieten",
+        "icon": "grocery"
+    },
+    "content": [{
+        "id": "Konsumieren",
+        "text": "Konsumieren"
+    }, {
+        "id": "Informieren",
+        "text": "Informieren"
+    }, {
+        "id": "Mitmachen",
+        "text": "Mitmachen"
+    }],
+    "start_date": null,
+    "end_date": null,
+    "favorites": [],
+    "image_url": "/static_images/weltladen-muenster-wirtschaft-kaufen-und-mieten_8c432.png",
+    "features": [{
+        "id": 47,
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.64272928237915, 51.962018751495116]
+        },
+        "properties": {
+            "title": "Weltladen Münster",
+            "marker-size": "medium",
+            "marker-color": "#c080d8",
+            "marker-symbol": "grocery",
+            "contribution_id": 45,
+            "id": 47
+        }
+    }],
+    "child_contributions": [{
+        "id": 46,
+        "title": "",
+        "description": "%[46]%",
+        "parent_id": 45,
+        "created_at": "2015-06-13T08:02:04.016Z",
+        "updated_at": "2015-06-13T08:02:56.865Z",
+        "references": [],
+        "deleted": true,
+        "delete_reason": null,
+        "category": {
+            "id": "Wirtschaft",
+            "text": "Wirtschaft",
+            "color": "#c080d8"
+        },
+        "activity": {
+            "id": "Kaufen und Mieten",
+            "text": "Kaufen und Mieten",
+            "icon": "grocery"
+        },
+        "content": [{
+            "id": "Konsumieren",
+            "text": "Konsumieren"
+        }, {
+            "id": "Informieren",
+            "text": "Informieren"
+        }, {
+            "id": "Mitmachen",
+            "text": "Mitmachen"
+        }],
+        "start_date": null,
+        "end_date": null,
+        "favorites": [],
+        "image_url": null,
+        "features": [{
+            "id": 46,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [7.64272928237915, 51.961995613220104]
+            },
+            "properties": {
+                "id": 46,
+                "title": "Weltladen Münster",
+                "marker-size": "medium",
+                "marker-color": "#d6ace6",
+                "marker-symbol": "grocery",
+                "contribution_id": 46
+            }
+        }],
+        "child_contributions": [],
+        "user": {
+            "id": 23,
+            "email": "sebastian-salaske@gmx.de",
+            "name": "salino",
+            "confirmed": true,
+            "external_auth": false
+        }
+    }, {
+        "id": 60,
+        "title": "",
+        "description": "Der Weltladen ist an die Hammer Straße 53 umgezogen und hat jetzt einen neuen Namen:%[58]%",
+        "parent_id": 45,
+        "created_at": "2015-10-24T11:34:07.616Z",
+        "updated_at": "2015-10-24T11:34:07.616Z",
+        "references": [],
+        "deleted": false,
+        "delete_reason": null,
+        "category": {
+            "id": "Wirtschaft",
+            "text": "Wirtschaft",
+            "color": "#c080d8"
+        },
+        "activity": {
+            "id": "Kaufen und Mieten",
+            "text": "Kaufen und Mieten",
+            "icon": "grocery"
+        },
+        "content": [{
+            "id": "Konsumieren",
+            "text": "Konsumieren"
+        }, {
+            "id": "Informieren",
+            "text": "Informieren"
+        }, {
+            "id": "Mitmachen",
+            "text": "Mitmachen"
+        }],
+        "start_date": null,
+        "end_date": null,
+        "favorites": [],
+        "image_url": null,
+        "features": [{
+            "id": 58,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [7.625294923782349, 51.95109615803833]
+            },
+            "properties": {
+                "title": "Weltladen im Südviertel",
+                "marker-size": "medium",
+                "marker-color": "#c080d8",
+                "marker-symbol": "grocery",
+                "contribution_id": 60,
+                "id": 58
+            }
+        }],
+        "child_contributions": [],
+        "user": {
+            "id": 37,
+            "email": "j.thilo@weltladenmuenster.de",
+            "name": "juthilo",
+            "confirmed": true,
+            "external_auth": false
+        }
+    }],
+    "user": {
+        "id": 23,
+        "email": "sebastian-salaske@gmx.de",
+        "name": "salino",
+        "confirmed": true,
+        "external_auth": false
+    }
+}, {
+    "id": 47,
+    "title": "Schulbauernhof Emshof",
+    "description": "\u0026[http%3A%2F%2F|www.emshof.de]\u0026%[48]%",
+    "parent_id": null,
+    "created_at": "2015-06-15T15:38:17.859Z",
+    "updated_at": "2015-06-15T15:38:17.859Z",
+    "references": [],
+    "deleted": false,
+    "delete_reason": null,
+    "category": {
+        "id": "Bildung und Wissenschaft",
+        "text": "Bildung und Wissenschaft",
+        "color": "#97bfb8"
+    },
+    "activity": {
+        "id": "Bildung und Wissen",
+        "text": "Bildung und Wissen",
+        "icon": "college"
+    },
+    "content": [{
+        "id": "Mitmachen",
+        "text": "Mitmachen"
+    }],
+    "start_date": null,
+    "end_date": null,
+    "favorites": [],
+    "image_url": null,
+    "features": [{
+        "id": 48,
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.75909423828125, 52.00094684771794]
+        },
+        "properties": {
+            "title": "Schulbauernhof Emshof",
+            "marker-size": "medium",
+            "marker-color": "#97bfb8",
+            "marker-symbol": "college",
+            "contribution_id": 47,
+            "id": 48
+        }
+    }],
+    "child_contributions": [],
+    "user": {
+        "id": 24,
+        "email": "schulbauernhof@emshof.de",
+        "name": "Emshof",
+        "confirmed": true,
+        "external_auth": false
+    }
+}, {
+    "id": 48,
+    "title": "Streuobstwiesenschutz",
+    "description": "%[49]%\u003cdiv class=\"ng-scope\"\u003eStreuobstwiesen sind der artenreichste Lebensraum Mitteleuropas und bieten  ca. 3000 Tier- und Pflanzenarten Rückzugsgebiet in der intensiv genutzten Agrarlandschaft. \u003cbr\u003eLandschaft schmeckt. Die neue Ess-Klasse  - ungespritzes Obst aus regionalem Streuobstanbau - trägt zum Erhalt der Biodiversität im Münsterland bei.   \u003c/div\u003e",
+    "parent_id": null,
+    "created_at": "2015-06-23T14:14:48.234Z",
+    "updated_at": "2015-06-23T14:19:49.885Z",
+    "references": [],
+    "deleted": false,
+    "delete_reason": null,
+    "category": {
+        "id": "Wirtschaft",
+        "text": "Wirtschaft",
+        "color": "#c080d8"
+    },
+    "activity": {
+        "id": "Kaufen und Mieten",
+        "text": "Kaufen und Mieten",
+        "icon": "grocery"
+    },
+    "content": [{
+        "id": "Konsumieren",
+        "text": "Konsumieren"
+    }],
+    "start_date": null,
+    "end_date": null,
+    "favorites": [],
+    "image_url": null,
+    "features": [{
+        "id": 49,
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.625407576560973, 51.962471598187626]
+        },
+        "properties": {
+            "id": 49,
+            "title": "Streuobst",
+            "marker-size": "medium",
+            "marker-color": "#c080d8",
+            "marker-symbol": "grocery",
+            "contribution_id": 48
+        }
+    }],
+    "child_contributions": [],
+    "user": {
+        "id": 26,
+        "email": "streuobst@muenster.de",
+        "name": "NABU Münster",
+        "confirmed": true,
+        "external_auth": false
+    }
+}, {
+    "id": 50,
+    "title": "Bioladen \"CousCous\"",
+    "description": "Ein netter, übersichtlicher Bioladen mit gutem Sortiment und moderaten Preisen. Schön ist, dass Sie auch Papiertüten zum Einpacken von Obst und Gemüse anbieten.\u003cbr\u003e\u003cbr\u003eÖffnungszeiten:\u003cbr\u003eMo-Fr: 8:00 - 20:00\u003cbr\u003eSa: 8:30-18:00\u003cbr\u003e\u003cbr\u003e%[51]%",
+    "parent_id": null,
+    "created_at": "2015-06-30T05:12:50.538Z",
+    "updated_at": "2015-06-30T05:30:48.469Z",
+    "references": [],
+    "deleted": false,
+    "delete_reason": null,
+    "category": {
+        "id": "Wirtschaft",
+        "text": "Wirtschaft",
+        "color": "#c080d8"
+    },
+    "activity": {
+        "id": "Kaufen und Mieten",
+        "text": "Kaufen und Mieten",
+        "icon": "grocery"
+    },
+    "content": [{
+        "id": "Konsumieren",
+        "text": "Konsumieren"
+    }],
+    "start_date": null,
+    "end_date": null,
+    "favorites": [],
+    "image_url": null,
+    "features": [{
+        "id": 51,
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.633266448974609, 51.95725201464778]
+        },
+        "properties": {
+            "title": "Bioladen \"CousCous\"",
+            "marker-size": "medium",
+            "marker-color": "#c080d8",
+            "marker-symbol": "grocery",
+            "contribution_id": 50,
+            "id": 51
+        }
+    }],
+    "child_contributions": [{
+        "id": 51,
+        "title": "",
+        "description": "%[50]%\u003cbr\u003e\u003cbr\u003eÖffnungszeiten:\u003cbr\u003e\u003cbr\u003eMo-Fr: 8 - 20 Uhr\u003cbr\u003eSa: 8:30 - 18:00",
+        "parent_id": 50,
+        "created_at": "2015-06-30T05:20:45.928Z",
+        "updated_at": "2015-06-30T05:24:51.702Z",
+        "references": [],
+        "deleted": true,
+        "delete_reason": "Doppelt.",
+        "category": {
+            "id": "Wirtschaft",
+            "text": "Wirtschaft",
+            "color": "#c080d8"
+        },
+        "activity": {
+            "id": "Kaufen und Mieten",
+            "text": "Kaufen und Mieten",
+            "icon": "grocery"
+        },
+        "content": [{
+            "id": "Konsumieren",
+            "text": "Konsumieren"
+        }],
+        "start_date": null,
+        "end_date": null,
+        "favorites": [],
+        "image_url": null,
+        "features": [{
+            "id": 50,
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [7.63321816921234, 51.957271849554374]
+            },
+            "properties": {
+                "id": 50,
+                "title": "Bioladen \"CousCous\"",
+                "marker-size": "medium",
+                "marker-color": "#d6ace6",
+                "marker-symbol": "grocery",
+                "contribution_id": 51
+            }
+        }],
+        "child_contributions": [],
+        "user": {
+            "id": 31,
+            "email": "andre.joule@posteo.net",
+            "name": "Andrej",
+            "confirmed": true,
+            "external_auth": false
+        }
+    }],
+    "user": {
+        "id": 31,
+        "email": "andre.joule@posteo.net",
+        "name": "Andrej",
+        "confirmed": true,
+        "external_auth": false
+    }
+}, {
+    "id": 52,
+    "title": "Bio-Restaurant und Bäckerei \"Echtzeit\"",
+    "description": "Mehr auf: http://www.echtzeit-bio-genuss.de/index.php?article_id=6\u003cbr\u003e\u003cbr\u003e\u003cbr\u003e\u003cbr\u003e%[52]%",
+    "parent_id": null,
+    "created_at": "2015-06-30T05:35:23.100Z",
+    "updated_at": "2015-06-30T05:35:23.100Z",
+    "references": [],
+    "deleted": false,
+    "delete_reason": null,
+    "category": {
+        "id": "Wirtschaft",
+        "text": "Wirtschaft",
+        "color": "#c080d8"
+    },
+    "activity": {
+        "id": "Essen und Trinken",
+        "text": "Essen und Trinken",
+        "icon": "restaurant"
+    },
+    "content": [{
+        "id": "Konsumieren",
+        "text": "Konsumieren"
+    }],
+    "start_date": null,
+    "end_date": null,
+    "favorites": [],
+    "image_url": null,
+    "features": [{
+        "id": 52,
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.647020816802978, 51.958369367376214]
+        },
+        "properties": {
+            "title": "Bio-Restaurant und Bäckerei \"Echtzeit\"",
+            "marker-size": "medium",
+            "marker-color": "#c080d8",
+            "marker-symbol": "restaurant",
+            "contribution_id": 52,
+            "id": 52
+        }
+    }],
+    "child_contributions": [],
+    "user": {
+        "id": 31,
+        "email": "andre.joule@posteo.net",
+        "name": "Andrej",
+        "confirmed": true,
+        "external_auth": false
+    }
+}]

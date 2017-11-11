@@ -42,13 +42,13 @@
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav ml-auto">
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#about">Umwelt</a>
+              <a class="nav-link js-scroll-trigger" href="#history">Historie</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#services">Services</a>
+              <a class="nav-link js-scroll-trigger" href="#umwelt">Umwelt</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#portfolio">Portfolio</a>
+              <a class="nav-link js-scroll-trigger" href="#nachhaltigkeit">Nachhaltigkeit</a>
             </li>
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="#contact">Contact</a>
@@ -69,21 +69,33 @@
           </div>
           <div class="col-lg-8 mx-auto">
             <p class="text-faded mb-5">2004 wurde Münster zur Lebenswertesten Stadt der Welt gewählt. Wie sieht es heute aus?</p>
-            <a class="btn btn-primary btn-xl js-scroll-trigger" href="#about">Finde es heraus!</a>
+            <a class="btn btn-primary btn-xl js-scroll-trigger" href="#history">Finde es heraus!</a>
           </div>
         </div>
       </div>
     </header>
 
-    <section class="bg-primary" id="about">
-      <div class="container">
-        <div id='map' style='width: 100%; height: 500px;'></div>                
+    <section class="bg-primary" id="history">
+      <div class="container text-center text-white">
+        <h1 class="text-uppercase">Historie</h1>
+          <p class="text">Über XXX denkmalgeschützte Gebäude in Münster</p>
+        <div id="map" class="map" style='width: 100%; height: 500px;'></div>                
       </div>
     </section>
 
-    <section id="services">
+    <!-- Nachhaltigkeitskarte -->
+    <section id="nachhaltigkeit">
+        <div class="container text-center">
+            <h1 class="text-uppercase">Nachhaltig</h1>
+            <p class="text-muted">Initiativen, Projekte und Aktionen zum Thema Nachhaltigkeit</p>
+          <div id="nachhaltigkeits_map" class="map" style="width: 100%; height: 500px;"></div>
+        </div>
+      </section>
+    
+    <!-- Fahrrad-Graph -->
+    <section id="bikes" style="padding-top: 0;">
       <div class="container text-center">
-          <h3 class="mb-3">Innovativ</h3>
+          <h1 class="text-uppercase">Innovativ</h1>
           <p class="text-muted mb-0">Messungen der Fahrradfahrten</p>
         <div id="6c46634c-9c93-4f0e-824b-31e799b7ffd0" style="width: 100%; height: 100%;" class="plotly-graph-div"></div>
       </div>
@@ -265,6 +277,8 @@
 
     <script src="https://unpkg.com/leaflet@1.2.0/dist/leaflet.js"></script>
     <script src="js/map.js"></script>
+    <script src="js/bikes.js"></script>
+    <script src="js/nachhaltigkeitsmap.js"></script>
 
   
 
