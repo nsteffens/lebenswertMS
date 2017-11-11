@@ -13,7 +13,13 @@ var monumentIcon = L.icon({
 $.getJSON('/data/heritage_ms.json', (data) => {
     heritage_ms = data;
     
-    const map = new L.map('map').setView([51.964711, 7.628496], 12);
+    const map = new L.map('map', {
+        scrollWheelZoom: false
+    }).setView([51.964711, 7.628496], 12);
+    
+
+    map.once('focus', function() { map.scrollWheelZoom.enable(); });
+    
 
     const basemap = L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
         attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
