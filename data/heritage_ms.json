@@ -1,0 +1,2015 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.61174,
+                    51.93972,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wohnhäuser der Siedlung „Grüner Grund“",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Wohnh.C3.A4user_der_Siedlung_.E2.80.9EGr.C3.BCner_Grund.E2.80.9C\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.64668,
+                    51.96815,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Villa",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Villa\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6476,
+                    51.96819,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wohn- und Geschäftshaus",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Wohn-_und_Gesch.C3.A4ftshaus\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.64777,
+                    51.96817,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wohn- und Geschäftshaus",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Wohn-_und_Gesch.C3.A4ftshaus\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.64799,
+                    51.96785,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Erphokirche",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Erphokirche\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.64975,
+                    51.96806,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Tafel",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Tafel\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.65037,
+                    51.96809,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wohnhaus",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Wohnhaus\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.65051,
+                    51.96805,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wohnhaus",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Wohnhaus\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.65065,
+                    51.96799,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wohnhaus",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Wohnhaus\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.65083,
+                    51.968,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wohnhaus",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Wohnhaus\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.65103,
+                    51.96799,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wohnhaus",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Wohnhaus\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.65113,
+                    51.96801,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wohnhaus",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Wohnhaus\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.65132,
+                    51.96802,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wohnhaus",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Wohnhaus\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6519,
+                    51.96805,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wohn- und Geschäftshaus",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Wohn-_und_Gesch.C3.A4ftshaus\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.64431,
+                    51.96196,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Torpfeiler mit Wappen",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Torpfeiler_mit_Wappen\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.64722,
+                    51.96187,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wohn- und Geschäftshaus",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Wohn-_und_Gesch.C3.A4ftshaus\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.65646,
+                    51.90582,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Prinzbrücke Nr. 66",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Prinzbr.C3.BCcke_Nr._66\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.594,
+                    51.86916,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bauernhaus",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Bauernhaus\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.64976,
+                    51.95405,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wohnhaus",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Wohnhaus\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.67817,
+                    52.017,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hofanlage Leve",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Hofanlage_Leve\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.53373,
+                    51.95343,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hof Schulze-Höping",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Hof_Schulze-H.C3.B6ping\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.53431,
+                    51.95361,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hof Schulze-Höping",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Hof_Schulze-H.C3.B6ping\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.53339,
+                    51.9544,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "St. Pantaleon",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#St._Pantaleon\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.53344,
+                    51.95422,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bildstock an der Kirche",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Bildstock_an_der_Kirche\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.53335,
+                    51.95468,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Gasthof Hagedorn",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Gasthof_Hagedorn\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.61079,
+                    51.99883,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Friedhof Kinderhaus, Toranlage",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Friedhof_Kinderhaus.2C_Toranlage\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.69755,
+                    51.98815,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "St. Petronilla",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#St._Petronilla\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.62329,
+                    51.96156,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Geologisch-Paläontologisches Museum",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Geologisch-Pal.C3.A4ontologisches_Museum\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.63775,
+                    51.96477,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Doppelhaushälfte",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Doppelhaush.C3.A4lfte\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.63797,
+                    51.964,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wohnhaus",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Wohnhaus\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.63781,
+                    51.96493,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Doppelhaushälfte",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Doppelhaush.C3.A4lfte\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.64023,
+                    51.96775,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Generalsvilla von Scharf",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Generalsvilla_von_Scharf\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.68111,
+                    51.96249,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Doppelwohnhaus",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Doppelwohnhaus\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.61825,
+                    51.94572,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wohnhaus",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Wohnhaus\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.61828,
+                    51.94546,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wohnhaus",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Wohnhaus\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.67845,
+                    51.91674,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Siedlung Schlesienstraße, Straßen und Plätze",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Siedlung_Schlesienstra.C3.9Fe.2C_Stra.C3.9Fen_und_Pl.C3.A4tze\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.59834,
+                    51.94987,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mühlenhof",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#M.C3.BChlenhof\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.74167,
+                    51.91202,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ehemaliger Tiergarten",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Ehemaliger_Tiergarten\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.74174,
+                    51.91209,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Torpfeiler an der Angel",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Torpfeiler_an_der_Angel\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.5305,
+                    51.95395,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ehemaliges Müllerhaus",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Ehemaliges_M.C3.BCllerhaus\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.52162,
+                    51.95533,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wegekapelle mit Marienfigur",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Wegekapelle_mit_Marienfigur\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.59703,
+                    51.95702,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wohnhaus Schilgen",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Wohnhaus_Schilgen\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.70681,
+                    51.91544,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wohnhaus",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Wohnhaus\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.70656,
+                    51.91482,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Haus Kissenkötter",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Haus_Kissenk.C3.B6tter\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.62311,
+                    51.96388,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Overbergdenkmal",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Overbergdenkmal\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6224,
+                    51.96477,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Liudgerhaus",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Liudgerhaus\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.62288,
+                    51.96418,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Überwasserkirche",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#.C3.9Cberwasserkirche\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.565,
+                    52.03019,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Haus Uhlenbrock",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Haus_Uhlenbrock\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.5687,
+                    52.03472,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wegekreuz",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Wegekreuz\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.61946,
+                    51.96128,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Evangelische Fakultät",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Evangelische_Fakult.C3.A4t\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.61997,
+                    51.96183,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Juridicum",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Juridicum\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.61454,
+                    51.96967,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Alte Schmiede",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Alte_Schmiede\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.72571,
+                    52.01207,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Haus Ringemann",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Haus_Ringemann\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.60579,
+                    51.9574,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Anatomisches Institut",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Anatomisches_Institut\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.67287,
+                    51.9321,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Idaschule",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Idaschule\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.59818,
+                    51.96456,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lukaskirche – evangelische Kirche",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Lukaskirche_.E2.80.93_evangelische_Kirche\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.59616,
+                    51.96422,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wartburgschule",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Wartburgschule\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.59127,
+                    51.96654,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ehemaliges Heereslazarett/Hautklinik",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Ehemaliges_Heereslazarett.2FHautklinik\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.59787,
+                    51.95853,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wohnhaus",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Wohnhaus\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.59749,
+                    51.95839,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wohnhaus",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Wohnhaus\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.59251,
+                    51.95592,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wohnhaus",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Wohnhaus\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.53247,
+                    51.99649,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hof Jüdefeld",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Hof_J.C3.BCdefeld\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.64236,
+                    51.962,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wohn- und Geschäftshaus",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Wohn-_und_Gesch.C3.A4ftshaus\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.65135,
+                    51.96494,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wohn- und Geschäftshaus",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Wohn-_und_Gesch.C3.A4ftshaus\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.65151,
+                    51.96496,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mehrfamilienwohnhaus",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Mehrfamilienwohnhaus\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.65157,
+                    51.96499,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wohnhaus",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Wohnhaus\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.65193,
+                    51.96496,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mietshaus",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Mietshaus\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.64826,
+                    51.96432,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mietshaus",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Mietshaus\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.65193,
+                    51.96508,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mietshaus",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Mietshaus\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.64835,
+                    51.96435,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mietshaus",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Mietshaus\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.65204,
+                    51.96509,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wohnhaus",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Wohnhaus\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.65212,
+                    51.96513,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wohnhaus",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Wohnhaus\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.65848,
+                    51.96719,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Grenzstein",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Grenzstein\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.65513,
+                    51.96694,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wohn- und Geschäftshaus",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Wohn-_und_Gesch.C3.A4ftshaus\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.7009,
+                    51.97421,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Nobiskrug",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Nobiskrug\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.71595,
+                    51.97838,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hubertushof",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Hubertushof\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.71774,
+                    51.97864,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Barockbildstock",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Barockbildstock\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.7173,
+                    51.9783,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Barockbildstock",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Barockbildstock\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6359,
+                    51.96492,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wohnhaus",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Wohnhaus\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.62949,
+                    51.972,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wohnhaus",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Wohnhaus\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.68188,
+                    51.97637,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Herrenhaus",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Herrenhaus\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.69199,
+                    51.97061,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bildstock",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Bildstock\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6867,
+                    51.98316,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Vorsehungskloster",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Vorsehungskloster\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.61693,
+                    51.95804,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ehrenmal Kürassierregiment",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Ehrenmal_K.C3.BCrassierregiment\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.62014,
+                    51.95753,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Nepomuk-Denkmal",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Nepomuk-Denkmal\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.62061,
+                    51.95485,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Antoniuskirche.",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Antoniuskirche.\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6178,
+                    51.95137,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fachwerkgebäude",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Fachwerkgeb.C3.A4ude\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.61402,
+                    51.94612,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Schmiedeeisernes Tor",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Schmiedeeisernes_Tor\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.59037,
+                    51.92869,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Umspannwerk Mecklenbeck",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Umspannwerk_Mecklenbeck\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.58008,
+                    51.92577,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hof Appels",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Hof_Appels\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.58043,
+                    51.92552,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Neugotische Wegekapelle",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Neugotische_Wegekapelle\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.63003,
+                    51.91125,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fachwerkspeicher",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Fachwerkspeicher\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.64563,
+                    51.89421,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bildstock",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Bildstock\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.64713,
+                    51.89173,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Altes Gasthaus „Dickes Weib“",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Altes_Gasthaus_.E2.80.9EDickes_Weib.E2.80.9C\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.63833,
+                    51.88779,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Haus Köbbing",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Haus_K.C3.B6bbing\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.65016,
+                    51.87745,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Gut Heithorn",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Gut_Heithorn\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.65397,
+                    51.89478,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fachwerkspeicher",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Fachwerkspeicher\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.62518,
+                    51.97239,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Johannisstift",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Johannisstift\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.60541,
+                    51.88488,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "St. Sebastian",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#St._Sebastian\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.62274,
+                    51.97273,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wohnhaus",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Wohnhaus\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.62277,
+                    51.97272,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wohnhaus",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Wohnhaus\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.62285,
+                    51.97306,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wohnhaus",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Wohnhaus\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.62322,
+                    51.9741,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wohnhaus",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Wohnhaus\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.62331,
+                    51.97432,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wohnhaus",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Wohnhaus\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.62323,
+                    51.97442,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wohnhaus",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Wohnhaus\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.62327,
+                    51.9746,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wohnhaus",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Wohnhaus\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.65097,
+                    51.96703,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Siedlung „Erphoviertel“",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Siedlung_.E2.80.9EErphoviertel.E2.80.9C\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.52046,
+                    51.92238,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hof Schulze Blasum",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Hof_Schulze_Blasum\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.52109,
+                    51.92268,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hof Schulze Blasum",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Hof_Schulze_Blasum\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.59164,
+                    52.05554,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bauernhaus",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Bauernhaus\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.55904,
+                    51.88846,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hof Schulze Wilbrenning",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Hof_Schulze_Wilbrenning\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.55264,
+                    51.88301,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bildstock",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Bildstock\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.61018,
+                    51.96718,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Grab Kistemaker",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Grab_Kistemaker\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.61477,
+                    51.96705,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wohn- und Geschäftshaus",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Wohn-_und_Gesch.C3.A4ftshaus\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.61032,
+                    51.96791,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wohn- und Geschäftshaus",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Wohn-_und_Gesch.C3.A4ftshaus\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.61811,
+                    51.96232,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ehemaliger großer Galenscher Hof",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Ehemaliger_gro.C3.9Fer_Galenscher_Hof\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.63119,
+                    51.95785,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Villa von Bönninghausen/&zwsp;Lackmuseum",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Villa_von_B.C3.B6nninghausen.2F.26zwsp.3BLackmuseum\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.63101,
+                    51.95979,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Raphaelsklinik",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Raphaelsklinik\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6437,
+                    51.95644,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wohn- und Geschäftshaus",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Wohn-_und_Gesch.C3.A4ftshaus\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.64623,
+                    51.9556,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wohn- und Geschäftshaus",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Wohn-_und_Gesch.C3.A4ftshaus\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.64879,
+                    51.95534,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Herz-Jesu-Kirche",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Herz-Jesu-Kirche\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.61736,
+                    51.96957,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wohnhaus",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Wohnhaus\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.61719,
+                    51.96978,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wohnhaus",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Wohnhaus\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.61709,
+                    51.96988,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wohnhaus",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Wohnhaus\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.61756,
+                    51.96996,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wohnhaus",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Wohnhaus\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.61695,
+                    51.97015,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wohnhaus",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Wohnhaus\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.63105,
+                    51.96833,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wohnhaus",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Wohnhaus\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.63139,
+                    51.96825,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wohnhaus",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Wohnhaus\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.63179,
+                    51.96823,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wohnhaus",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Wohnhaus\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.67404,
+                    51.92473,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Friedenskirche",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Friedenskirche\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.60535,
+                    51.8851,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Alte Mädchenschule",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Alte_M.C3.A4dchenschule\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.60509,
+                    51.88493,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Pfarrhaus",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Pfarrhaus\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.64233,
+                    51.89964,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Herz-Jesu-Missionshaus",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Herz-Jesu-Missionshaus\">Liste der Baudenkmäler in Münster</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.64198,
+                    51.95937,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wohnhaus",
+                "description": "<br>Source: Wikipedia article <a href=\"https://de.wikipedia.org/wiki/Liste_der_Baudenkmäler_in_Münster#Wohnhaus\">Liste der Baudenkmäler in Münster</a>"
+            }
+        }
+    ]
+}

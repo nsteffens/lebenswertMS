@@ -1,277 +1,341 @@
 <!DOCTYPE html>
 <html lang="en">
 
-  <head>
+<head>
 
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
-    <meta name="author" content="">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
 
-    <title>Make Münster Great Again</title>
+  <title>Make Münster Lebenswert Again</title>
 
-    <!-- Bootstrap core CSS -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
-    
-    
-    
-    <!-- Custom fonts for this template -->
-    <link rel="stylesheet" href="assets/vendor/font-awesome/css/font-awesome.min.css">
-    <link rel="stylesheet" href="assets/vendor/simple-line-icons/css/simple-line-icons.css">
-    <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Catamaran:100,200,300,400,500,600,700,800,900" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Muli" rel="stylesheet">
-    
-    <!-- Plugin CSS -->
-    <!-- <link rel="stylesheet" href="device-mockups/device-mockups.min.css"> -->
-    
-    <!-- Custom styles for this template -->
-    <link href="assets/css/new-age.min.css" rel="stylesheet">
+  <!-- Bootstrap core CSS -->
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
-    <link rel="stylesheet" href="assets/css/main.min.css">
+  <!-- Custom fonts for this template -->
+  <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800'
+    rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic'
+    rel='stylesheet' type='text/css'>
 
-  </head>
+  <!-- Plugin CSS -->
+  <link href="vendor/magnific-popup/magnific-popup.css" rel="stylesheet">
 
-  <body id="page-top">
+  <!-- Custom styles for this template -->
+  <link href="css/creative.min.css" rel="stylesheet">
 
-    <!-- Navigation -->
-    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
-      <div class="container">
-        <a class="navbar-brand js-scroll-trigger" href="#page-top">Make Münster Great Again</a>
-        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-          Menu
-          <i class="fa fa-bars"></i>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarResponsive">
-          <ul class="navbar-nav ml-auto">
-            <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#umwelt">Umwelt & <br> Landschaft</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#buergerbeteiligung">Bürger&shy;beteiligung</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#hist_erbe">Bewahrung des <br> historischen Erbes</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#nachh_zukunftspl">Nachhaltige <br> Zukunfts&shy;planung</a>
-            </li>
-          </ul>
-        </div>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.2.0/dist/leaflet.css" integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ=="
+    crossorigin="" />
+
+  <link href="css/style.css" rel="stylesheet">
+
+</head>
+
+<body id="page-top">
+
+  <!-- Navigation -->
+  <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
+    <div class="container">
+      <a class="navbar-brand js-scroll-trigger" href="#page-top">Make Münster
+        <br> Lebenswert Again</a>
+      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive"
+        aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#history">Historie</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#umwelt">Umwelt</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#nachhaltigkeit">Nachhaltigkeit</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#buergerbeteiligung">Bürgerbeteiligung</a>
+          </li>
+        </ul>
       </div>
-    </nav>
+    </div>
+  </nav>
 
-    <header class="masthead">
-      <div class="container h-100">
-        <div class="row h-100">
-          <div class="col-lg-7 my-auto">
-            <div class="header-content mx-auto">
-              <h1 class="mb-5">2004 wurde Münster als Lebenswerteste Stadt der Welt gewählt! Ist dies noch immer so?</h1>
-              <a href="#download" class="btn btn-outline btn-xl js-scroll-trigger">Start Now for Free!</a>
-            </div>
-          </div>
-          <div class="col-lg-5 my-auto">
-            <div class="device-container">
-              <div class="device-mockup iphone6_plus portrait white">
-                <div class="device">
-                  <div class="screen">
-                    <!-- Demo image for screen mockup, you can put an image here, some HTML, an animation, video, or anything else! -->
-                    <img src="assets/img/demo-screen-1.jpg" class="img-fluid" alt="">
-                  </div>
-                  <div class="button">
-                    <!-- You can hook the "home button" to some JavaScript events or just remove it -->
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </header>
-
-    <section class="umwelt download bg-primary text-center" id="umwelt">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-8 mx-auto">
-            <h2 class="section-heading">Umwelt & Landschaft</h2>
-            <p>Aasee, Kanal, yay, such wow 🐶</p>
-            <div class="badges">
-              <a class="badge-link" href="#"><img src="assets/img/google-play-badge.svg" alt=""></a>
-              <a class="badge-link" href="#"><img src="assets/img/app-store-badge.svg" alt=""></a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <section class="buergerbeteiligung download bg-primary text-center" id="buergerbeteiligung">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-8 mx-auto">
-            <h2 class="section-heading">Bürger&shy;beteiligung</h2>
-            <p>senseBox. AWESOME 👍</p>
-            <div class="badges">
-              <a class="badge-link" href="#"><img src="assets/img/google-play-badge.svg" alt=""></a>
-              <a class="badge-link" href="#"><img src="assets/img/app-store-badge.svg" alt=""></a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <section class="hist_erbe download bg-primary text-center" id="hist_erbe">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-8 mx-auto">
-            <h2 class="section-heading">Bewahrung des historischen Erbes</h2>
-            <p>Bewahrung des historischen Erbes</p>
-            <div class="badges">
-              <a class="badge-link" href="#"><img src="assets/img/google-play-badge.svg" alt=""></a>
-              <a class="badge-link" href="#"><img src="assets/img/app-store-badge.svg" alt=""></a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <section class="download bg-primary text-center" id="nachh_zukunftspl">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-8 mx-auto">
-            <h2 class="section-heading">Nachhaltige Zukunfts&shy;planung</h2>
-            <p>Nachhaltige Zukunftsplanung</p>
-            <div class="badges">
-              <a class="badge-link" href="#"><img src="assets/img/google-play-badge.svg" alt=""></a>
-              <a class="badge-link" href="#"><img src="assets/img/app-store-badge.svg" alt=""></a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <section class="features" id="buergerbeteiligung">
-      <div class="container">
-        <div class="section-heading text-center">
-          <h2>Nachhaltige Zukunfts&shy;planung</h2>
-          <p class="text-muted">senseBox, greatest Citizen Science Project in the World. Period!</p>
+  <header class="masthead text-center text-white d-flex">
+    <div class="container my-auto">
+      <div class="row">
+        <div class="col-lg-10 mx-auto">
+          <h1 class="text-uppercase">
+            <strong>⭐️ Make Münster Lebenswert Again ⭐️</strong>
+          </h1>
           <hr>
         </div>
-        <div class="row">
-          <div class="col-lg-4 my-auto">
-            <div class="device-container">
-              <div class="device-mockup iphone6_plus portrait white">
-                <div class="device">
-                  <div class="screen">
-                    <!-- Demo image for screen mockup, you can put an image here, some HTML, an animation, video, or anything else! -->
-                    <img src="assets/img/demo-screen-1.jpg" class="img-fluid" alt="">
-                  </div>
-                  <div class="button">
-                    <!-- You can hook the "home button" to some JavaScript events or just remove it -->
-                  </div>
-                </div>
-              </div>
-            </div>
+        <div class="col-lg-8 mx-auto">
+          <h3 class="text-faded mb-5 motivation">2004 wurde Münster zur
+            <span style="background: black; padding-left: 3px; padding-right: 3px;">Lebenswertesten Stadt der Welt</span> gewählt. Wie sieht es heute aus?</h3>
+          <a class="btn btn-primary btn-xl js-scroll-trigger" href="#history">Finde es heraus!</a>
+        </div>
+      </div>
+    </div>
+    </div>
+  </header>
+
+  <!-- Denkmalgeschützte Gebäude -->
+  <section class="bg-primary" id="history">
+    <div class="container text-center text-white">
+      <h1 class="text-uppercase">Historie</h1>
+      <h3 class="text-dark">Über
+        <strong>130</strong> denkmalgeschützte Gebäude in Münster</h3>
+      <div id="map" class="map" style='width: 100%; height: 500px;'></div>
+    </div>
+  </section>
+
+  <!-- Umwelt und Lanschaft -->
+  <section id="umwelt">
+    <div class="container text-center">
+      <h1 class="text-uppercase">Umwelt & Landschaft</h1>
+      <h3 class="text-muted mb-0">Verkehrsaufkommen und Feinstaubbelastung</h3>
+      <div id="7a890b6b-d03f-489b-8f5c-8145ff162db9" style="width: 100%; height: 100%;" class="plotly-graph-div"></div>
+    </div>
+  </section>
+
+  <!-- Nachhaltigkeitskarte -->
+  <section class="bg-primary" id="nachhaltigkeit">
+    <div class="container text-center">
+      <h1 class="text-uppercase text-white">Nachhaltig</h1>
+      <h3 class="text-dark">Initiativen, Projekte und Aktionen zum Thema Nachhaltigkeit</h3>
+      <div id="nachhaltigkeits_map" class="map" style="width: 100%; height: 500px;"></div>
+    </div>
+  </section>
+
+  <!-- spielplaetze -->
+  <section class="bg-primary" id="spielplaetze">
+      <div class="container text-center">
+        <h1 class="text-uppercase">Spielplätze</h1>
+        <p class="text-muted">Lorem ipsum</p>
+        <div id="spielplaetze_map" class="map" style="width: 100%; height: 500px;"></div>
+      </div>
+    </section>
+
+  <!-- Fahrrad-Graph -->
+  <section id="bikes" style="padding-top: 0;" class="bg-primary">
+    <div class="container text-center">
+      <h1 class="text-uppercase text-white">Innovativ</h1>
+      <h3 class="text-dark">Messungen der Fahrradfahrten</h3>
+      <div id="8e6a0d45-323b-447a-8d49-012ad97f6606" style="width: 100%; height: 100%;" class="plotly-graph-div"></div>
+    </div>
+  </section>
+
+  <section id="buergerbeteiligung">
+    <div class="container text-center">
+      <h1 class="text-uppercase">Bürger&shy;beteiligung</h1>
+      <h3 class="text-muted mb-0">Nimm am Leben teil und gestalte
+        <strong>deine Stadt</strong>!</h3>
+      <div id="7a890b6b-d03f-489b-8f5c-8145ff162db9" style="width: 100%; height: 100%;" class="plotly-graph-div"></div>
+    </div>
+
+    <!-- Die icons unten -->
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-3 col-md-6 text-center">
+          <div class="service-box mt-5 mx-auto">
+            <a href="https://buergerhaushalt.stadt-muenster.de/"><img class="text-primary mb-3 sr-icons" src="/img/buergerhaushalt.png" height="100em"></a>
+            <h3 class="mb-3">Bürgerhaushalt</h3>
+            <p class="text-muted mb-0">Du hast eine spannende Idee für die Stadt? Hier kannst du sie direkt online einbringen!</p>
           </div>
-          <div class="col-lg-8 my-auto">
-            <div class="container-fluid">
-              <div class="row">
-                <div class="col-lg-6">
-                  <div class="feature-item">
-                    <i class="icon-screen-smartphone text-primary"></i>
-                    <h3>Device Mockups</h3>
-                    <p class="text-muted">Ready to use HTML/CSS device mockups, no Photoshop required!</p>
-                  </div>
-                </div>
-                <div class="col-lg-6">
-                  <div class="feature-item">
-                    <i class="icon-camera text-primary"></i>
-                    <h3>Flexible Use</h3>
-                    <p class="text-muted">Put an image, video, animation, or anything else in the screen!</p>
-                  </div>
-                </div>
-              </div>
-              <div class="row">
-                <div class="col-lg-6">
-                  <div class="feature-item">
-                    <i class="icon-present text-primary"></i>
-                    <h3>Free to Use</h3>
-                    <p class="text-muted">As always, this theme is free to download and use for any purpose!</p>
-                  </div>
-                </div>
-                <div class="col-lg-6">
-                  <div class="feature-item">
-                    <i class="icon-lock-open text-primary"></i>
-                    <h3>Open Source</h3>
-                    <p class="text-muted">Since this theme is MIT licensed, you can use it commercially!</p>
-                  </div>
-                </div>
-              </div>
-            </div>
+        </div>
+        <div class="col-lg-3 col-md-6 text-center">
+          <div class="service-box mt-5 mx-auto">
+            <a href="https://www.codeformuenster.org/"><img class="text-primary mb-3 sr-icons" src="/img/cfm.png" height="100em"></a>
+            <h3 class="mb-3">Code 4 Münster</h3>
+            <p class="text-muted mb-0">In lockerer Atmosphäre Software mit aktuellen Technologien für Münster entwickeln. Das ist C4M!</p>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-6 text-center">
+          <div class="service-box mt-5 mx-auto">
+              <a href="https://www.buerger-fuer-muenster.de/"><img class="text-primary mb-3 sr-icons" src="/img/bfm.png" height="100em"></a>
+              <h3 class="mb-3">Bürger für Münster</h3>
+            <p class="text-muted mb-0">Über 300 Mitglieder arbeiten an Projekten zur Förderung des bürgerschaftlichen Engagements!</p>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-6 text-center">
+          <div class="service-box mt-5 mx-auto">
+              <img class="text-primary mb-3 sr-icons" src="/img/mms.svg" height="100em">            
+              <h3 class="mb-3">Mein MS</h3>
+            <p class="text-muted mb-0">Dein Dashboard für aktuelle Informationen und Nachrichten aus deinem Stadtviertel in Münster!</p>
           </div>
         </div>
       </div>
-    </section>
+    </div>
+  </section>
 
-    <section class="cta">
-      <div class="cta-content">
-        <div class="container">
-          <h2>Stop waiting.<br>Start building.</h2>
-          <a href="#contact" class="btn btn-outline btn-xl js-scroll-trigger">Let's Get Started!</a>
+
+
+
+  <!-- Die Bilder unten -->
+  <section class="p-0" id="portfolio">
+    <div class="container-fluid p-0">
+      <div class="row no-gutters popup-gallery">
+        <div class="col-lg-4 col-sm-6">
+          <a class="portfolio-box" href="img/portfolio/fullsize/1.jpg">
+            <img class="img-fluid" src="img/portfolio/thumbnails/1.jpg" alt="">
+            <div class="portfolio-box-caption">
+              <div class="portfolio-box-caption-content">
+                <div class="project-category text-faded">
+                  Münster
+                </div>
+                <div class="project-name">
+                  Fahrradstadt
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+        <div class="col-lg-4 col-sm-6">
+          <a class="portfolio-box" href="img/portfolio/fullsize/2.jpg">
+            <img class="img-fluid" src="img/portfolio/thumbnails/2.jpg" alt="">
+            <div class="portfolio-box-caption">
+              <div class="portfolio-box-caption-content">
+                <div class="project-category text-faded">
+                  Münster
+                </div>
+                <div class="project-name">
+                  Historie Bewahren
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+        <div class="col-lg-4 col-sm-6">
+          <a class="portfolio-box" href="img/portfolio/fullsize/3.jpg">
+            <img class="img-fluid" src="img/portfolio/thumbnails/3.jpg" alt="">
+            <div class="portfolio-box-caption">
+              <div class="portfolio-box-caption-content">
+                <div class="project-category text-faded">
+                  Münster
+                </div>
+                <div class="project-name">
+                  Leben
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+        <div class="col-lg-4 col-sm-6">
+          <a class="portfolio-box" href="img/portfolio/fullsize/4.jpg">
+            <img class="img-fluid" src="img/portfolio/thumbnails/4.jpg" alt="">
+            <div class="portfolio-box-caption">
+              <div class="portfolio-box-caption-content">
+                <div class="project-category text-faded">
+                  Münster
+                </div>
+                <div class="project-name">
+                  Wissen
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+        <div class="col-lg-4 col-sm-6">
+          <a class="portfolio-box" href="img/portfolio/fullsize/5.jpg">
+            <img class="img-fluid" src="img/portfolio/thumbnails/5.jpg" alt="">
+            <div class="portfolio-box-caption">
+              <div class="portfolio-box-caption-content">
+                <div class="project-category text-faded">
+                  Münster
+                </div>
+                <div class="project-name">
+                  Kultur
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+        <div class="col-lg-4 col-sm-6">
+          <a class="portfolio-box" href="img/portfolio/fullsize/6.jpg">
+            <img class="img-fluid" src="img/portfolio/thumbnails/6.jpg" alt="">
+            <div class="portfolio-box-caption">
+              <div class="portfolio-box-caption-content">
+                <div class="project-category text-faded">
+                  Münster
+                </div>
+                <div class="project-name">
+                  Geschichte
+                </div>
+              </div>
+            </div>
+        </div>
+        </a>
+      </div>
+    </div>
+    </div>
+  </section>
+
+  <section class="bg-dark text-white">
+    <div class="container text-center">
+      <h2 class="mb-4"> MSHACK 17::Make Münster Lebenswert again</h2>
+      <p>Eine klare Message soll vermittelt werden: Open Data für Münster und die Bürger. 
+        Unsere Seite verdeutlicht den Nutzen von offenen Daten und den daraus resultierenden Möglichkeiten zur Analyse. 
+        Sie charakterisiert den Ist-Zustand von Münster 13 Jahre nach der Auszeichnung zur lebenswertesten Stadt.
+        Kategorien wie <b>Historisches Erbe</b>, <b>Umwelt und Landschaft</b>, <b>Nachhaltigkeite Zukunftsplanung</b> und <b>Bürgerbeteiligung</b> sollen vermittelt werden.</p>
+      <a class="btn btn-light btn-xl sr-button" href="https://github.com/nsteffens/lebenswertMS">GitHub</a>
+    </div>
+  </section>
+
+  <section id="contact">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 mx-auto text-center">
+          <h2 class="section-heading">Let's Get In Touch!</h2>
+          <hr class="my-4">
+          <p class="mb-5">Ready to start your next project with us? That's great! Give us a call or send us an email and we will get back
+            to you as soon as possible!</p>
         </div>
       </div>
-      <div class="overlay"></div>
-    </section>
-
-    <section class="contact bg-primary" id="hist_erbe">
-      <div class="container">
-        <h2>Bewahrung des historischen Erbes</h2>
-        <ul class="list-inline list-social">
-          <li class="list-inline-item social-twitter">
-            <a href="#">
-              <i class="fa fa-twitter"></i>
-            </a>
-          </li>
-          <li class="list-inline-item social-facebook">
-            <a href="#">
-              <i class="fa fa-facebook"></i>
-            </a>
-          </li>
-          <li class="list-inline-item social-google-plus">
-            <a href="#">
-              <i class="fa fa-google-plus"></i>
-            </a>
-          </li>
-        </ul>
+      <div class="row">
+        <div class="col-lg-4 ml-auto text-center">
+          <i class="fa fa-phone fa-3x mb-3 sr-contact"></i>
+          <p>123-456-6789</p>
+        </div>
+        <div class="col-lg-4 mr-auto text-center">
+          <i class="fa fa-envelope-o fa-3x mb-3 sr-contact"></i>
+          <p>
+            <a href="mailto:your-email@your-domain.com">feedback@startbootstrap.com</a>
+          </p>
+        </div>
       </div>
-    </section>
+    </div>
+  </section>
 
-    <footer>
-      <div class="container">
-        <p>&copy; 2017 Start Bootstrap. All Rights Reserved.</p>
-        <ul class="list-inline">
-          <li class="list-inline-item">
-            <a href="#">Privacy</a>
-          </li>
-          <li class="list-inline-item">
-            <a href="#">Terms</a>
-          </li>
-          <li class="list-inline-item">
-            <a href="#">FAQ</a>
-          </li>
-        </ul>
-      </div>
-    </footer>
+  <!-- Bootstrap core JavaScript -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
-    <!-- Bootstrap core JavaScript -->
-    <script src="assets/vendor/jquery/jquery.min.js"></script>
-    <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <!-- Plugin JavaScript -->
+  <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+  <script src="vendor/scrollreveal/scrollreveal.min.js"></script>
+  <script src="vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
 
-    <!-- Plugin JavaScript -->
-    <script src="assets/vendor/jquery-easing/jquery.easing.min.js"></script>
+  <!-- Custom scripts for this template -->
+  <script src="js/creative.min.js"></script>
+  <script type="text/javascript" src="js/plotlyjs-bundle.js"></script>
+  <script type="text/javascript" src="js/figure.js"></script>
 
-    <!-- Custom scripts for this template -->
-    <script src="assets/js/new-age.min.js"></script>
+  <script src="https://unpkg.com/leaflet@1.2.0/dist/leaflet.js"></script>
+  <script src="js/map.js"></script>
+  <script src="js/traffic.js"></script>
+  <script src="js/bikes.js"></script>
+  <script src="js/nachhaltigkeitsmap.js"></script>
 
-  </body>
+  <script src="vendor/geotiff/geotiff.browserify.min.js"></script>
+  <script src="vendor/geotiff/plotty.min.js"></script>
+  <script src="vendor/geotiff/leaflet-geotiff.js"></script>
+  <script src="js/spielplaetze.js"></script>
+
+
+
+</body>
 
 </html>

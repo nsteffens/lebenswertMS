@@ -1,0 +1,18 @@
+#map {
+    height: 100px;
+}
+
+.motivation {
+    background: #ee4928ce!important;
+    padding: 30px;
+    border-radius: 10px;
+    color: white;
+}
+
+.text-dark {
+    color: #212529 !important;
+}
+
+.drag.nsewdrag.cursor-ew-resize{
+    fill: #f06041 !important;
+}
