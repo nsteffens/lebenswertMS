@@ -29,9 +29,9 @@
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.2.0/dist/leaflet.css" integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ=="
     crossorigin="" />
 
-    <link href="css/style.css" rel="stylesheet">
+  <link href="css/style.css" rel="stylesheet">
 
-  </head>
+</head>
 
 <body id="page-top">
 
@@ -62,21 +62,22 @@
     </div>
   </nav>
 
-    <header class="masthead text-center text-white d-flex">
-      <div class="container my-auto">
-        <div class="row">
-          <div class="col-lg-10 mx-auto">
-            <h1 class="text-uppercase">
-              <strong>⭐️ Make Münster Lebenswert Again ⭐️</strong>
-            </h1>
-            <hr>
-          </div>
-          <div class="col-lg-8 mx-auto">
-            <h3 class="text-faded mb-5 motivation">2004 wurde Münster zur <span style="background: black; padding-left: 3px; padding-right: 3px;">Lebenswertesten Stadt der Welt</span> gewählt. Wie sieht es heute aus?</h3>
-            <a class="btn btn-primary btn-xl js-scroll-trigger" href="#history">Finde es heraus!</a>
-          </div>
+  <header class="masthead text-center text-white d-flex">
+    <div class="container my-auto">
+      <div class="row">
+        <div class="col-lg-10 mx-auto">
+          <h1 class="text-uppercase">
+            <strong>⭐️ Make Münster Lebenswert Again ⭐️</strong>
+          </h1>
+          <hr>
+        </div>
+        <div class="col-lg-8 mx-auto">
+          <h3 class="text-faded mb-5 motivation">2004 wurde Münster zur
+            <span style="background: black; padding-left: 3px; padding-right: 3px;">Lebenswertesten Stadt der Welt</span> gewählt. Wie sieht es heute aus?</h3>
+          <a class="btn btn-primary btn-xl js-scroll-trigger" href="#history">Finde es heraus!</a>
         </div>
       </div>
+    </div>
     </div>
   </header>
 
@@ -84,7 +85,8 @@
   <section class="bg-primary" id="history">
     <div class="container text-center text-white">
       <h1 class="text-uppercase">Historie</h1>
-      <p class="text">Über XXX denkmalgeschützte Gebäude in Münster</p>
+      <h3 class="text-dark">Über
+        <strong>130</strong> denkmalgeschützte Gebäude in Münster</h3>
       <div id="map" class="map" style='width: 100%; height: 500px;'></div>
     </div>
   </section>
@@ -92,8 +94,8 @@
   <section id="umwelt">
     <div class="container text-center">
       <h1 class="text-uppercase">Umwelt & Landschaft</h1>
-      <p class="text-muted mb-0">Verkehrsaufkommen und Feinstaubbelastung</p>
-        <div id="7a890b6b-d03f-489b-8f5c-8145ff162db9" style="width: 100%; height: 100%;" class="plotly-graph-div"></div>
+      <h3 class="text-muted mb-0">Verkehrsaufkommen und Feinstaubbelastung</h3>
+      <div id="7a890b6b-d03f-489b-8f5c-8145ff162db9" style="width: 100%; height: 100%;" class="plotly-graph-div"></div>
     </div>
   </section>
 
@@ -101,52 +103,55 @@
   <!-- Nachhaltigkeitskarte -->
   <section class="bg-primary" id="nachhaltigkeit">
     <div class="container text-center">
-      <h1 class="text-uppercase">Nachhaltig</h1>
-      <p class="text-muted">Initiativen, Projekte und Aktionen zum Thema Nachhaltigkeit</p>
+      <h1 class="text-uppercase text-white">Nachhaltig</h1>
+      <h3 class="text-dark">Initiativen, Projekte und Aktionen zum Thema Nachhaltigkeit</h3>
       <div id="nachhaltigkeits_map" class="map" style="width: 100%; height: 500px;"></div>
     </div>
   </section>
 
   <!-- Fahrrad-Graph -->
-  <section id="bikes" style="padding-top: 0;">
+  <section id="bikes" style="padding-top: 0;" class="bg-primary">
     <div class="container text-center">
-      <h1 class="text-uppercase">Innovativ</h1>
-      <p class="text-muted mb-0">Messungen der Fahrradfahrten</p>
+      <h1 class="text-uppercase text-white">Innovativ</h1>
+      <p class="text-dark">Messungen der Fahrradfahrten</p>
       <div id="6c46634c-9c93-4f0e-824b-31e799b7ffd0" style="width: 100%; height: 100%;" class="plotly-graph-div"></div>
     </div>
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-3 col-md-6 text-center">
-          <div class="service-box mt-5 mx-auto">
-            <i class="fa fa-4x fa-diamond text-primary mb-3 sr-icons"></i>
-            <h3 class="mb-3">Sturdy Templates</h3>
-            <p class="text-muted mb-0">Our templates are updated regularly so they don't break.</p>
-          </div>
+  </section>
+
+  <!-- Die icons unten -->
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-3 col-md-6 text-center">
+        <div class="service-box mt-5 mx-auto">
+          <i class="fa fa-4x fa-diamond text-primary mb-3 sr-icons"></i>
+          <h3 class="mb-3">Sturdy Templates</h3>
+          <p class="text-muted mb-0">Our templates are updated regularly so they don't break.</p>
         </div>
-        <div class="col-lg-3 col-md-6 text-center">
-          <div class="service-box mt-5 mx-auto">
-            <i class="fa fa-4x fa-paper-plane text-primary mb-3 sr-icons"></i>
-            <h3 class="mb-3">Ready to Ship</h3>
-            <p class="text-muted mb-0">You can use this theme as is, or you can make changes!</p>
-          </div>
+      </div>
+      <div class="col-lg-3 col-md-6 text-center">
+        <div class="service-box mt-5 mx-auto">
+          <i class="fa fa-4x fa-paper-plane text-primary mb-3 sr-icons"></i>
+          <h3 class="mb-3">Ready to Ship</h3>
+          <p class="text-muted mb-0">You can use this theme as is, or you can make changes!</p>
         </div>
-        <div class="col-lg-3 col-md-6 text-center">
-          <div class="service-box mt-5 mx-auto">
-            <i class="fa fa-4x fa-newspaper-o text-primary mb-3 sr-icons"></i>
-            <h3 class="mb-3">Up to Date</h3>
-            <p class="text-muted mb-0">We update dependencies to keep things fresh.</p>
-          </div>
+      </div>
+      <div class="col-lg-3 col-md-6 text-center">
+        <div class="service-box mt-5 mx-auto">
+          <i class="fa fa-4x fa-newspaper-o text-primary mb-3 sr-icons"></i>
+          <h3 class="mb-3">Up to Date</h3>
+          <p class="text-muted mb-0">We update dependencies to keep things fresh.</p>
         </div>
-        <div class="col-lg-3 col-md-6 text-center">
-          <div class="service-box mt-5 mx-auto">
-            <i class="fa fa-4x fa-heart text-primary mb-3 sr-icons"></i>
-            <h3 class="mb-3">Made with Love</h3>
-            <p class="text-muted mb-0">You have to make your websites with love these days!</p>
-          </div>
+      </div>
+      <div class="col-lg-3 col-md-6 text-center">
+        <div class="service-box mt-5 mx-auto">
+          <i class="fa fa-4x fa-heart text-primary mb-3 sr-icons"></i>
+          <h3 class="mb-3">Made with Love</h3>
+          <p class="text-muted mb-0">You have to make your websites with love these days!</p>
         </div>
       </div>
     </div>
-  </section>
+  </div>
+
 
   <section class="p-0" id="portfolio">
     <div class="container-fluid p-0">
