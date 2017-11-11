@@ -16,14 +16,18 @@ $.getJSON('/data/nachhaltigkeit.json', (data) => {
     sust_ms = data;
     console.log(sust_ms)
 
-    const map = new L.map('nachhaltigkeits_map').setView([51.964711, 7.628496], 12);
+    const nachhaltigkeitsMap = new L.map('nachhaltigkeits_map', {
+        scrollWheelZoom: false        
+    }).setView([51.964711, 7.628496], 12);
+
+    nachhaltigkeitsMap.once('focus', function() { nachhaltigkeitsMap.scrollWheelZoom.enable(); });    
 
     const basemap = L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
         attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
         maxZoom: 18,
         id: 'mapbox.streets',
         accessToken: accessToken
-    }).addTo(map);
+    }).addTo(nachhaltigkeitsMap);
 
 
     let sust_ms_collection = {
@@ -45,5 +49,5 @@ $.getJSON('/data/nachhaltigkeit.json', (data) => {
         onEachFeature: function (feature, layer) {
             layer.bindPopup(feature.properties.title);
         }
-    }).addTo(map);
+    }).addTo(nachhaltigkeitsMap);
 });
